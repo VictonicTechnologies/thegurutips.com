@@ -1,50 +1,50 @@
 [
   {
-    id: 1,
-    homeTeam: "Chelsea",
-    awayTeam: "Tottenham",
-    date: "2024-03-21",
-    time: "19:45",
-    insight: "Chelsea Draw No Bet",
-    odds: "1.95",
-    confidence: "89%",
-    analysis: "Chelsea's strong home record against Spurs",
-    bookmaker: {
-      name: "Bet365",
-      logo: "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
-      link: "https://www.bet365.com"
+    "id": 1,
+    "homeTeam": "Chelsea",
+    "awayTeam": "Tottenham",
+    "date": "2024-03-21",
+    "time": "19:45",
+    "insight": "Chelsea Draw No Bet",
+    "odds": "1.95",
+    "confidence": "89%",
+    "analysis": "Chelsea's strong home record against Spurs",
+    "bookmaker": {
+      "name": "Bet365",
+      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "link": "https://www.bet365.com"
     }
   },
   {
-    id: 2,
-    homeTeam: "Juventus",
-    awayTeam: "Napoli",
-    date: "2024-03-21",
-    time: "20:00",
-    insight: "Under 2.5 Goals",
-    odds: "1.85",
-    confidence: "87%",
-    analysis: "Both teams showing defensive stability",
-    bookmaker: {
-      name: "1xBet",
-      logo: "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
-      link: "https://www.1xbet.com"
+    "id": 2,
+    "homeTeam": "Juventus",
+    "awayTeam": "Napoli",
+    "date": "2024-03-21",
+    "time": "20:00",
+    "insight": "Under 2.5 Goals",
+    "odds": "1.85",
+    "confidence": "87%",
+    "analysis": "Both teams showing defensive stability",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "link": "https://www.1xbet.com"
     }
   },
   {
-    id: 3,
-    homeTeam: "Dortmund",
-    awayTeam: "RB Leipzig",
-    date: "2024-03-21",
-    time: "19:30",
-    insight: "Both Teams to Score",
-    odds: "1.75",
-    confidence: "88%",
-    analysis: "High-scoring history in recent meetings",
-    bookmaker: {
-      name: "Betway",
-      logo: "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
-      link: "https://www.betway.com"
+    "id": 3,
+    "homeTeam": "Dortmund",
+    "awayTeam": "RB Leipzig",
+    "date": "2024-03-21",
+    "time": "19:30",
+    "insight": "Both Teams to Score",
+    "odds": "1.75",
+    "confidence": "88%",
+    "analysis": "High-scoring history in recent meetings",
+    "bookmaker": {
+      "name": "Betway",
+      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "link": "https://www.betway.com"
     }
   }
 ]
