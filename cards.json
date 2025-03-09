@@ -1,64 +1,64 @@
 [
-    {
-      title: "Free Analysis",
-      price: "Free",
-      period: "Forever",
-      description: "Access daily sports insights with proven 80%+ accuracy rate. Updated every morning!",
-      features: [
-        "1 insight per day",
-        "Basic analysis",
-        "Community access"
-      ],
-      icon: Trophy,
-      href: "/free-predictions",
-      color: "bg-emerald-500",
-      buttonText: "Get Free Analysis",
+  {
+    "title": "Free Analysis",
+    "price": "Free",
+    "period": "Forever",
+    "description": "Access daily sports insights with proven 80%+ accuracy rate. Updated every morning!",
+    "features": [
+      "1 insight per day",
+      "Basic analysis",
+      "Community access"
+    ],
+    "icon": "Trophy",
+    "href": "/free-predictions",
+    "color": "bg-emerald-500",
+    "buttonText": "Get Free Analysis"
+  },
+  {
+    "title": "Basic Analysis",
+    "price": "$29",
+    "period": "per month",
+    "description": "Unlock 50+ premium insights monthly, including expert analysis and detailed statistics",
+    "features": [
+      "50+ insights monthly",
+      "Expert analysis",
+      "Private chat support",
+      "Success probability ratings"
+    ],
+    "icon": "Star",
+    "href": {
+      "pathname": "/basic-predictions",
+      "query": { "price": "$29", "period": "per month" }
     },
-    {
-      title: "Basic Analysis",
-      price: "$29",
-      period: "per month",
-      description: "Unlock 50+ premium insights monthly, including expert analysis and detailed statistics",
-      features: [
-        "50+ insights monthly",
-        "Expert analysis",
-        "Private chat support",
-        "Success probability ratings"
-      ],
-      icon: Star,
-      href: {
-        pathname: "/basic-predictions",
-        query: { price: "$29", period: "per month" }
-      },
-      color: "bg-blue-500",
-      buttonText: "View Basic Analysis",
+    "color": "bg-blue-500",
+    "buttonText": "View Basic Analysis"
+  },
+  {
+    "title": "VIP Analysis",
+    "price": "$99",
+    "period": "per month",
+    "description": "Elite insights with 95%+ success rate, live analysis, and personal consultation",
+    "features": [
+      "Unlimited insights",
+      "1-on-1 consultation",
+      "Live match analysis",
+      "Priority support",
+      "Satisfaction guarantee"
+    ],
+    "icon": "Crown",
+    "href": {
+      "pathname": "/premium-predictions",
+      "query": { "price": "$99", "period": "per month" }
     },
-    {
-      title: "VIP Analysis",
-      price: "$99",
-      period: "per month",
-      description: "Elite insights with 95%+ success rate, live analysis, and personal consultation",
-      features: [
-        "Unlimited insights",
-        "1-on-1 consultation",
-        "Live match analysis",
-        "Priority support",
-        "Satisfaction guarantee"
-      ],
-      icon: Crown,
-      href: {
-        pathname: "/premium-predictions",
-        query: { price: "$99", period: "per month" }
-      },
-      color: "bg-purple-500",
-      buttonText: "Upgrade to VIP",
-    },
-    {
-      title: "Success History",
-      description: "Browse our impressive track record with verified results and testimonials",
-      icon: History,
-      href: "/results",
-      color: "bg-gray-500",
-      buttonText: "View Results",
-    },
-  ]
+    "color": "bg-purple-500",
+    "buttonText": "Upgrade to VIP"
+  },
+  {
+    "title": "Success History",
+    "description": "Browse our impressive track record with verified results and testimonials",
+    "icon": "History",
+    "href": "/results",
+    "color": "bg-gray-500",
+    "buttonText": "View Results"
+  }
+]
