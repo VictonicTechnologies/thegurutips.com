@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "homeTeam": "Liverpool",
+    "awayTeam": "Manchester City",
+    "date": "2024-03-21",
+    "time": "20:45",
+    "insight": "Over 3.5 Goals & BTTS",
+    "odds": "2.45",
+    "confidence": "97%",
+    "analysis": "Based on recent head-to-head statistics and current form",
+    "bookmaker": {
+      "name": "Bet365",
+      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "link": "https://www.bet365.com"
+    }
+  },
+  {
+    "id": 2,
+    "homeTeam": "PSG",
+    "awayTeam": "Bayern Munich",
+    "date": "2024-03-21",
+    "time": "21:00",
+    "insight": "PSG to Win & Over 2.5",
+    "odds": "2.10",
+    "confidence": "95%",
+    "analysis": "Strong home record and key players returning from injury",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 3,
+    "homeTeam": "AC Milan",
+    "awayTeam": "Inter Milan",
+    "date": "2024-03-21",
+    "time": "20:30",
+    "insight": "Draw & Under 2.5",
+    "odds": "3.20",
+    "confidence": "96%",
+    "analysis": "Derby matches historically tight, both teams in good defensive form",
+    "bookmaker": {
+      "name": "Betway",
+      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "link": "https://www.betway.com"
+    }
+  }
+]
