@@ -1,0 +1,71 @@
+[
+  {
+    "date": "March 21, 2024",
+    "matches": [
+      {
+        "id": 1,
+        "homeTeam": "Manchester United",
+        "awayTeam": "Arsenal",
+        "insight": "Over 2.5 Goals",
+        "result": "success",
+        "score": "3-2",
+        "analysis": "Match exceeded the predicted goal count"
+      },
+      {
+        "id": 2,
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Barcelona",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Both teams scored as predicted"
+      }
+    ]
+  },
+  {
+    "date": "March 20, 2024",
+    "matches": [
+      {
+        "id": 3,
+        "homeTeam": "Bayern Munich",
+        "awayTeam": "Dortmund",
+        "insight": "Bayern Munich to Win",
+        "result": "success",
+        "score": "3-0",
+        "analysis": "Dominant performance by Bayern"
+      },
+      {
+        "id": 4,
+        "homeTeam": "PSG",
+        "awayTeam": "Lyon",
+        "insight": "Over 1.5 Goals",
+        "result": "failure",
+        "score": "1-0",
+        "analysis": "Low scoring match against expectations"
+      }
+    ]
+  },
+  {
+    "date": "March 19, 2024",
+    "matches": [
+      {
+        "id": 5,
+        "homeTeam": "Liverpool",
+        "awayTeam": "Newcastle",
+        "insight": "Liverpool to Win",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Liverpool controlled the game throughout"
+      },
+      {
+        "id": 6,
+        "homeTeam": "Inter Milan",
+        "awayTeam": "AC Milan",
+        "insight": "Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Tight derby match as predicted"
+      }
+    ]
+  }
+]
