@@ -1,0 +1,47 @@
+[
+  {
+    id: 1,
+    homeTeam: "Manchester United",
+    awayTeam: "Arsenal",
+    date: "2024-03-20",
+    time: "20:45",
+    insight: "Over 2.5 Goals",
+    odds: "1.85",
+    confidence: "95%",
+    bookmaker: {
+      name: "Bet365",
+      logo: "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      link: "https://www.bet365.com"
+    }
+  },
+  {
+    id: 2,
+    homeTeam: "Real Madrid",
+    awayTeam: "Barcelona",
+    date: "2024-03-20",
+    time: "21:00",
+    insight: "Both Teams to Score",
+    odds: "1.75",
+    confidence: "90%",
+    bookmaker: {
+      name: "1xBet",
+      logo: "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      link: "https://www.1xbet.com"
+    }
+  },
+  {
+    id: 3,
+    homeTeam: "Bayern Munich",
+    awayTeam: "Borussia Dortmund",
+    date: "2024-03-20",
+    time: "19:30",
+    insight: "Bayern Munich to Win",
+    odds: "1.90",
+    confidence: "93%",
+    bookmaker: {
+      name: "Betway",
+      logo: "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      link: "https://www.betway.com"
+    }
+  }
+]
