@@ -16,11 +16,11 @@
   },
   {
     "title": "Basic Analysis",
-    "price": "$29",
-    "period": "per month",
-    "description": "Unlock 50+ premium insights monthly, including expert analysis and detailed statistics",
+    "price": "Ksh 250",
+    "period": "per day",
+    "description": "Unlock 10+ premium insights daily, including expert analysis and detailed statistics",
     "features": [
-      "50+ insights monthly",
+      "10+ insights daily",
       "Expert analysis",
       "Private chat support",
       "Success probability ratings"
@@ -28,15 +28,15 @@
     "icon": "Star",
     "href": {
       "pathname": "/basic-predictions",
-      "query": { "price": "$29", "period": "per month" }
+      "query": { "price": "Ksh 250", "period": "per day" }
     },
     "color": "bg-blue-500",
     "buttonText": "View Basic Analysis"
   },
   {
     "title": "VIP Analysis",
-    "price": "$99",
-    "period": "per month",
+    "price": "Ksh 500",
+    "period": "per day",
     "description": "Elite insights with 95%+ success rate, live analysis, and personal consultation",
     "features": [
       "Unlimited insights",
@@ -48,7 +48,7 @@
     "icon": "Crown",
     "href": {
       "pathname": "/premium-predictions",
-      "query": { "price": "$99", "period": "per month" }
+      "query": { "price": "Ksh 500", "period": "per day" }
     },
     "color": "bg-purple-500",
     "buttonText": "Upgrade to VIP"
