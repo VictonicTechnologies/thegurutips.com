@@ -15,38 +15,39 @@
     "buttonText": "Get Free Insights"
   },
   {
-    "title": "Pro Insights",
-    "price": "Ksh 250",
-    "period": "per day",
-    "description": "Unlock 10+ premium insights daily, featuring expert analysis and in-depth statistics.",
-    "features": [
-      "10+ insights daily",
-      "Expert-backed evaluations",
-      "Private chat support",
-      "Performance probability ratings"
-    ],
-    "icon": "Star",
-    "id": "basic-predictions",
-    "color": "bg-blue-500",
-    "buttonText": "View Pro Insights"
-  },
-  {
-    "title": "VIP Insights",
-    "price": "Ksh 500",
-    "period": "per day",
-    "description": "Exclusive data-driven insights, real-time updates, and personalized consultations.",
-    "features": [
-      "Unlimited insights",
-      "1-on-1 expert consultation",
-      "Live event analysis",
-      "Priority support",
-      "Customer satisfaction guarantee"
-    ],
-    "icon": "Crown",
-    "id": "premium-predictions",
-    "color": "bg-purple-500",
-    "buttonText": "Upgrade to VIP"
-  },
+  "title": "Pro Insights",
+  "price": "Ksh 250",
+  "period": "per day",
+  "description": "Unlock 10+ premium insights daily, featuring expert analysis and in-depth performance trends.",
+  "features": [
+    "10+ expert insights daily",
+    "Advanced match evaluations",
+    "Winning trend analysis",
+    "High-confidence performance indicators",
+    "Strategic match breakdowns"
+  ],
+  "icon": "Star",
+  "id": "basic-predictions",
+  "color": "bg-blue-500",
+  "buttonText": "View Pro Insights"
+},
+{
+  "title": "VIP Insights",
+  "price": "Ksh 500",
+  "period": "per day",
+  "description": "Gain exclusive expert-driven insights, data-backed performance analysis, and strategic recommendations.",
+  "features": [
+    "Unlimited expert insights",
+    "Deep statistical analysis",
+    "Winning strategy recommendations",
+    "High-accuracy performance trends",
+    "Game-changing tactical breakdowns"
+  ],
+  "icon": "Crown",
+  "id": "premium-predictions",
+  "color": "bg-purple-500",
+  "buttonText": "Upgrade to VIP"
+},
   {
     "title": "Performance History",
     "description": "Explore our past analytical reports with verified data and client feedback.",
