@@ -10,7 +10,7 @@
       "Community access"
     ],
     "icon": "Trophy",
-    "href": "/free-predictions",
+    "id": "free-predictions",
     "color": "bg-emerald-500",
     "buttonText": "Get Free Analysis"
   },
@@ -26,10 +26,7 @@
       "Success probability ratings"
     ],
     "icon": "Star",
-    "href": {
-      "pathname": "/basic-predictions",
-      "query": { "price": "Ksh 250", "period": "per day" }
-    },
+    "id": "basic-predictions",
     "color": "bg-blue-500",
     "buttonText": "View Basic Analysis"
   },
@@ -46,10 +43,7 @@
       "Satisfaction guarantee"
     ],
     "icon": "Crown",
-    "href": {
-      "pathname": "/premium-predictions",
-      "query": { "price": "Ksh 500", "period": "per day" }
-    },
+    "id": "premium-predictions",
     "color": "bg-purple-500",
     "buttonText": "Upgrade to VIP"
   },
@@ -57,7 +51,7 @@
     "title": "Success History",
     "description": "Browse our impressive track record with verified results and testimonials",
     "icon": "History",
-    "href": "/results",
+    "id": "results",
     "color": "bg-gray-500",
     "buttonText": "View Results"
   }
