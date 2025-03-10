@@ -1,50 +1,162 @@
 [
   {
     "id": 1,
-    "homeTeam": "Chelsea",
-    "awayTeam": "Tottenham",
-    "date": "2024-03-21",
+    "homeTeam": "Burnley",
+    "awayTeam": "West Bromwich Albion",
+    "date": "2025-03-11",
     "time": "19:45",
-    "insight": "Chelsea Draw No Bet",
-    "odds": "1.95",
-    "confidence": "89%",
-    "analysis": "Chelsea's strong home record against Spurs",
+    "insight": "Burnley to Win & Over 2.5 Goals",
+    "odds": "2.20",
+    "confidence": "90%",
+    "analysis": "Burnley's strong home form and West Brom's defensive vulnerabilities suggest a high-scoring home victory.",
     "bookmaker": {
-      "name": "Bet365",
-      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
-      "link": "https://www.bet365.com"
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
     }
   },
   {
     "id": 2,
-    "homeTeam": "Juventus",
-    "awayTeam": "Napoli",
-    "date": "2024-03-21",
-    "time": "20:00",
-    "insight": "Under 2.5 Goals",
-    "odds": "1.85",
-    "confidence": "87%",
-    "analysis": "Both teams showing defensive stability",
+    "homeTeam": "Cardiff City",
+    "awayTeam": "Luton Town",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Draw & Under 2.5 Goals",
+    "odds": "3.10",
+    "confidence": "85%",
+    "analysis": "Both teams have been evenly matched recently, likely leading to a low-scoring draw.",
     "bookmaker": {
       "name": "1xBet",
-      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
       "link": "https://www.1xbet.com"
     }
   },
   {
     "id": 3,
-    "homeTeam": "Dortmund",
-    "awayTeam": "RB Leipzig",
-    "date": "2024-03-21",
-    "time": "19:30",
-    "insight": "Both Teams to Score",
-    "odds": "1.75",
+    "homeTeam": "Derby County",
+    "awayTeam": "Coventry City",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Derby County to Win & Both Teams to Score",
+    "odds": "2.50",
     "confidence": "88%",
-    "analysis": "High-scoring history in recent meetings",
+    "analysis": "Derby's attacking prowess at home combined with Coventry's inconsistent defense points to a home win with goals at both ends.",
     "bookmaker": {
-      "name": "Betway",
-      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
-      "link": "https://www.betway.com"
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 4,
+    "homeTeam": "Middlesbrough",
+    "awayTeam": "Queens Park Rangers",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Middlesbrough to Win & Over 1.5 Goals",
+    "odds": "1.80",
+    "confidence": "92%",
+    "analysis": "Middlesbrough's solid home performances suggest a comfortable win with at least two goals scored.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 5,
+    "homeTeam": "Norwich City",
+    "awayTeam": "Sheffield Wednesday",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Norwich City to Win & Clean Sheet",
+    "odds": "2.00",
+    "confidence": "89%",
+    "analysis": "Norwich's strong defensive record at home indicates a likely win without conceding.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 6,
+    "homeTeam": "Sunderland",
+    "awayTeam": "Preston North End",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Sunderland to Win & Over 2.5 Goals",
+    "odds": "2.30",
+    "confidence": "87%",
+    "analysis": "Sunderland's attacking style at home suggests a high-scoring victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 7,
+    "homeTeam": "Sheffield United",
+    "awayTeam": "Bristol City",
+    "date": "2025-03-11",
+    "time": "20:00",
+    "insight": "Sheffield United to Win & Both Teams to Score",
+    "odds": "2.60",
+    "confidence": "86%",
+    "analysis": "Sheffield United's home advantage coupled with both teams' attacking tendencies points to a home win with goals from both sides.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 8,
+    "homeTeam": "Jeonbuk Hyundai Motors",
+    "awayTeam": "Sydney FC",
+    "date": "2025-03-11",
+    "time": "12:00",
+    "insight": "Sydney FC to Win & Over 2.5 Goals",
+    "odds": "2.30",
+    "confidence": "88%",
+    "analysis": "Sydney FC's strong performance in the first leg positions them well for a victory, likely with multiple goals scored.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 9,
+    "homeTeam": "Esteghlal",
+    "awayTeam": "Al-Nassr",
+    "date": "2025-03-11",
+    "time": "14:30",
+    "insight": "Al-Nassr to Win & Both Teams to Score",
+    "odds": "2.50",
+    "confidence": "85%",
+    "analysis": "Al-Nassr's attacking strength, bolstered by Cristiano Ronaldo, suggests a win with goals from both sides.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 10,
+    "homeTeam": "Al-Hilal",
+    "awayTeam": "Pakhtakor",
+    "date": "2025-03-11",
+    "time": "18:00",
+    "insight": "Al-Hilal to Win & Clean Sheet",
+    "odds": "1.80",
+    "confidence": "90%",
+    "analysis": "Al-Hilal's dominant home record points to a shutout victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
     }
   }
 ]
