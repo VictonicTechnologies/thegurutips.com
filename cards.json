@@ -3,11 +3,11 @@
     "title": "Free Insights",
     "price": "Free",
     "period": "Forever",
-    "description": "Access daily sports data-driven insights with a strong track record. Updated every morning!",
+    "description": "Access daily football data-driven insights with a strong track record. Updated every morning!",
     "features": [
       "1 insight per day",
       "Basic statistical breakdown",
-      "Community access"
+      "Historical performance trends"
     ],
     "icon": "Trophy",
     "id": "free-analysis",
@@ -15,42 +15,42 @@
     "buttonText": "Get Free Insights"
   },
   {
-  "title": "Pro Insights",
-  "price": "Ksh 250",
-  "period": "per day",
-  "description": "Unlock 10+ premium insights daily, featuring expert analysis and in-depth performance trends.",
-  "features": [
-    "10+ expert insights daily",
-    "Advanced match evaluations",
-    "Winning trend analysis",
-    "High-confidence performance indicators",
-    "Strategic match breakdowns"
-  ],
-  "icon": "Star",
-  "id": "basic-predictions",
-  "color": "bg-blue-500",
-  "buttonText": "View Pro Insights"
-},
-{
-  "title": "VIP Insights",
-  "price": "Ksh 500",
-  "period": "per day",
-  "description": "Gain exclusive expert-driven insights, data-backed performance analysis, and strategic recommendations.",
-  "features": [
-    "Unlimited expert insights",
-    "Deep statistical analysis",
-    "Winning strategy recommendations",
-    "High-accuracy performance trends",
-    "Game-changing tactical breakdowns"
-  ],
-  "icon": "Crown",
-  "id": "premium-predictions",
-  "color": "bg-purple-500",
-  "buttonText": "Upgrade to VIP"
-},
+    "title": "Pro Insights",
+    "price": "Ksh 250",
+    "period": "per day",
+    "description": "Unlock 10+ premium insights daily, featuring expert analysis and data-backed performance trends.",
+    "features": [
+      "10+ expert insights daily",
+      "Advanced match evaluations",
+      "Consistent performance trends",
+      "Verified historical data",
+      "High-accuracy event analysis"
+    ],
+    "icon": "Star",
+    "id": "basic-predictions",
+    "color": "bg-blue-500",
+    "buttonText": "View Pro Insights"
+  },
+  {
+    "title": "VIP Insights",
+    "price": "Ksh 500",
+    "period": "per day",
+    "description": "Gain exclusive expert-driven insights, in-depth data analysis, and premium football performance trends.",
+    "features": [
+      "20+ expert insights",
+      "Deep statistical analysis",
+      "Guaranteed high-accuracy insights",
+      "Verified outcome patterns",
+      "Exclusive historical data access"
+    ],
+    "icon": "Crown",
+    "id": "premium-predictions",
+    "color": "bg-purple-500",
+    "buttonText": "Upgrade to VIP"
+  },
   {
     "title": "Performance History",
-    "description": "Explore our past analytical reports with verified data and client feedback.",
+    "description": "Explore our past analytical reports with verified data and historical insights.",
     "icon": "History",
     "id": "results",
     "color": "bg-gray-500",
