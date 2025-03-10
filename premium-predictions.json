@@ -1,50 +1,337 @@
 [
   {
-    "id": 1,
-    "homeTeam": "Liverpool",
-    "awayTeam": "Manchester City",
-    "date": "2024-03-21",
-    "time": "20:45",
-    "insight": "Over 3.5 Goals & BTTS",
-    "odds": "2.45",
-    "confidence": "97%",
-    "analysis": "Based on recent head-to-head statistics and current form",
-    "bookmaker": {
-      "name": "Bet365",
-      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
-      "link": "https://www.bet365.com"
-    }
-  },
-  {
-    "id": 2,
-    "homeTeam": "PSG",
-    "awayTeam": "Bayern Munich",
-    "date": "2024-03-21",
-    "time": "21:00",
-    "insight": "PSG to Win & Over 2.5",
-    "odds": "2.10",
-    "confidence": "95%",
-    "analysis": "Strong home record and key players returning from injury",
+    "id": 11,
+    "homeTeam": "FC Bentonit",
+    "awayTeam": "Pyunik Yerevan II",
+    "date": "2025-03-11",
+    "time": "04:00",
+    "insight": "Over 2.5 Goals & Both Teams to Score",
+    "odds": "2.30",
+    "confidence": "88%",
+    "analysis": "Both teams have shown attacking intent this season, suggesting a high-scoring game.",
     "bookmaker": {
       "name": "1xBet",
-      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
       "link": "https://www.1xbet.com"
     }
   },
   {
-    "id": 3,
-    "homeTeam": "AC Milan",
-    "awayTeam": "Inter Milan",
-    "date": "2024-03-21",
-    "time": "20:30",
-    "insight": "Draw & Under 2.5",
+    "id": 12,
+    "homeTeam": "BKMA",
+    "awayTeam": "Ararat-Armenia II",
+    "date": "2025-03-11",
+    "time": "04:00",
+    "insight": "Draw & Under 2.5 Goals",
     "odds": "3.20",
-    "confidence": "96%",
-    "analysis": "Derby matches historically tight, both teams in good defensive form",
+    "confidence": "85%",
+    "analysis": "Both teams have had closely contested matches, with a tendency for low-scoring draws.",
     "bookmaker": {
-      "name": "Betway",
-      "logo": "https://images.unsplash.com/photo-1633867179970-c54688aee05d?w=64&h=64&fit=crop&auto=format",
-      "link": "https://www.betway.com"
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 13,
+    "homeTeam": "Urartu II",
+    "awayTeam": "Shirak Gyumri II",
+    "date": "2025-03-11",
+    "time": "04:30",
+    "insight": "Urartu II to Win & Clean Sheet",
+    "odds": "1.80",
+    "confidence": "90%",
+    "analysis": "Urartu II's strong defense is expected to secure a shutout victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 14,
+    "homeTeam": "Independiente Rivadavia",
+    "awayTeam": "Unión (Santa Fe)",
+    "date": "2025-03-11",
+    "time": "20:15",
+    "insight": "Independiente Rivadavia to Win & Over 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "85%",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 15,
+    "homeTeam": "Talleres (Córdoba)",
+    "awayTeam": "Rosario Central",
+    "date": "2025-03-11",
+    "time": "20:15",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "1.95",
+    "confidence": "80%",
+    "analysis": "Both teams have attacking strengths, likely leading to a high-scoring draw.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 16,
+    "homeTeam": "KF Tirana",
+    "awayTeam": "Vllaznia",
+    "date": "2025-03-11",
+    "time": "08:30",
+    "insight": "Over 2.5 Goals & BTTS",
+    "odds": "2.20",
+    "confidence": "90%",
+    "analysis": "Both teams have strong attacking records, suggesting a high-scoring game.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 17,
+    "homeTeam": "Partizani",
+    "awayTeam": "AF Elbasani",
+    "date": "2025-03-11",
+    "time": "17:00",
+    "insight": "Partizani to Win & Over 1.5",
+    "odds": "1.80",
+    "confidence": "85%",
+    "analysis": "Partizani's superior league position and home advantage favor them for a win.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 18,
+    "homeTeam": "FC Bentonit",
+    "awayTeam": "Pyunik Yerevan II",
+    "date": "2025-03-11",
+    "time": "11:00",
+    "insight": "Over 2.5 Goals & BTTS",
+    "odds": "2.30",
+    "confidence": "90%",
+    "analysis": "Both teams have shown attacking prowess in recent matches.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 19,
+    "homeTeam": "BKMA",
+    "awayTeam": "Ararat-Armenia II",
+    "date": "2025-03-11",
+    "time": "11:00",
+    "insight": "Draw & Under 2.5",
+    "odds": "3.10",
+    "confidence": "85%",
+    "analysis": "Both teams have had closely contested encounters historically.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 20,
+    "homeTeam": "Urartu II",
+    "awayTeam": "Shirak Gyumri II",
+    "date": "2025-03-11",
+    "time": "11:30",
+    "insight": "Urartu II to Win & Over 1.5",
+    "odds": "1.80",
+    "confidence": "88%",
+    "analysis": "Urartu II's superior form suggests a likely victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 21,
+    "homeTeam": "Operário",
+    "awayTeam": "Novorizontino",
+    "date": "2025-03-11",
+    "time": "22:00",
+    "insight": "Operário's strong home performance suggests a potential victory.",
+    "odds": "2.50",
+    "confidence": "85%",
+    "analysis": "Operário has shown consistent form at home, while Novorizontino has been less convincing away.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 22,
+    "homeTeam": "Remo",
+    "awayTeam": "Criciúma",
+    "date": "2025-03-11",
+    "time": "22:30",
+    "insight": "Criciúma's recent form gives them an edge in this matchup.",
+    "odds": "2.80",
+    "confidence": "80%",
+    "analysis": "Criciúma has been performing well recently, which may influence the outcome.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 23,
+    "homeTeam": "San Carlos FC",
+    "awayTeam": "Grecia",
+    "date": "2025-03-11",
+    "time": "13:00",
+    "insight": "San Carlos FC to Win",
+    "odds": "2.50",
+    "confidence": "85%",
+    "analysis": "San Carlos FC has been in strong form this season, with a solid home record.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 23,
+    "homeTeam": "AFC Wimbledon",
+    "awayTeam": "Notts County",
+    "date": "2025-03-11",
+    "time": "12:30",
+    "insight": "AFC Wimbledon to Win & Over 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "90%",
+    "analysis": "AFC Wimbledon has been in strong form recently, scoring multiple goals in their last few matches.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 24,
+    "homeTeam": "Walsall",
+    "awayTeam": "Grimsby Town",
+    "date": "2025-03-11",
+    "time": "12:30",
+    "insight": "Walsall to Win & Both Teams to Score",
+    "odds": "2.25",
+    "confidence": "85%",
+    "analysis": "Walsall has shown a strong attacking presence, and Grimsby Town often engages in high-scoring games.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 25,
+    "homeTeam": "Birmingham City",
+    "awayTeam": "Stevenage",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Birmingham City to Win & Over 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "90%",
+    "analysis": "Birmingham City's strong home form suggests a victory with multiple goals.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 26,
+    "homeTeam": "Bolton Wanderers",
+    "awayTeam": "Stockport County",
+    "date": "2025-03-11",
+    "time": "12:30",
+    "insight": "Bolton Wanderers to Win & Both Teams to Score",
+    "odds": "2.20",
+    "confidence": "85%",
+    "analysis": "Bolton's attacking play is likely to secure a win with goals from both sides.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 27,
+    "homeTeam": "Bristol Rovers",
+    "awayTeam": "Bolton Wanderers",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Draw & Under 2.5 Goals",
+    "odds": "3.00",
+    "confidence": "80%",
+    "analysis": "Both teams have shown defensive solidity, making a draw with few goals likely.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 28,
+    "homeTeam": "Chester",
+    "awayTeam": "Warrington Town",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Chester's strong home form suggests a potential victory.",
+    "odds": "2.30",
+    "confidence": "75%",
+    "analysis": "Chester has been performing well at home, while Warrington Town has shown inconsistency in away games.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 29,
+    "homeTeam": "Aveley",
+    "awayTeam": "Worthing",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Both teams have had mixed results recently; a draw is likely.",
+    "odds": "3.20",
+    "confidence": "60%",
+    "analysis": "Aveley and Worthing have both shown fluctuating performances, making this match unpredictable.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 30,
+    "homeTeam": "Chelmsford City",
+    "awayTeam": "St Albans City",
+    "date": "2025-03-11",
+    "time": "19:45",
+    "insight": "Chelmsford City to edge out a win due to better recent form.",
+    "odds": "2.50",
+    "confidence": "70%",
+    "analysis": "Chelmsford City's recent performances have been strong, giving them an advantage in this matchup.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
     }
   }
 ]
