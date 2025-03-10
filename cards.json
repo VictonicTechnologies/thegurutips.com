@@ -1,46 +1,46 @@
 [
   {
-    "title": "Free Analysis",
+    "title": "Free Insights",
     "price": "Free",
     "period": "Forever",
-    "description": "Access daily sports insights with proven 80%+ accuracy rate. Updated every morning!",
+    "description": "Access daily sports data-driven insights with a strong track record. Updated every morning!",
     "features": [
       "1 insight per day",
-      "Basic analysis",
+      "Basic statistical breakdown",
       "Community access"
     ],
     "icon": "Trophy",
     "id": "free-predictions",
     "color": "bg-emerald-500",
-    "buttonText": "Get Free Analysis"
+    "buttonText": "Get Free Insights"
   },
   {
-    "title": "Pro Analysis",
+    "title": "Pro Insights",
     "price": "Ksh 250",
     "period": "per day",
-    "description": "Unlock 10+ premium insights daily, including expert analysis and detailed statistics",
+    "description": "Unlock 10+ premium insights daily, featuring expert analysis and in-depth statistics.",
     "features": [
       "10+ insights daily",
-      "Expert analysis",
+      "Expert-backed evaluations",
       "Private chat support",
-      "Success probability ratings"
+      "Performance probability ratings"
     ],
     "icon": "Star",
     "id": "basic-predictions",
     "color": "bg-blue-500",
-    "buttonText": "View Basic Analysis"
+    "buttonText": "View Pro Insights"
   },
   {
-    "title": "VIP Analysis",
+    "title": "VIP Insights",
     "price": "Ksh 500",
     "period": "per day",
-    "description": "Elite insights with 95%+ success rate, live analysis, and personal consultation",
+    "description": "Exclusive data-driven insights, real-time updates, and personalized consultations.",
     "features": [
       "Unlimited insights",
-      "1-on-1 consultation",
-      "Live match analysis",
+      "1-on-1 expert consultation",
+      "Live event analysis",
       "Priority support",
-      "Satisfaction guarantee"
+      "Customer satisfaction guarantee"
     ],
     "icon": "Crown",
     "id": "premium-predictions",
@@ -48,11 +48,11 @@
     "buttonText": "Upgrade to VIP"
   },
   {
-    "title": "Success History",
-    "description": "Browse our impressive track record with verified results and testimonials",
+    "title": "Performance History",
+    "description": "Explore our past analytical reports with verified data and client feedback.",
     "icon": "History",
     "id": "results",
     "color": "bg-gray-500",
-    "buttonText": "View Results"
+    "buttonText": "View History"
   }
 ]
