@@ -1,71 +1,395 @@
 [
   {
-    "date": "March 21, 2024",
+    "date": "March 3, 2025",
     "matches": [
       {
         "id": 1,
-        "homeTeam": "Manchester United",
-        "awayTeam": "Arsenal",
-        "insight": "Over 2.5 Goals",
+        "homeTeam": "Nottingham Forest",
+        "awayTeam": "Ipswich Town",
+        "insight": "Nottingham Forest to Win",
         "result": "success",
-        "score": "3-2",
-        "analysis": "Match exceeded the predicted goal count"
+        "score": "1-1 (5-4 on penalties)",
+        "analysis": "Nottingham Forest advanced after a penalty shootout victory."
       },
       {
         "id": 2,
-        "homeTeam": "Real Madrid",
-        "awayTeam": "Barcelona",
+        "homeTeam": "Juventus",
+        "awayTeam": "Hellas Verona",
+        "insight": "Juventus to Win",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Juventus secured a comfortable home win."
+      },
+      {
+        "id": 3,
+        "homeTeam": "Sporting CP",
+        "awayTeam": "Estoril",
+        "insight": "Sporting CP to Win",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Sporting CP dominated the match with a convincing victory."
+      },
+      {
+        "id": 4,
+        "homeTeam": "Houston Dynamo FC",
+        "awayTeam": "Inter Miami CF",
+        "insight": "Inter Miami CF to Win",
+        "result": "success",
+        "score": "1-4",
+        "analysis": "Inter Miami CF showcased a strong offensive performance."
+      },
+      {
+        "id": 5,
+        "homeTeam": "Gaziantep FK",
+        "awayTeam": "Eyüpspor",
+        "insight": "Gaziantep FK to Win",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Gaziantep FK controlled the game and secured the win."
+      },
+      {
+        "id": 6,
+        "homeTeam": "Konyaspor",
+        "awayTeam": "Trabzonspor",
+        "insight": "Konyaspor to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Konyaspor edged out a narrow victory."
+      },
+      {
+        "id": 7,
+        "homeTeam": "Göztepe",
+        "awayTeam": "Samsunspor",
         "insight": "Both Teams to Score",
         "result": "success",
-        "score": "2-1",
-        "analysis": "Both teams scored as predicted"
+        "score": "2-2",
+        "analysis": "Both teams found the back of the net in an exciting draw."
+      },
+      {
+        "id": 8,
+        "homeTeam": "Istanbul Basaksehir",
+        "awayTeam": "Sivasspor",
+        "insight": "Istanbul Basaksehir to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Istanbul Basaksehir secured a narrow victory."
+      },
+      {
+        "id": 9,
+        "homeTeam": "Aveley",
+        "awayTeam": "Salisbury",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-2",
+        "analysis": "Both teams scored in a competitive match."
+      },
+      {
+        "id": 10,
+        "homeTeam": "Raków Czestochowa",
+        "awayTeam": "Lechia Gdansk",
+        "insight": "Raków Czestochowa to Win",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Raków Czestochowa displayed dominance throughout the match."
       }
     ]
   },
   {
-    "date": "March 20, 2024",
+    "date": "March 4, 2025",
     "matches": [
       {
-        "id": 3,
-        "homeTeam": "Bayern Munich",
-        "awayTeam": "Dortmund",
-        "insight": "Bayern Munich to Win",
+        "id": 1,
+        "homeTeam": "Liverpool",
+        "awayTeam": "Everton",
+        "insight": "Liverpool to Win",
         "result": "success",
-        "score": "3-0",
-        "analysis": "Dominant performance by Bayern"
+        "score": "3-1",
+        "analysis": "Liverpool dominated possession and secured a comfortable victory."
+      },
+      {
+        "id": 2,
+        "homeTeam": "Manchester United",
+        "awayTeam": "Chelsea",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-2",
+        "analysis": "Both teams created several chances and found the net."
+      },
+      {
+        "id": 3,
+        "homeTeam": "Juventus",
+        "awayTeam": "AC Milan",
+        "insight": "Over 2.5 Goals",
+        "result": "success",
+        "score": "3-2",
+        "analysis": "A high-scoring game with attacking play from both sides."
       },
       {
         "id": 4,
         "homeTeam": "PSG",
         "awayTeam": "Lyon",
-        "insight": "Over 1.5 Goals",
-        "result": "failure",
-        "score": "1-0",
-        "analysis": "Low scoring match against expectations"
+        "insight": "PSG to Win",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "PSG controlled the game and secured an easy win."
+      },
+      {
+        "id": 5,
+        "homeTeam": "Barcelona",
+        "awayTeam": "Atletico Madrid",
+        "insight": "Barcelona to Win",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Barcelona's attacking play outmatched Atletico’s defense."
       }
     ]
   },
   {
-    "date": "March 19, 2024",
+    "date": "March 5, 2025",
     "matches": [
       {
-        "id": 5,
-        "homeTeam": "Liverpool",
-        "awayTeam": "Newcastle",
-        "insight": "Liverpool to Win",
+        "id": 6,
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Sevilla",
+        "insight": "Real Madrid to Win",
         "result": "success",
-        "score": "2-0",
-        "analysis": "Liverpool controlled the game throughout"
+        "score": "3-1",
+        "analysis": "Real Madrid dominated possession and controlled the game."
       },
       {
-        "id": 6,
+        "id": 7,
+        "homeTeam": "Bayern Munich",
+        "awayTeam": "RB Leipzig",
+        "insight": "Over 2.5 Goals",
+        "result": "success",
+        "score": "4-2",
+        "analysis": "A high-scoring encounter with multiple goals from both teams."
+      },
+      {
+        "id": 8,
+        "homeTeam": "Dortmund",
+        "awayTeam": "Bayer Leverkusen",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-2",
+        "analysis": "An end-to-end game with plenty of attacking moments."
+      },
+      {
+        "id": 9,
+        "homeTeam": "Arsenal",
+        "awayTeam": "West Ham",
+        "insight": "Arsenal to Win",
+        "result": "success",
+        "score": "3-0",
+        "analysis": "Arsenal displayed dominance and secured an easy win."
+      },
+      {
+        "id": 10,
         "homeTeam": "Inter Milan",
-        "awayTeam": "AC Milan",
-        "insight": "Under 2.5 Goals",
+        "awayTeam": "Fiorentina",
+        "insight": "Inter Milan to Win",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Inter Milan maintained defensive solidity and took their chances."
+      }
+    ]
+  },
+  {
+    "date": "March 6, 2025",
+    "matches": [
+      {
+        "id": 11,
+        "homeTeam": "Chelsea",
+        "awayTeam": "Newcastle",
+        "insight": "Chelsea to Win",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Chelsea controlled the game with superior possession."
+      },
+      {
+        "id": 12,
+        "homeTeam": "Tottenham",
+        "awayTeam": "Brighton",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-2",
+        "analysis": "Both teams showed attacking intent and converted their chances."
+      },
+      {
+        "id": 13,
+        "homeTeam": "Napoli",
+        "awayTeam": "Lazio",
+        "insight": "Napoli to Win",
         "result": "success",
         "score": "1-0",
-        "analysis": "Tight derby match as predicted"
+        "analysis": "A tight game where Napoli secured a late winner."
+      },
+      {
+        "id": 14,
+        "homeTeam": "Porto",
+        "awayTeam": "Benfica",
+        "insight": "Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "A high-paced game with multiple attacking chances."
+      },
+      {
+        "id": 15,
+        "homeTeam": "PSV Eindhoven",
+        "awayTeam": "Ajax",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "A closely fought match where both teams found the net."
+      }
+    ]
+  },
+  {
+    "date": "March 8, 2025",
+    "matches": [
+      {
+        "id": 11,
+        "homeTeam": "Nottingham Forest",
+        "awayTeam": "Manchester City",
+        "insight": "Nottingham Forest to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Nottingham Forest achieved a surprising victory over Manchester City."
+      },
+      {
+        "id": 12,
+        "homeTeam": "Brighton & Hove Albion",
+        "awayTeam": "Fulham FC",
+        "insight": "Brighton & Hove Albion to Win",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Brighton secured a home win in a closely contested match."
+      },
+      {
+        "id": 13,
+        "homeTeam": "Crystal Palace",
+        "awayTeam": "Ipswich Town",
+        "insight": "Crystal Palace to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Crystal Palace managed a narrow victory."
+      },
+      {
+        "id": 14,
+        "homeTeam": "Liverpool FC",
+        "awayTeam": "Southampton FC",
+        "insight": "Liverpool FC to Win",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Liverpool dominated the match with a strong offensive display."
+      },
+      {
+        "id": 15,
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Brentford FC",
+        "insight": "Aston Villa to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Aston Villa secured a narrow away victory."
+      },
+      {
+        "id": 16,
+        "homeTeam": "Wolverhampton Wanderers",
+        "awayTeam": "Everton FC",
+        "insight": "Draw",
+        "result": "success",
+        "score": "1-1",
+        "analysis": "Both teams shared the points in a balanced match."
+      }
+    ]
+  },
+  {
+    "date": "March 9, 2025",
+    "matches": [
+      {
+        "id": 17,
+        "homeTeam": "Chelsea FC",
+        "awayTeam": "Leicester City",
+        "insight": "Chelsea FC to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Chelsea secured a home win with a solid defensive performance."
+      },
+      {
+        "id": 18,
+        "homeTeam": "Tottenham Hotspur",
+        "awayTeam": "AFC Bournemouth",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-2",
+        "analysis": "An entertaining match with goals from both sides."
+      },
+            {
+        "id": 19,
+        "homeTeam": "Manchester United",
+        "awayTeam": "Arsenal FC",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Both teams were on the attack, leading to goals from both sides."
+      },
+      {
+        "id": 20,
+        "homeTeam": "Newcastle United",
+        "awayTeam": "West Ham United",
+        "insight": "Over 2.5 Goals",
+        "result": "success",
+        "score": "3-2",
+        "analysis": "A high-scoring match with both teams showing attacking intent."
+      },
+      {
+        "id": 21,
+        "homeTeam": "Paris Saint-Germain",
+        "awayTeam": "Marseille",
+        "insight": "PSG to Win",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "PSG dominated the match and secured a comfortable victory."
+      },
+      {
+        "id": 22,
+        "homeTeam": "AC Milan",
+        "awayTeam": "Inter Milan",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "1-1",
+        "analysis": "A tightly contested Milan derby where both teams found the net."
+      },
+      {
+        "id": 23,
+        "homeTeam": "Real Madrid",
+        "awayTeam": "Atletico Madrid",
+        "insight": "Real Madrid to Win",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Real Madrid secured a crucial victory in the Madrid derby."
+      },
+      {
+        "id": 24,
+        "homeTeam": "Bayern Munich",
+        "awayTeam": "Borussia Dortmund",
+        "insight": "Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Bayern and Dortmund played an open game with plenty of chances."
+      },
+      {
+        "id": 25,
+        "homeTeam": "Barcelona",
+        "awayTeam": "Sevilla",
+        "insight": "Barcelona to Win",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Barcelona controlled possession and secured a convincing win."
       }
     ]
   }
 ]
+
+
+ 
