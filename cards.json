@@ -5,9 +5,10 @@
     "period": "Forever",
     "description": "Access daily football data-driven insights with a strong track record. Updated every morning!",
     "features": [
-      "1 insight per day",
+      "2-5 insight per day",
       "Basic statistical breakdown",
-      "Historical performance trends"
+      "Historical performance trends",
+       "High-accuracy event analysis"
     ],
     "icon": "Trophy",
     "id": "free-analysis",
