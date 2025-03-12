@@ -1,66 +1,66 @@
 [
-    {
-        "id": 1,
-        "homeTeam": "Atalanta",
-        "awayTeam": "Monaco",
-        "date": "2025-03-11",
-        "time": "20:00",
-        "insight": "Atalanta to Win",
-        "odds": "2.10",
-        "confidence": "75%",
-        "analysis": "Atalanta's strong home performance and Monaco's inconsistent away form favor the hosts.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-            "link": "https://www.1xbet.com"
-        }
-    },
-    {
-        "id": 2,
-        "homeTeam": "Borussia Dortmund",
-        "awayTeam": "Brest",
-        "date": "2025-03-11",
-        "time": "20:00",
-        "insight": "Borussia Dortmund -1.5 Handicap",
-        "odds": "1.85",
-        "confidence": "80%",
-        "analysis": "Dortmund's attacking prowess and Brest's defensive vulnerabilities suggest a comfortable home win.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-            "link": "https://www.1xbet.com"
-        }
-    },
-    {
-        "id": 3,
-        "homeTeam": "Real Madrid",
-        "awayTeam": "Feyenoord",
-        "date": "2025-03-11",
-        "time": "20:00",
-        "insight": "Both Teams to Score",
-        "odds": "1.75",
-        "confidence": "70%",
-        "analysis": "Both teams have strong offensive records, making a high-scoring game likely.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-            "link": "https://www.1xbet.com"
-        }
-    },
-    {
-        "id": 4,
-        "homeTeam": "Bayern Munich",
-        "awayTeam": "Juventus",
-        "date": "2025-03-11",
-        "time": "20:00",
-        "insight": "Under 2.5 Goals",
-        "odds": "1.90",
-        "confidence": "65%",
-        "analysis": "Both teams' solid defenses and the high stakes suggest a low-scoring affair.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-            "link": "https://www.1xbet.com"
-        }
+  {
+    "id": 1,
+    "homeTeam": "Atletico Madrid",
+    "awayTeam": "Real Madrid",
+    "date": "2025-03-12",
+    "time": "20:00",
+    "insight": "Atletico Madrid to Win & Over 2.5 Goals",
+    "odds": "2.50",
+    "confidence": "90%",
+    "analysis": "Atletico Madrid aims to overturn a 2-1 deficit from the first leg, leveraging home advantage and a strong fan base.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
     }
+  },
+  {
+    "id": 2,
+    "homeTeam": "Cruz Azul",
+    "awayTeam": "Seattle Sounders FC",
+    "date": "2025-03-12",
+    "time": "22:00",
+    "insight": "Cruz Azul to Win & Over 1.5 Goals",
+    "odds": "1.80",
+    "confidence": "85%",
+    "analysis": "Cruz Azul's dominant performance in the first leg gives them a strong advantage in this matchup.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 6,
+    "homeTeam": "FC Santa Coloma",
+    "awayTeam": "UE Santa Coloma",
+    "date": "2025-03-12",
+    "time": "20:00",
+    "insight": "Over 2.5 Goals & Both Teams to Score",
+    "odds": "2.20",
+    "confidence": "85%",
+    "analysis": "A high-scoring encounter is anticipated as both teams have potent attacking forces.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 7,
+    "homeTeam": "La Massana",
+    "awayTeam": "Atlètic Amèrica",
+    "date": "2025-03-12",
+    "time": "20:00",
+    "insight": "La Massana to Win & Under 2.5 Goals",
+    "odds": "1.80",
+    "confidence": "80%",
+    "analysis": "La Massana's solid defense is expected to secure a narrow victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  }
 ]
