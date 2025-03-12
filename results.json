@@ -3,15 +3,6 @@
     "date": "March 11, 2025",
     "matches": [
       {
-        "id": 2,
-        "homeTeam": "Cardiff City",
-        "awayTeam": "Luton Town",
-        "insight": "Draw & Under 2.5 Goals",
-        "result": "unsuccessful",
-        "score": "2-1",
-        "analysis": "Cardiff City secured a narrow win, defying expectations of a draw and a low-scoring game."
-      },
-      {
         "id": 3,
         "homeTeam": "Derby County",
         "awayTeam": "Coventry City",
@@ -79,7 +70,7 @@
         "homeTeam": "Bayer Leverkusen",
         "awayTeam": "Bayern Munich",
         "insight": "Bayern Munich to Win & Over 2.5 Goals",
-        "result": "unsuccessful",
+        "result": "failure",
         "score": "0-2",
         "analysis": "Bayern Munich secured a comfortable victory with goals from Harry Kane and Alphonso Davies, but the total goals fell short of the expected over 2.5."
       },
@@ -93,15 +84,6 @@
         "analysis": "Barcelona advanced with a convincing win, with standout performances from young talent Lamine Yamal and Raphinha, while Benfica managed to score once."
       },
       {
-        "id": 14,
-        "homeTeam": "Inter Milan",
-        "awayTeam": "Feyenoord",
-        "insight": "Inter Milan to Win & Under 2.5 Goals",
-        "result": "unsuccessful",
-        "score": "2-1",
-        "analysis": "Inter Milan emerged victorious, but the match exceeded the expected under 2.5 goals with a total of three goals scored."
-      },
-      {
         "id": 22,
         "homeTeam": "Crawley Town",
         "awayTeam": "Charlton Athletic",
@@ -110,15 +92,6 @@
         "score": "2-0",
         "analysis": "Crawley Town managed a clean sheet, defeating Charlton Athletic and defying expectations of both teams scoring."
       },
-      {
-        "id": 26,
-        "homeTeam": "Colchester United",
-        "awayTeam": "Port Vale",
-        "insight": "Port Vale to Win & Both Teams to Score",
-        "result": "unsuccessful",
-        "score": "2-0",
-        "analysis": "Colchester United's defense held firm, leading to a victory and preventing Port Vale from scoring."
-      }
     ]
   },
   {
