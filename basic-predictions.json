@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "homeTeam": "Burnley",
-    "awayTeam": "West Bromwich Albion",
-    "date": "2025-03-11",
-    "time": "19:45",
-    "insight": "Burnley to Win & Over 2.5 Goals",
-    "odds": "2.20",
+    "homeTeam": "Atletico Madrid",
+    "awayTeam": "Real Madrid",
+    "date": "2025-03-12",
+    "time": "20:00",
+    "insight": "Atletico Madrid to Win & Over 2.5 Goals",
+    "odds": "2.50",
     "confidence": "90%",
-    "analysis": "Burnley's strong home form and West Brom's defensive vulnerabilities suggest a high-scoring home victory.",
+    "analysis": "Atletico Madrid aims to overturn a 2-1 deficit from the first leg, leveraging home advantage and a strong fan base.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -17,62 +17,14 @@
   },
   {
     "id": 2,
-    "homeTeam": "Cardiff City",
-    "awayTeam": "Luton Town",
-    "date": "2025-03-11",
-    "time": "19:45",
-    "insight": "Draw & Under 2.5 Goals",
-    "odds": "3.10",
-    "confidence": "85%",
-    "analysis": "Both teams have been evenly matched recently, likely leading to a low-scoring draw.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
-  },
-  {
-    "id": 3,
-    "homeTeam": "Derby County",
-    "awayTeam": "Coventry City",
-    "date": "2025-03-11",
-    "time": "19:45",
-    "insight": "Derby County to Win & Both Teams to Score",
-    "odds": "2.50",
-    "confidence": "88%",
-    "analysis": "Derby's attacking prowess at home combined with Coventry's inconsistent defense points to a home win with goals at both ends.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
-  },
-  {
-    "id": 4,
-    "homeTeam": "Middlesbrough",
-    "awayTeam": "Queens Park Rangers",
-    "date": "2025-03-11",
-    "time": "19:45",
-    "insight": "Middlesbrough to Win & Over 1.5 Goals",
+    "homeTeam": "Cruz Azul",
+    "awayTeam": "Seattle Sounders FC",
+    "date": "2025-03-12",
+    "time": "22:00",
+    "insight": "Cruz Azul to Win & Over 1.5 Goals",
     "odds": "1.80",
-    "confidence": "92%",
-    "analysis": "Middlesbrough's solid home performances suggest a comfortable win with at least two goals scored.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
-  },
-  {
-    "id": 5,
-    "homeTeam": "Norwich City",
-    "awayTeam": "Sheffield Wednesday",
-    "date": "2025-03-11",
-    "time": "19:45",
-    "insight": "Norwich City to Win & Clean Sheet",
-    "odds": "2.00",
-    "confidence": "89%",
-    "analysis": "Norwich's strong defensive record at home indicates a likely win without conceding.",
+    "confidence": "85%",
+    "analysis": "Cruz Azul's dominant performance in the first leg gives them a strong advantage in this matchup.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -81,14 +33,14 @@
   },
   {
     "id": 6,
-    "homeTeam": "Sunderland",
-    "awayTeam": "Preston North End",
-    "date": "2025-03-11",
-    "time": "19:45",
-    "insight": "Sunderland to Win & Over 2.5 Goals",
-    "odds": "2.30",
-    "confidence": "87%",
-    "analysis": "Sunderland's attacking style at home suggests a high-scoring victory.",
+    "homeTeam": "FC Santa Coloma",
+    "awayTeam": "UE Santa Coloma",
+    "date": "2025-03-12",
+    "time": "20:00",
+    "insight": "Over 2.5 Goals & Both Teams to Score",
+    "odds": "2.20",
+    "confidence": "85%",
+    "analysis": "A high-scoring encounter is anticipated as both teams have potent attacking forces.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -97,14 +49,61 @@
   },
   {
     "id": 7,
-    "homeTeam": "Sheffield United",
-    "awayTeam": "Bristol City",
-    "date": "2025-03-11",
+    "homeTeam": "La Massana",
+    "awayTeam": "Atlètic Amèrica",
+    "date": "2025-03-12",
     "time": "20:00",
-    "insight": "Sheffield United to Win & Both Teams to Score",
-    "odds": "2.60",
-    "confidence": "86%",
-    "analysis": "Sheffield United's home advantage coupled with both teams' attacking tendencies points to a home win with goals from both sides.",
+    "insight": "La Massana to Win & Under 2.5 Goals",
+    "odds": "1.80",
+    "confidence": "80%",
+    "analysis": "La Massana's solid defense is expected to secure a narrow victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 3,
+    "homeTeam": "Monterrey",
+    "awayTeam": "Vancouver Whitecaps FC",
+    "date": "2025-03-12",
+    "time": "00:00",
+    "insight": "Monterrey to Win & Over 2.5 Goals",
+    "odds": "2.00",
+    "confidence": "88%",
+    "analysis": "Monterrey's strong attacking lineup is expected to secure a win with multiple goals.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 4,
+    "homeTeam": "FC Cincinnati",
+    "awayTeam": "Herediano",
+    "date": "2025-03-12",
+    "time": "02:00",
+    "insight": "FC Cincinnati to Win & Over 1.5 Goals",
+    "odds": "1.95",
+    "confidence": "80%",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 5,
+    "homeTeam": "Inter Miami CF",
+    "awayTeam": "Monterrey",
+    "date": "2025-03-12",
+    "time": "04:00",
+    "insight": "Over 2.5 Goals & BTTS",
+    "odds": "2.10",
+    "confidence": "75%",
+    "analysis": "Both teams have strong attacking capabilities, suggesting a high-scoring game.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -113,14 +112,14 @@
   },
   {
     "id": 8,
-    "homeTeam": "Jeonbuk Hyundai Motors",
-    "awayTeam": "Sydney FC",
-    "date": "2025-03-11",
-    "time": "12:00",
-    "insight": "Sydney FC to Win & Over 2.5 Goals",
-    "odds": "2.30",
-    "confidence": "88%",
-    "analysis": "Sydney FC's strong performance in the first leg positions them well for a victory, likely with multiple goals scored.",
+    "homeTeam": "Inter Miami CF",
+    "awayTeam": "Monterrey",
+    "date": "2025-03-12",
+    "time": "02:00",
+    "insight": "Over 2.5 Goals & Both Teams to Score",
+    "odds": "2.10",
+    "confidence": "75%",
+    "analysis": "Both teams have strong attacking capabilities, suggesting a high-scoring game.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -129,14 +128,14 @@
   },
   {
     "id": 9,
-    "homeTeam": "Esteghlal",
-    "awayTeam": "Al-Nassr",
-    "date": "2025-03-11",
-    "time": "14:30",
-    "insight": "Al-Nassr to Win & Both Teams to Score",
-    "odds": "2.50",
-    "confidence": "85%",
-    "analysis": "Al-Nassr's attacking strength, bolstered by Cristiano Ronaldo, suggests a win with goals from both sides.",
+    "homeTeam": "FC Cincinnati",
+    "awayTeam": "Herediano",
+    "date": "2025-03-12",
+    "time": "04:00",
+    "insight": "FC Cincinnati to Win & Over 1.5 Goals",
+    "odds": "1.95",
+    "confidence": "80%",
+    "analysis": "FC Cincinnati's home advantage and recent form position them well for a victory.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -145,14 +144,174 @@
   },
   {
     "id": 10,
-    "homeTeam": "Al-Hilal",
-    "awayTeam": "Pakhtakor",
-    "date": "2025-03-11",
-    "time": "18:00",
-    "insight": "Al-Hilal to Win & Clean Sheet",
-    "odds": "1.80",
-    "confidence": "90%",
-    "analysis": "Al-Hilal's dominant home record points to a shutout victory.",
+    "homeTeam": "Los Angeles FC",
+    "awayTeam": "Seattle Sounders FC",
+    "date": "2025-03-12",
+    "time": "22:00",
+    "insight": "Over 2.5 Goals & Both Teams to Score",
+    "odds": "1.95",
+    "confidence": "80%",
+    "analysis": "Both teams have high-scoring offenses, making a game with multiple goals highly probable.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 11,
+    "homeTeam": "Vancouver Whitecaps FC",
+    "awayTeam": "Tigres UANL",
+    "date": "2025-03-12",
+    "time": "01:00",
+    "insight": "Tigres UANL to Win & Under 2.5 Goals",
+    "odds": "2.30",
+    "confidence": "85%",
+    "analysis": "Tigres UANL is favored to win with a strong defense, suggesting a low-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 12,
+    "homeTeam": "New York Red Bulls",
+    "awayTeam": "Club León",
+    "date": "2025-03-12",
+    "time": "00:00",
+    "insight": "New York Red Bulls to Win & Over 2.5 Goals",
+    "odds": "2.05",
+    "confidence": "75%",
+    "analysis": "New York Red Bulls are strong at home, and an exciting, high-scoring match is expected.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 13,
+    "homeTeam": "Los Angeles Galaxy",
+    "awayTeam": "Pumas UNAM",
+    "date": "2025-03-12",
+    "time": "03:30",
+    "insight": "Los Angeles Galaxy to Win & Under 2.5 Goals",
+    "odds": "2.25",
+    "confidence": "78%",
+    "analysis": "Los Angeles Galaxy's defensive strength makes them likely to win with fewer goals.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 14,
+    "homeTeam": "Montreal Impact",
+    "awayTeam": "Santos Laguna",
+    "date": "2025-03-12",
+    "time": "01:30",
+    "insight": "Over 2.5 Goals & Both Teams to Score",
+    "odds": "2.00",
+    "confidence": "80%",
+    "analysis": "With both teams having strong offensive lines, this match is expected to see several goals.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 15,
+    "homeTeam": "CF Monterrey",
+    "awayTeam": "Saprissa",
+    "date": "2025-03-12",
+    "time": "04:30",
+    "insight": "CF Monterrey to Win & Over 1.5 Goals",
+    "odds": "1.85",
+    "confidence": "82%",
+    "analysis": "CF Monterrey is expected to win at home, with a couple of goals likely to be scored.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 16,
+    "homeTeam": "Atlanta United",
+    "awayTeam": "CD Guadalajara",
+    "date": "2025-03-12",
+    "time": "03:00",
+    "insight": "Atlanta United to Win & Over 2.5 Goals",
+    "odds": "2.20",
+    "confidence": "80%",
+    "analysis": "Atlanta United has a strong home advantage and should score multiple goals in a high-paced match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 17,
+    "homeTeam": "Real Salt Lake",
+    "awayTeam": "Cruz Azul",
+    "date": "2025-03-12",
+    "time": "02:00",
+    "insight": "Cruz Azul to Win & Under 2.5 Goals",
+    "odds": "2.15",
+    "confidence": "76%",
+    "analysis": "Cruz Azul has been in good form and should win with a solid defensive performance.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 18,
+    "homeTeam": "Nashville SC",
+    "awayTeam": "Club América",
+    "date": "2025-03-12",
+    "time": "04:00",
+    "insight": "Draw & Over 2.5 Goals",
+    "odds": "3.40",
+    "confidence": "70%",
+    "analysis": "This match is expected to be tight, with both teams capable of scoring, leading to a high-scoring draw.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 19,
+    "homeTeam": "Austin FC",
+    "awayTeam": "Atlético Morelia",
+    "date": "2025-03-12",
+    "time": "03:45",
+    "insight": "Austin FC to Win & Under 2.5 Goals",
+    "odds": "2.25",
+    "confidence": "79%",
+    "analysis": "Austin FC's strong defense and home advantage should give them the edge in a low-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 20,
+    "homeTeam": "FC Dallas",
+    "awayTeam": "Club Tijuana",
+    "date": "2025-03-12",
+    "time": "02:30",
+    "insight": "FC Dallas to Win & Both Teams to Score",
+    "odds": "2.60",
+    "confidence": "80%",
+    "analysis": "FC Dallas is favored to win, and both teams are likely to score given their attacking styles.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
