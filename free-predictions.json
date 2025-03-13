@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "homeTeam": "Atletico Madrid",
-    "awayTeam": "Real Madrid",
-    "date": "2025-03-12",
+    "homeTeam": "Chelsea",
+    "awayTeam": "Copenhagen",
+    "date": "2025-03-13",
     "time": "20:00",
-    "insight": "Atletico Madrid to Win & Over 2.5 Goals",
-    "odds": "2.50",
+    "insight": "Chelsea to Win by at Least Two Goals",
+    "odds": "1.75",
     "confidence": "90%",
-    "analysis": "Atletico Madrid aims to overturn a 2-1 deficit from the first leg, leveraging home advantage and a strong fan base.",
+    "analysis": "Chelsea's impeccable form in the Europa Conference League and their home advantage suggest a dominant performance against Copenhagen.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -17,14 +17,14 @@
   },
   {
     "id": 2,
-    "homeTeam": "Cruz Azul",
-    "awayTeam": "Seattle Sounders FC",
-    "date": "2025-03-12",
-    "time": "22:00",
-    "insight": "Cruz Azul to Win & Over 1.5 Goals",
-    "odds": "1.80",
+    "homeTeam": "Rangers",
+    "awayTeam": "Fenerbahce",
+    "date": "2025-03-13",
+    "time": "20:00",
+    "insight": "Rangers to Win & Both Teams to Score",
+    "odds": "2.10",
     "confidence": "85%",
-    "analysis": "Cruz Azul's dominant performance in the first leg gives them a strong advantage in this matchup.",
+    "analysis": "Holding a two-goal advantage, Rangers are poised to progress, but Fenerbahce's attacking threat means both teams are likely to find the net.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
@@ -32,31 +32,48 @@
     }
   },
   {
-    "id": 6,
-    "homeTeam": "FC Santa Coloma",
-    "awayTeam": "UE Santa Coloma",
-    "date": "2025-03-12",
-    "time": "20:00",
-    "insight": "Over 2.5 Goals & Both Teams to Score",
-    "odds": "2.20",
-    "confidence": "85%",
-    "analysis": "A high-scoring encounter is anticipated as both teams have potent attacking forces.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
-  },
-  {
-    "id": 7,
-    "homeTeam": "La Massana",
-    "awayTeam": "Atlètic Amèrica",
-    "date": "2025-03-12",
-    "time": "20:00",
-    "insight": "La Massana to Win & Under 2.5 Goals",
-    "odds": "1.80",
+    "id": 3,
+    "homeTeam": "Lazio",
+    "awayTeam": "Viktoria Plzen",
+    "date": "2025-03-13",
+    "time": "18:45",
+    "insight": "Lazio to Win & Under 2.5 Goals",
+    "odds": "2.50",
     "confidence": "80%",
-    "analysis": "La Massana's solid defense is expected to secure a narrow victory.",
+    "analysis": "Lazio's solid defense at home suggests a low-scoring victory against Viktoria Plzen.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+
+  {
+    "id": 4,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Real Sociedad",
+    "date": "2025-03-13",
+    "time": "20:00",
+    "insight": "Manchester United to Win & Under 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "85%",
+    "analysis": "After a 1-1 draw in the first leg, Manchester United aims to leverage their home advantage at Old Trafford to secure a narrow victory, with a strong defensive performance expected.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://www.1xbet.com"
+    }
+  },
+  {
+    "id": 5,
+    "homeTeam": "Vitória Guimarães",
+    "awayTeam": "Real Betis",
+    "date": "2025-03-13",
+    "time": "21:00",
+    "insight": "Vitória Guimarães to Win & Both Teams to Score",
+    "odds": "2.50",
+    "confidence": "80%",
+    "analysis": "With the first leg ending in a 2-2 draw, Vitória Guimarães will look to capitalize on their home advantage to edge out a victory, though Real Betis's attacking prowess suggests both teams are likely to score.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
