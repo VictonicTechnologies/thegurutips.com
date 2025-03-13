@@ -1,9 +1,9 @@
 [
-  {
+   {
     "id": 1,
     "homeTeam": "Chelsea",
     "awayTeam": "Copenhagen",
-    "date": "2025-03-13",
+    "date": "2025-03-14",
     "time": "20:00",
     "insight": "Chelsea to Win by at Least Two Goals",
     "odds": "1.75",
@@ -19,7 +19,7 @@
     "id": 2,
     "homeTeam": "Rangers",
     "awayTeam": "Fenerbahce",
-    "date": "2025-03-13",
+    "date": "2025-03-14",
     "time": "20:00",
     "insight": "Rangers to Win & Both Teams to Score",
     "odds": "2.10",
@@ -33,47 +33,30 @@
   },
   {
     "id": 3,
-    "homeTeam": "Lazio",
-    "awayTeam": "Viktoria Plzen",
-    "date": "2025-03-13",
-    "time": "18:45",
-    "insight": "Lazio to Win & Under 2.5 Goals",
-    "odds": "2.50",
+    "homeTeam": "Dunfermline Athletic",
+    "awayTeam": "Raith Rovers",
+    "date": "2025-03-14",
+    "time": "19:45",
+    "insight": "Dunfermline to Win",
+    "odds": "2.00",
     "confidence": "80%",
-    "analysis": "Lazio's solid defense at home suggests a low-scoring victory against Viktoria Plzen.",
+    "analysis": "Following their recent 3-1 victory over Raith Rovers on February 1, Dunfermline Athletic is expected to continue their strong performance in this derby match.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
       "link": "https://www.1xbet.com"
     }
   },
-
   {
     "id": 4,
     "homeTeam": "Manchester United",
     "awayTeam": "Real Sociedad",
-    "date": "2025-03-13",
+    "date": "2025-03-14",
     "time": "20:00",
-    "insight": "Manchester United to Win & Under 2.5 Goals",
-    "odds": "2.10",
-    "confidence": "85%",
-    "analysis": "After a 1-1 draw in the first leg, Manchester United aims to leverage their home advantage at Old Trafford to secure a narrow victory, with a strong defensive performance expected.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
-  },
-  {
-    "id": 5,
-    "homeTeam": "Vitória Guimarães",
-    "awayTeam": "Real Betis",
-    "date": "2025-03-13",
-    "time": "21:00",
-    "insight": "Vitória Guimarães to Win & Both Teams to Score",
-    "odds": "2.50",
-    "confidence": "80%",
-    "analysis": "With the first leg ending in a 2-2 draw, Vitória Guimarães will look to capitalize on their home advantage to edge out a victory, though Real Betis's attacking prowess suggests both teams are likely to score.",
+    "insight": "Manchester United to Win",
+    "odds": "1.85",
+    "confidence": "88%",
+    "analysis": "Manchester United's strong home record in European competitions positions them favorably against Real Sociedad.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
