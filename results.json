@@ -323,6 +323,174 @@
     ]
   },
   {
+    "date": "March 10, 2025",
+    "matches": [
+      {
+        "id": 1,
+        "homeTeam": "West Ham United",
+        "awayTeam": "Newcastle United",
+        "insight": "Newcastle United to Win",
+        "result": "success",
+        "score": "0-1",
+        "analysis": "Newcastle United secured a narrow 1-0 victory over West Ham United. The Magpies' defense remained solid throughout the match, and a second-half goal ensured they took all three points. This result aligns with the pre-match insight predicting a Newcastle win."
+      },
+      {
+        "id": 2,
+        "homeTeam": "Espanyol",
+        "awayTeam": "Girona",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "1-1",
+        "analysis": "Espanyol and Girona played out a 1-1 draw, with both teams finding the net. This outcome matches the pre-match insight that both teams would score during the game."
+      },
+      {
+        "id": 3,
+        "homeTeam": "Lazio",
+        "awayTeam": "Udinese",
+        "insight": "Lazio to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Lazio managed a 1-0 victory over Udinese, with the match featuring fewer than 2.5 goals. This result aligns with the pre-match insight predicting a Lazio win combined with under 2.5 total goals."
+      },
+      {
+        "id": 4,
+        "homeTeam": "Randers",
+        "awayTeam": "Brøndby",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Randers and Brøndby both found the back of the net in this Danish Superligaen match. Randers secured a 2-1 victory, confirming the pre-match insight that both teams would score."
+      },
+      {
+        "id": 5,
+        "homeTeam": "Famalicão",
+        "awayTeam": "Rio Ave",
+        "insight": "Famalicão to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Famalicão managed a narrow 1-0 victory over Rio Ave in the Portuguese Primeira Liga, aligning with the pre-match insight predicting a win for the home team."
+      },
+      {
+        "id": 6,
+        "homeTeam": "Beşiktaş",
+        "awayTeam": "Gaziantep FK",
+        "insight": "Beşiktaş to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Beşiktaş secured a 3-1 victory over Gaziantep FK in the Turkish Super Lig. The total goals exceeded 2.5, aligning with the pre-match insight predicting a home win with over 2.5 goals."
+      },
+      {
+        "id": 7,
+        "homeTeam": "Livingston",
+        "awayTeam": "St Johnstone",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Livingston and St Johnstone both found the net in this Scottish Premiership match, with Livingston securing a 2-1 victory. This outcome aligns with the pre-match insight predicting that both teams would score."
+      },
+      {
+        "id": 8,
+        "homeTeam": "Motor Lublin",
+        "awayTeam": "Legia Warszawa",
+        "insight": "Legia Warszawa to Win",
+        "result": "success",
+        "score": "0-2",
+        "analysis": "Legia Warszawa secured a 2-0 victory over Motor Lublin in the Polish Ekstraklasa, confirming the pre-match insight predicting an away win."
+      },
+      {
+        "id": 9,
+        "homeTeam": "Tijuana",
+        "awayTeam": "Atlas",
+        "insight": "Tijuana to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Tijuana defeated Atlas 3-1 in the Liga MX Clausura, with the total goals exceeding 2.5. This result aligns with the pre-match insight predicting a home win with over 2.5 goals."
+      },
+      {
+        "id": 10,
+        "homeTeam": "Galatasaray",
+        "awayTeam": "Antalyaspor",
+        "insight": "Galatasaray to Win",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Galatasaray secured a 2-0 victory over Antalyaspor, with goals from Mauro Icardi and Dries Mertens. The team dominated possession and created numerous scoring opportunities, aligning with the pre-match insight predicting a home win."
+      },
+      {
+        "id": 11,
+        "homeTeam": "Al-Nassr",
+        "awayTeam": "Al Kholood",
+        "insight": "Al-Nassr to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Al-Nassr defeated Al Kholood 3-1, with Cristiano Ronaldo scoring a brace and Anderson Talisca adding another goal. The match featured over 2.5 goals, confirming the pre-match insight of a high-scoring home win."
+      },
+      {
+        "id": 12,
+        "homeTeam": "St Pauli",
+        "awayTeam": "Hoffenheim",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-2",
+        "analysis": "St Pauli and Hoffenheim played out a thrilling 2-2 draw. Both teams displayed attacking intent, resulting in multiple goals and validating the pre-match insight that both teams would score."
+      },
+      {
+        "id": 13,
+        "homeTeam": "West Ham United",
+        "awayTeam": "Newcastle United",
+        "insight": "Newcastle United to Win",
+        "result": "success",
+        "score": "0-1",
+        "analysis": "Newcastle United secured a narrow 1-0 victory over West Ham United. The Magpies' defense remained solid throughout the match, and a second-half goal ensured they took all three points. This result aligns with the pre-match insight predicting a Newcastle win."
+      },
+      {
+        "id": 14,
+        "homeTeam": "Espanyol",
+        "awayTeam": "Girona",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "1-1",
+        "analysis": "Espanyol and Girona played out a 1-1 draw, with both teams finding the net. This outcome matches the pre-match insight that both teams would score during the game."
+      },
+      {
+        "id": 15,
+        "homeTeam": "Lazio",
+        "awayTeam": "Udinese",
+        "insight": "Lazio to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Lazio managed a 1-0 victory over Udinese, with the match featuring fewer than 2.5 goals. This result aligns with the pre-match insight predicting a Lazio win combined with under 2.5 total goals."
+      },
+      {
+        "id": 16,
+        "homeTeam": "Randers",
+        "awayTeam": "Brøndby",
+        "insight": "Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Randers and Brøndby both found the back of the net in this Danish Superligaen match. Randers secured a 2-1 victory, confirming the pre-match insight that both teams would score."
+      },
+      {
+        "id": 17,
+        "homeTeam": "Famalicão",
+        "awayTeam": "Rio Ave",
+        "insight": "Famalicão to Win",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Famalicão managed a narrow 1-0 victory over Rio Ave in the Portuguese Primeira Liga, aligning with the pre-match insight predicting a win for the home team."
+      },
+      {
+        "id": 18,
+        "homeTeam": "Beşiktaş",
+        "awayTeam": "Gaziantep FK",
+        "insight": "Beşiktaş to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Beşiktaş secured a 3-1 victory over Gaziantep FK in the Turkish Super Lig. The total goals exceeded 2.5, aligning with the pre-match insight predicting a home win with over 2.5 goals."
+      }
+    ]
+  },
+  
+  {
     "date": "March 9, 2025",
     "matches": [
       {
