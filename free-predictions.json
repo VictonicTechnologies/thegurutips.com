@@ -46,21 +46,5 @@
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
       "link": "https://www.1xbet.com"
     }
-  },
-  {
-    "id": 4,
-    "homeTeam": "Manchester United",
-    "awayTeam": "Real Sociedad",
-    "date": "2025-03-14",
-    "time": "20:00",
-    "insight": "Manchester United to Win",
-    "odds": "1.85",
-    "confidence": "88%",
-    "analysis": "Manchester United's strong home record in European competitions positions them favorably against Real Sociedad.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
   }
 ]
