@@ -135,15 +135,6 @@
         "analysis": "AFC Wimbledon secured a victory in a competitive encounter, edging out Cheltenham Town."
       },
       {
-        "id": 12,
-        "homeTeam": "Bayer Leverkusen",
-        "awayTeam": "Bayern Munich",
-        "insight": "Bayern Munich to Win & Over 2.5 Goals",
-        "result": "failure",
-        "score": "0-2",
-        "analysis": "Bayern Munich secured a comfortable victory with goals from Harry Kane and Alphonso Davies, but the total goals fell short of the expected over 2.5."
-      },
-      {
         "id": 13,
         "homeTeam": "Barcelona",
         "awayTeam": "Benfica",
@@ -151,15 +142,6 @@
         "result": "success",
         "score": "3-1",
         "analysis": "Barcelona advanced with a convincing win, with standout performances from young talent Lamine Yamal and Raphinha, while Benfica managed to score once."
-      },
-      {
-        "id": 22,
-        "homeTeam": "Crawley Town",
-        "awayTeam": "Charlton Athletic",
-        "insight": "Charlton Athletic to Win & Both Teams to Score",
-        "result": "unsuccessful",
-        "score": "2-0",
-        "analysis": "Crawley Town managed a clean sheet, defeating Charlton Athletic and defying expectations of both teams scoring."
       }
     ]
   },
