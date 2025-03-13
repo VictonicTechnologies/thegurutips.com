@@ -1,5 +1,182 @@
 [
   {
+    "date": "March 13, 2025",
+    "matches": [
+      {
+        "id": 1,
+        "homeTeam": "Chelsea",
+        "awayTeam": "Copenhagen",
+        "insight": "Chelsea to Win and under 2.5",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "chelsea won by scoring a single goal on their opponents"
+      },
+      {
+        "id": 2,
+        "homeTeam": "Rangers",
+        "awayTeam": "Fenerbahce",
+        "insight": "Fenerbahce to win & under 2.5",
+        "result": "success",
+        "score": "0-2",
+        "analysis": "Fenerbahce overcame a first-leg deficit to win 2-0 in regulation time, leveling the aggregate score at 3-3. "
+      },
+      {
+        "id": 3,
+        "homeTeam": "Lazio",
+        "awayTeam": "Viktoria Plzen",
+        "insight": "Lazio to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Lazio's defensive strength secured a narrow victory, keeping the total goals under 2.5."
+      },
+      {
+        "id": 4,
+        "homeTeam": "Manchester United",
+        "awayTeam": "Real Sociedad",
+        "insight": "Manchester United to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "4-1",
+        "analysis": "Manchester United delivered a dominant performance, with Bruno Fernandes scoring a hat-trick, leading to a high-scoring match that exceeded the expected goal count. :contentReference[oaicite:0]{index=0}"
+      },
+      {
+        "id": 6,
+        "homeTeam": "Roma",
+        "awayTeam": "Athletic Bilbao",
+        "insight": "Roma to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Roma's attacking prowess led to a convincing victory, with the total goals surpassing 2.5."
+      },
+      {
+        "id": 7,
+        "homeTeam": "Tottenham Hotspur",
+        "awayTeam": "AZ Alkmaar",
+        "insight": "Tottenham to Win & Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Tottenham secured a crucial win, with AZ Alkmaar managing to find the net as well."
+      },
+      {
+        "id": 8,
+        "homeTeam": "Eintracht Frankfurt",
+        "awayTeam": "Ajax",
+        "insight": "Both Teams to Score & Over 2.5 Goals",
+        "result": "success",
+        "score": "2-2",
+        "analysis": "Both teams showcased their offensive capabilities, resulting in a high-scoring draw."
+      },
+      {
+        "id": 9,
+        "homeTeam": "Vitória Guimarães",
+        "awayTeam": "Real Betis",
+        "insight": "Real Betis to win & Over 2.5",
+        "result": "success",
+        "score": "0-3",
+        "analysis": "Real Betis dominated the match,by scoring three goals on their opponent."
+      },
+      {
+        "id": 10,
+        "homeTeam": "Fiorentina",
+        "awayTeam": "Panathinaikos",
+        "insight": "Fiorentina to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-2",
+        "analysis": "Fiorentina edged out Panathinaikos in a thrilling match, with the total goals exceeding 2.5 as anticipated. Both teams displayed attacking football, but Fiorentina managed to secure the win."
+      },
+      {
+        "id": 11,
+        "homeTeam": "Legia Warsaw",
+        "awayTeam": "Molde",
+        "insight": "Legia Warsaw to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "4-3",
+        "analysis": "In a high-scoring encounter, Legia Warsaw emerged victorious, and both the teams scores obove 2.5."
+      },
+      {
+        "id": 12,
+        "homeTeam": "Djurgårdens IF",
+        "awayTeam": "Pafos",
+        "insight": "Djurgårdens IF to Win & Both Teams to Score",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Djurgårdens IF secured a convincing win, with Pafos managing to score, aligning with the pre-match insight."
+      },
+      {
+        "id": 13,
+        "homeTeam": "Rapid Vienna",
+        "awayTeam": "Borac Banja Luka",
+        "insight": "Rapid Vienna to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-2",
+        "analysis": "Rapid Vienna advanced to the quarter-finals with a 3-2 victory over Borac Banja Luka, with the match's total goals exceeding 2.5 as anticipated."
+      },
+      {
+        "id": 14,
+        "homeTeam": "Lugano",
+        "awayTeam": "Celje",
+        "insight": "Celje to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "1-2",
+        "analysis": "Lugano suffered a home defeat to Celje, with the match producing more than 2.5 goals."
+      },
+      {
+        "id": 14,
+        "homeTeam": "Cercle Brugge",
+        "awayTeam": "Jagiellonia Białystok",
+        "insight": "Jagiellonia Białystok to win & Under 2.5",
+        "result": "success",
+        "score": "0-1",
+        "analysis": "Jagiellonia Białystok secured a narrow victory, with only one goal scored."
+      },
+      {
+        "id": 15,
+        "homeTeam": "Athletic Club",
+        "awayTeam": "Roma",
+        "insight": "Athletic Club to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Athletic Club overturned their first-leg deficit with a 3-1 victory over Roma, advancing to the Europa League quarter-finals. Nico Williams scored twice, and Yuri Berchiche added a third, with the total goals surpassing 2.5 as anticipated."
+      },
+      {
+        "id": 16,
+        "homeTeam": "Eintracht Frankfurt",
+        "awayTeam": "Ajax",
+        "insight": "Eintracht Frankfurt to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "4-1",
+        "analysis": "Eintracht Frankfurt secured a dominant 4-1 victory over Ajax, with Mario Götze contributing two goals. The match's total goals exceeded 2.5, aligning with the pre-match insight."
+      },
+      {
+        "id": 17,
+        "homeTeam": "Lazio",
+        "awayTeam": "Viktoria Plzen",
+        "insight": "Lazio to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Lazio's defensive strength secured a narrow 1-0 victory, keeping the total goals under 2.5 as anticipated."
+      },
+      {
+        "id": 18,
+        "homeTeam": "Olympiakos",
+        "awayTeam": "Bodø/Glimt",
+        "insight": "Olympiakos to Win & Under 2.5",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Olympiakos secured a 2-0 victory, and the scores were below 2.5."
+      },
+      {
+        "id": 19,
+        "homeTeam": "Lyon",
+        "awayTeam": "FCSB",
+        "insight": "Lyon to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-0",
+        "analysis": "Lyon delivered a convincing 3-0 victory over FCSB, with the total goals exceeding 2.5 as anticipated."
+      }
+    ]
+  },
+  
+  {
   "date": "March 12, 2025",
   "matches": [
     {
