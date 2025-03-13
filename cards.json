@@ -13,7 +13,7 @@
     "icon": "Trophy",
     "id": "free-analysis",
     "color": "bg-emerald-500",
-    "buttonText": "Get Free Insights"
+    "buttonText": "View Free Odds"
   },
   {
     "title": "Pro Odds",
@@ -30,7 +30,7 @@
     "icon": "Star",
     "id": "basic-predictions",
     "color": "bg-blue-500",
-    "buttonText": "View Pro Insights"
+    "buttonText": "Get Pro Odds"
   },
   {
     "title": "Elite Odds",
@@ -47,7 +47,7 @@
     "icon": "Crown",
     "id": "premium-predictions",
     "color": "bg-purple-500",
-    "buttonText": "Upgrade to VIP"
+    "buttonText": "Get Elite Odds"
   },
   {
     "title": "Our History",
