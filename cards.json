@@ -1,6 +1,6 @@
 [
   {
-    "title": "Free Predictions",
+    "title": "Free Odds",
     "price": "Free",
     "period": "Forever",
     "description": "Access daily football data-driven prediction and insights with a strong track record. Updated every day!",
@@ -16,7 +16,7 @@
     "buttonText": "Get Free Insights"
   },
   {
-    "title": "Pro Predictions",
+    "title": "Pro Odds",
     "price": "Ksh 250",
     "period": "per day",
     "description": "Unlock 10+ premium insights daily, featuring expert analysis and data-backed performance trends.",
@@ -33,7 +33,7 @@
     "buttonText": "View Pro Insights"
   },
   {
-    "title": "Elite Predictions",
+    "title": "Elite Odds",
     "price": "Ksh 500",
     "period": "per day",
     "description": "Unlock 20+ premium insights daily. Gain exclusive expert-driven insights, in-depth data analysis, and premium football performance trends.",
@@ -50,7 +50,7 @@
     "buttonText": "Upgrade to VIP"
   },
   {
-    "title": "Performance History",
+    "title": "Our History",
     "description": "Explore our past analytical reports with verified data and historical insights.",
     "icon": "History",
     "id": "results",
