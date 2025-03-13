@@ -1,5 +1,74 @@
 [
   {
+  "date": "March 12, 2025",
+  "matches": [
+    {
+      "id": 3,
+      "homeTeam": "Manchester City",
+      "awayTeam": "RB Leipzig",
+      "insight": "Manchester City to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Manchester City secured a convincing win, with the total goals exceeding 2.5 as anticipated."
+    },
+    {
+      "id": 5,
+      "homeTeam": "Club América",
+      "awayTeam": "New York Red Bulls",
+      "insight": "Club América to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Club América dominated the game, winning with a scoreline that surpassed the 2.5 goals mark."
+    },
+    {
+      "id": 10,
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Bayer Leverkusen",
+      "insight": "Borussia Dortmund to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-2",
+      "analysis": "Dortmund secured a thrilling victory, with the total goals exceeding 2.5 as predicted."
+    },
+    {
+      "id": 13,
+      "homeTeam": "Flamengo",
+      "awayTeam": "Palmeiras",
+      "insight": "Flamengo to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-1",
+      "analysis": "Flamengo delivered a dominant performance, winning with a scoreline that surpassed the 2.5 goals mark."
+    },
+    {
+      "id": 15,
+      "homeTeam": "Celtic",
+      "awayTeam": "Rangers",
+      "insight": "Celtic to Win & Both Teams to Score",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Celtic secured a victory with both teams finding the net, aligning with the prediction."
+    },
+    {
+      "id": 17,
+      "homeTeam": "Sporting Kansas City",
+      "awayTeam": "LA Galaxy",
+      "insight": "Both Teams to Score & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "Both teams scored in a high-scoring draw, aligning with the prediction."
+    },
+    {
+      "id": 19,
+      "homeTeam": "FC Porto",
+      "awayTeam": "Braga",
+      "insight": "FC Porto to Win & Over 1.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "FC Porto secured a win with the total goals exceeding 1.5, as expected."
+    }
+  ]
+},
+
+  {
     "date": "March 11, 2025",
     "matches": [
       {
