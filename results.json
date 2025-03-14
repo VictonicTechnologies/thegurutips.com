@@ -1,4 +1,206 @@
 [
+     {
+        "date": "March 14, 2025",
+        "matches":[ {
+  "id": 1,
+  "homeTeam": "Everton",
+  "awayTeam": "Arsenal",
+  "insight": "Arsenal to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "1-3",
+  "analysis": "Arsenal secured a 3-1 victory over Everton at Walton Hall Park, moving up to second place in the league and intensifying the title race."
+},
+{
+  "id": 2,
+  "homeTeam": "Liverpool",
+  "awayTeam": "Manchester United",
+  "insight": "Liverpool to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-1",
+  "analysis": "Liverpool delivered an impressive performance against Manchester United at Anfield, with Olivia Smith playing a pivotal role in their 3-1 win."
+},
+{
+  "id": 3,
+  "homeTeam": "Bayern Munich",
+  "awayTeam": "VfL Wolfsburg",
+  "insight": "Bayern Munich to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-1",
+  "analysis": "Bayern Munich reinforced their title ambitions with a decisive 3-1 victory over VfL Wolfsburg, establishing a six-point lead in the league standings."
+},
+{
+  "id": 4,
+  "homeTeam": "Bristol City",
+  "awayTeam": "Norwich City",
+  "insight": "Norwich City to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "1-2",
+  "analysis": "Norwich City secured a 2-1 away victory against Bristol City, bolstering their position in the Championship standings."
+},
+{
+  "id": 5,
+  "homeTeam": "Nice",
+  "awayTeam": "Auxerre",
+  "insight": "Nice to Win & Under 2.5 Goals",
+  "result": "success",
+  "score": "1-0",
+  "analysis": "Nice edged out a narrow 1-0 victory over Auxerre, maintaining their strong defensive record this season."
+},
+{
+  "id": 6,
+  "homeTeam": "St. Pauli",
+  "awayTeam": "Eintracht Frankfurt",
+  "insight": "Eintracht Frankfurt to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "1-3",
+  "analysis": "Eintracht Frankfurt continued their impressive form with a 3-1 away win against St. Pauli, keeping them in contention for European spots."
+},
+{
+  "id": 7,
+  "homeTeam": "Dunkerque",
+  "awayTeam": "Metz",
+  "insight": "Metz to Win & Under 2.5 Goals",
+  "result": "success",
+  "score": "0-1",
+  "analysis": "Metz secured a vital 1-0 away win over Dunkerque, strengthening their promotion aspirations in Ligue 2."
+},
+{
+  "id": 8,
+  "homeTeam": "Bari",
+  "awayTeam": "Palermo",
+  "insight": "Bari to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-0",
+  "analysis": "Bari dominated the match against Palermo, achieving a convincing 3-0 victory to boost their chances of promotion."
+},  {
+  "id": 9,
+  "homeTeam": "Bristol City",
+  "awayTeam": "Norwich City",
+  "insight": "Norwich City to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "1-2",
+  "analysis": "Norwich City secured a 2-1 away victory against Bristol City, bolstering their position in the Championship standings."
+},
+{
+  "id": 10,
+  "homeTeam": "Nice",
+  "awayTeam": "Auxerre",
+  "insight": "Nice to Win & Under 2.5 Goals",
+  "result": "success",
+  "score": "1-0",
+  "analysis": "Nice edged out a narrow 1-0 victory over Auxerre, maintaining their strong defensive record this season."
+},
+{
+  "id": 11,
+  "homeTeam": "St. Pauli",
+  "awayTeam": "Eintracht Frankfurt",
+  "insight": "Eintracht Frankfurt to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "1-3",
+  "analysis": "Eintracht Frankfurt continued their impressive form with a 3-1 away win against St. Pauli, keeping them in contention for European spots."
+},
+{
+  "id": 12,
+  "homeTeam": "Dunkerque",
+  "awayTeam": "Metz",
+  "insight": "Metz to Win & Under 2.5 Goals",
+  "result": "success",
+  "score": "0-1",
+  "analysis": "Metz secured a vital 1-0 away win over Dunkerque, strengthening their promotion aspirations in Ligue 2."
+},
+{
+  "id": 13,
+  "homeTeam": "Bari",
+  "awayTeam": "Palermo",
+  "insight": "Bari to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-0",
+  "analysis": "Bari dominated the match against Palermo, achieving a convincing 3-0 victory to boost their chances of promotion."
+},  
+{
+  "id": 9,
+  "homeTeam": "Brighton & Hove Albion",
+  "awayTeam": "Fulham",
+  "insight": "Brighton to Win & Under 2.5 Goals",
+  "result": "success",
+  "score": "1-0",
+  "analysis": "Brighton secured a narrow 1-0 victory over Fulham, demonstrating defensive solidity to earn all three points."
+},
+{
+  "id": 10,
+  "homeTeam": "West Ham United",
+  "awayTeam": "Leicester City",
+  "insight": "West Ham to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-1",
+  "analysis": "West Ham showcased attacking prowess in a 3-1 win against Leicester City, with goals from multiple players."
+},
+{
+  "id": 11,
+  "homeTeam": "Dunkerque",
+  "awayTeam": "Metz",
+  "insight": "Metz to Win & Under 2.5 Goals",
+  "result": "success",
+  "score": "0-1",
+  "analysis": "Metz secured a vital 1-0 away win over Dunkerque, strengthening their promotion aspirations in Ligue 2."
+},
+{
+  "id": 13,
+  "homeTeam": "Bari",
+  "awayTeam": "Palermo",
+  "insight": "Bari to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-0",
+  "analysis": "Bari dominated the match against Palermo, achieving a convincing 3-0 victory to boost their chances of promotion."
+},
+{
+  "id": 16,
+  "homeTeam": "Liverpool Women",
+  "awayTeam": "Manchester United Women",
+  "insight": "Liverpool Women to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-1",
+  "analysis": "Liverpool Women delivered a strong performance, defeating Manchester United Women 3-1 at Anfield. Olivia Smith's outstanding play was pivotal in securing the victory."
+},
+{
+  "id": 17,
+  "homeTeam": "Everton Women",
+  "awayTeam": "Arsenal Women",
+  "insight": "Arsenal Women to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "1-3",
+  "analysis": "Arsenal Women overcame Everton Women with a 3-1 victory at Walton Hall Park. Alessia Russo's two goals were instrumental in the win, moving Arsenal up to second place in the league."
+},
+{
+  "id": 18,
+  "homeTeam": "Bayern Munich Women",
+  "awayTeam": "VfL Wolfsburg Women",
+  "insight": "Bayern Munich Women to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-1",
+  "analysis": "Bayern Munich Women secured a decisive 3-1 victory over VfL Wolfsburg Women. Pernille Harder's two goals and an assist highlighted Bayern's dominant performance, extending their lead in the league standings."
+},
+{
+  "id": 14,
+  "homeTeam": "Brighton & Hove Albion",
+  "awayTeam": "Fulham",
+  "insight": "Brighton to Win & Over 2.5 Goals",
+  "result": "success",
+  "score": "3-1",
+  "analysis": "Brighton delivered a strong performance at home, securing a 3-1 victory over Fulham, with their attacking prowess on full display."
+},
+{
+  "id": 15,
+  "homeTeam": "West Ham United",
+  "awayTeam": "Leicester City",
+  "insight": "West Ham to Win & Under 2.5 Goals",
+  "result": "success",
+  "score": "1-0",
+  "analysis": "West Ham edged out a narrow 1-0 win against Leicester City, showcasing their defensive solidity to secure all three points."
+}
+        ]
+    }
+
   {
     "date": "March 13, 2025",
     "matches": [
