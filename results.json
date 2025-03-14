@@ -1,7 +1,7 @@
 [
-     {
-        "date": "March 14, 2025",
-        "matches":[ {
+{
+"date": "March 14, 2025",
+"matches":[ {
   "id": 1,
   "homeTeam": "Everton",
   "awayTeam": "Arsenal",
@@ -199,7 +199,7 @@
   "analysis": "West Ham edged out a narrow 1-0 win against Leicester City, showcasing their defensive solidity to secure all three points."
 }
         ]
-    }
+},
 
   {
     "date": "March 13, 2025",
