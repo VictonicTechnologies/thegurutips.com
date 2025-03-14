@@ -34,7 +34,7 @@
   },
   {
     "title": "Sportpesa Jackpot Predictions",
-    "price": "Ksh 100",
+    "price": "Ksh 200",
     "period": "per day",
     "description": "Get expertly analyzed jackpot predictions with verified performance trends to maximize accuracy.",
     "features": [
@@ -49,6 +49,23 @@
     "color": "bg-blue-500",
     "buttonText": "Get Jackpot Predictions"
   },
+  {
+  "title": "Correct Score Odds",
+  "price": "Ksh 300",
+  "period": "per day",
+  "description": "Get highly accurate correct score odds and predictions based on expert analysis and verified performance trends to maximize accuracy.",
+  "features": [
+    "Expert correct score analysis",
+    "High-accuracy match predictions",
+    "Advanced statistical insights",
+    "Verified past performance trends",
+    "Strategic match selection for correct scores"
+  ],
+  "icon": "Star",
+  "id": "correct-predictions",
+  "color": "bg-blue-500",
+  "buttonText": "Get Correct Score Predictions"
+},
   {
     "title": "Elite Football Predictions",
     "price": "Ksh 250",
