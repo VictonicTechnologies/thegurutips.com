@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "homeTeam": "Bristol City",
+    "awayTeam": "Norwich City",
+    "date": "2025-03-14",
+    "time": "19:45",
+    "insight": "2-1",
+    "odds": "9.00",
+    "confidence": "65%",
+    "analysis": "Bristol City aims to boost their top-six hopes, while Norwich's promotion push has stalled. Bristol's home advantage and recent form suggest a 2-1 victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 2,
+    "homeTeam": "Raith Rovers",
+    "awayTeam": "Dunfermline Athletic",
+    "date": "2025-03-14",
+    "time": "19:45",
+    "insight": "1-0",
+    "odds": "7.00",
+    "confidence": "60%",
+    "analysis": "Despite recent struggles, Dunfermline's positive momentum following a takeover suggests a narrow 1-0 victory over Raith.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 3,
+    "homeTeam": "St Pauli",
+    "awayTeam": "Hoffenheim",
+    "date": "2025-03-14",
+    "time": "19:30",
+    "insight": "2-2",
+    "odds": "12.00",
+    "confidence": "55%",
+    "analysis": "Both teams have been involved in high-scoring games recently. A 2-2 draw reflects their attacking strengths and defensive vulnerabilities.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  }
+]
