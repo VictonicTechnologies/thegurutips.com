@@ -1,7 +1,8 @@
 [
 {
 "date": "March 14, 2025",
-"matches":[ {
+"matches":[ 
+  {
   "id": 1,
   "homeTeam": "Everton",
   "awayTeam": "Arsenal",
@@ -72,7 +73,8 @@
   "result": "success",
   "score": "3-0",
   "analysis": "Bari dominated the match against Palermo, achieving a convincing 3-0 victory to boost their chances of promotion."
-},  {
+},
+{
   "id": 9,
   "homeTeam": "Bristol City",
   "awayTeam": "Norwich City",
@@ -198,7 +200,7 @@
   "score": "1-0",
   "analysis": "West Ham edged out a narrow 1-0 win against Leicester City, showcasing their defensive solidity to secure all three points."
 }
-        ]
+]
 },
 
   {
