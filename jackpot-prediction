@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "homeTeam": "Tenerife CD",
+    "awayTeam": "SD Huesca",
+    "date": "2025-03-15",
+    "time": "15:00",
+    "insight": "Home to Win",
+    "odds": "2.33",
+    "confidence": "70%",
+    "analysis": "Tenerife's strong home performance this season gives them an advantage over Huesca.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 2,
+    "homeTeam": "FC Zurich",
+    "awayTeam": "Servette Geneva",
+    "date": "2025-03-15",
+    "time": "15:15",
+    "insight": "Away to Win",
+    "odds": "2.24",
+    "confidence": "65%",
+    "analysis": "Servette's recent away form suggests they can secure a win against Zurich.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 3,
+    "homeTeam": "NEC Nijmegen",
+    "awayTeam": "Go Ahead Eagles",
+    "date": "2025-03-15",
+    "time": "15:30",
+    "insight": "Home to Win",
+    "odds": "2.16",
+    "confidence": "68%",
+    "analysis": "NEC Nijmegen's consistent home record positions them well against Go Ahead Eagles.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 4,
+    "homeTeam": "Tottenham Hotspur",
+    "awayTeam": "AFC Bournemouth",
+    "date": "2025-03-15",
+    "time": "16:00",
+    "insight": "Home to Win",
+    "odds": "2.38",
+    "confidence": "75%",
+    "analysis": "Tottenham's superior squad and home advantage make them favorites against Bournemouth.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 5,
+    "homeTeam": "KVC Westerlo",
+    "awayTeam": "RSC Anderlecht",
+    "date": "2025-03-15",
+    "time": "17:00",
+    "insight": "Away to Win",
+    "odds": "2.25",
+    "confidence": "60%",
+    "analysis": "Anderlecht's experience and recent form suggest they can overcome Westerlo.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 6,
+    "homeTeam": "Malaga CF",
+    "awayTeam": "Cadiz CF",
+    "date": "2025-03-15",
+    "time": "17:15",
+    "insight": "Draw",
+    "odds": "3.50",
+    "confidence": "55%",
+    "analysis": "Both teams have shown similar form, making a draw a plausible outcome.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 7,
+    "homeTeam": "FC Sion",
+    "awayTeam": "FC Lugano",
+    "date": "2025-03-15",
+    "time": "17:30",
+    "insight": "Away to Win",
+    "odds": "2.49",
+    "confidence": "62%",
+    "analysis": "Lugano's strong away performances this season give them an edge over Sion.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 8,
+    "homeTeam": "FC Luzern",
+    "awayTeam": "FC Basel 1893",
+    "date": "2025-03-15",
+    "time": "17:45",
+    "insight": "Away to Win",
+    "odds": "2.41",
+    "confidence": "70%",
+    "analysis": "Basel's dominance in head-to-head encounters makes them favorites.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 9,
+    "homeTeam": "FC Nantes",
+    "awayTeam": "Strasbourg Alsace",
+    "date": "2025-03-15",
+    "time": "18:15",
+    "insight": "Home to Win",
+    "odds": "2.80",
+    "confidence": "66%",
+    "analysis": "Nantes' home advantage and recent form favor them against Strasbourg.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 10,
+    "homeTeam": "Monza",
+    "awayTeam": "Torino",
+    "date": "2025-03-16",
+    "time": "14:30",
+    "insight": "Away to Win",
+    "odds": "2.20",
+    "confidence": "65%",
+    "analysis": "Torino's strong defensive performance and Monza's struggles against top-tier teams make an away win likely.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 11,
+    "homeTeam": "Bologna",
+    "awayTeam": "Empoli",
+    "date": "2025-03-16",
+    "time": "15:00",
+    "insight": "Home to Win",
+    "odds": "2.10",
+    "confidence": "72%",
+    "analysis": "Bologna's impressive home form and Empoli's struggles away make them favorites.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 12,
+    "homeTeam": "Osasuna",
+    "awayTeam": "Real Sociedad",
+    "date": "2025-03-16",
+    "time": "17:00",
+    "insight": "Draw",
+    "odds": "3.30",
+    "confidence": "60%",
+    "analysis": "Both teams have been solid defensively, making a draw the most likely outcome.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 13,
+    "homeTeam": "Marseille",
+    "awayTeam": "Lyon",
+    "date": "2025-03-16",
+    "time": "18:00",
+    "insight": "Home to Win",
+    "odds": "2.00",
+    "confidence": "68%",
+    "analysis": "Marseille's dominance at home and Lyon's inconsistency make them favorites.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 14,
+    "homeTeam": "Atalanta",
+    "awayTeam": "AS Roma",
+    "date": "2025-03-16",
+    "time": "20:45",
+    "insight": "Away to Win",
+    "odds": "2.45",
+    "confidence": "64%",
+    "analysis": "Roma’s recent form and counter-attacking style give them an edge over Atalanta.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 15,
+    "homeTeam": "Villarreal",
+    "awayTeam": "Athletic Bilbao",
+    "date": "2025-03-16",
+    "time": "21:00",
+    "insight": "Draw",
+    "odds": "3.20",
+    "confidence": "58%",
+    "analysis": "Villarreal and Bilbao are evenly matched, making a draw a likely result.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 16,
+    "homeTeam": "Real Betis",
+    "awayTeam": "Sevilla",
+    "date": "2025-03-17",
+    "time": "22:00",
+    "insight": "Home to Win",
+    "odds": "2.15",
+    "confidence": "70%",
+    "analysis": "Betis have been strong at home, and Sevilla’s inconsistency could cost them.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  },
+  {
+    "id": 17,
+    "homeTeam": "Napoli",
+    "awayTeam": "Inter Milan",
+    "date": "2025-03-17",
+    "time": "22:30",
+    "insight": "Away to Win",
+    "odds": "2.30",
+    "confidence": "75%",
+    "analysis": "Inter's consistency and defensive solidity make them favorites against Napoli.",
+    "bookmaker": {
+      "name": "SportPesa",
+      "logo": "https://www.sportpesa.co.ke/images/logo.png",
+      "link": "https://www.sportpesa.co.ke"
+    }
+  }
+]
