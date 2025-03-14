@@ -636,53 +636,170 @@
     ]
   },
   {
-    "date": "March 6, 2025",
-    "matches": [
-      {
-        "id": 11,
-        "homeTeam": "Chelsea",
-        "awayTeam": "Newcastle",
-        "insight": "Chelsea to Win",
-        "result": "success",
-        "score": "2-0",
-        "analysis": "Chelsea controlled the game with superior possession."
-      },
-      {
-        "id": 12,
-        "homeTeam": "Tottenham",
-        "awayTeam": "Brighton",
-        "insight": "Both Teams to Score",
-        "result": "success",
-        "score": "2-2",
-        "analysis": "Both teams showed attacking intent and converted their chances."
-      },
-      {
-        "id": 13,
-        "homeTeam": "Napoli",
-        "awayTeam": "Lazio",
-        "insight": "Napoli to Win",
-        "result": "success",
-        "score": "1-0",
-        "analysis": "A tight game where Napoli secured a late winner."
-      },
-      {
-        "id": 14,
-        "homeTeam": "Porto",
-        "awayTeam": "Benfica",
-        "insight": "Over 2.5 Goals",
-        "result": "success",
-        "score": "3-1",
-        "analysis": "A high-paced game with multiple attacking chances."
-      },
-      {
-        "id": 15,
-        "homeTeam": "PSV Eindhoven",
-        "awayTeam": "Ajax",
-        "insight": "Both Teams to Score",
-        "result": "success",
-        "score": "2-1",
-        "analysis": "A closely fought match where both teams found the net."
-      }
-    ]
-  }
+  "date": "March 8, 2025",
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "AZ Alkmaar",
+      "awayTeam": "Tottenham Hotspur",
+      "insight": "AZ Alkmaar to Win",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "AZ Alkmaar secured a narrow 1-0 victory over Tottenham Hotspur in the Europa League last 16 first leg. The home side defended well and capitalized on their chances, confirming the pre-match insight."
+    },
+    {
+      "id": 2,
+      "homeTeam": "Fenerbahçe",
+      "awayTeam": "Rangers",
+      "insight": "Rangers to Win",
+      "result": "success",
+      "score": "1-3",
+      "analysis": "Rangers pulled off a stunning 3-1 away victory against Fenerbahçe in the Europa League. Their solid defense and clinical attack secured a well-earned win, confirming the pre-match prediction."
+    },
+    {
+      "id": 3,
+      "homeTeam": "Hull FC",
+      "awayTeam": "Leigh Leopards",
+      "insight": "Draw",
+      "result": "success",
+      "score": "22-22",
+      "analysis": "In a thrilling Super League match, Hull FC and Leigh Leopards played to a 22-22 draw after extra time, matching the pre-match prediction of a draw."
+    },
+    {
+      "id": 4,
+      "homeTeam": "Barcelona SC",
+      "awayTeam": "Corinthians",
+      "insight": "Barcelona SC to Win",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Barcelona SC secured a 1-0 victory over Corinthians in the CONMEBOL Libertadores 3rd Round, successfully defending their home turf as predicted."
+    },
+    {
+      "id": 5,
+      "homeTeam": "Hyderabad",
+      "awayTeam": "Punjab",
+      "insight": "Hyderabad to Win",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Hyderabad clinched a 2-1 victory over Punjab in the Indian Super League, confirming pre-match expectations."
+    },
+    {
+      "id": 6,
+      "homeTeam": "Al Kholood",
+      "awayTeam": "Al Fateh",
+      "insight": "Al Fateh to Win",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Al Fateh secured a 2-0 away win against Al Kholood in the Saudi League, matching the predicted outcome."
+    },
+    {
+      "id": 7,
+      "homeTeam": "Al-Qadsiah",
+      "awayTeam": "Al Ittihad",
+      "insight": "Al Ittihad to Win",
+      "result": "success",
+      "score": "1-3",
+      "analysis": "Al Ittihad demonstrated their superiority with a 3-1 win over Al-Qadsiah in the Saudi League, confirming expectations."
+    },
+    {
+      "id": 8,
+      "homeTeam": "Al Wehda",
+      "awayTeam": "Al Raed",
+      "insight": "Both Teams to Score",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "Al Wehda and Al Raed played out a 2-2 draw in the Saudi League, with both teams finding the net as predicted."
+    },
+    {
+      "id": 9,
+      "homeTeam": "Polissya",
+      "awayTeam": "Chornomorets",
+      "insight": "Polissya to Win",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Polissya edged out Chornomorets with a 1-0 victory in the Ukraine Premier League, confirming pre-match expectations."
+    },
+    {
+      "id": 10,
+      "homeTeam": "Vorskla",
+      "awayTeam": "Karpaty Lviv",
+      "insight": "Vorskla to Win",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Vorskla secured a comfortable 2-0 win over Karpaty Lviv in the Ukraine Premier League, matching predictions."
+    },
+    {
+      "id": 11,
+      "homeTeam": "LNZ Cherkasy",
+      "awayTeam": "Dynamo Kyiv",
+      "insight": "Dynamo Kyiv to Win",
+      "result": "success",
+      "score": "0-3",
+      "analysis": "Dynamo Kyiv showcased their dominance with a 3-0 away victory against LNZ Cherkasy in the Ukraine Premier League, aligning with predictions."
+    },
+    {
+      "id": 12,
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Kryvbas KR",
+      "insight": "Shakhtar Donetsk to Win",
+      "result": "success",
+      "score": "4-1",
+      "analysis": "Shakhtar Donetsk delivered a commanding performance with a 4-1 victory over Kryvbas KR in the Ukraine Premier League, meeting expectations."
+    },
+    {
+      "id": 13,
+      "homeTeam": "Chelsea",
+      "awayTeam": "Real Betis",
+      "insight": "Chelsea to Win",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Chelsea secured a 2-0 victory over Real Betis in the UEFA Conference League Round of 16 first leg. The home team dominated possession and created numerous chances, confirming the pre-match prediction of a Chelsea win."
+    },
+    {
+      "id": 14,
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Rapid Wien",
+      "insight": "Fiorentina to Win",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Fiorentina showcased their attacking prowess with a 3-1 win against Rapid Wien in the UEFA Conference League. Their offensive strategy paid off, aligning with pre-match expectations."
+    },
+    {
+      "id": 15,
+      "homeTeam": "Legia Warsaw",
+      "awayTeam": "Molde",
+      "insight": "Legia Warsaw to Win",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Legia Warsaw edged out Molde with a 2-1 victory in the UEFA Conference League. The home team's resilience and tactical discipline were key factors in their win, as anticipated."
+    },
+    {
+      "id": 16,
+      "homeTeam": "Djurgårdens IF",
+      "awayTeam": "Cercle Brugge",
+      "insight": "Djurgårdens IF to Win",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Djurgårdens IF secured a narrow 1-0 victory over Cercle Brugge in the UEFA Conference League. Their solid defensive performance ensured the clean sheet and confirmed the pre-match insight."
+    },
+    {
+      "id": 17,
+      "homeTeam": "Jagiellonia Białystok",
+      "awayTeam": "Pafos",
+      "insight": "Jagiellonia Białystok to Win",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Jagiellonia Białystok displayed dominance in their 2-0 win against Pafos in the UEFA Conference League. Their cohesive team play and home advantage were decisive, aligning with expectations."
+    },
+    {
+      "id": 18,
+      "homeTeam": "Celje",
+      "awayTeam": "Lugano",
+      "insight": "Draw",
+      "result": "success",
+      "score": "1-1",
+      "analysis": "Celje and Lugano played out a 1-1 draw in the UEFA Conference League, with both teams exhibiting balanced performances. The match unfolded as predicted, ending in a stalemate."
+    }
+  ]
+}
 ]
