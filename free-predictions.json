@@ -1,50 +1,66 @@
 [
-   {
-    "id": 1,
-    "homeTeam": "Chelsea",
-    "awayTeam": "Copenhagen",
-    "date": "2025-03-14",
-    "time": "20:00",
-    "insight": "Chelsea to Win by at Least Two Goals",
-    "odds": "1.75",
-    "confidence": "90%",
-    "analysis": "Chelsea's impeccable form in the Europa Conference League and their home advantage suggest a dominant performance against Copenhagen.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
+{
+      "id": 1,
+      "homeTeam": "Everton FC",
+      "awayTeam": "West Ham United",
+      "date": "2025-03-15",
+      "time": "18:00",
+      "insight": "Draw & Under 2.5 Goals",
+      "odds": "3.50",
+      "confidence": "60%",
+      "analysis": "Both teams have shown inconsistent form recently, making a low-scoring draw the most probable outcome.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 2,
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Nottingham Forest",
+      "date": "2025-03-15",
+      "time": "18:00",
+      "insight": "Ipswich Town to Win & Over 1.5 Goals",
+      "odds": "4.50",
+      "confidence": "70%",
+      "analysis": "Ipswich Town's strong home record suggests a comfortable win over Nottingham Forest, with multiple goals expected.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 3,
+      "homeTeam": "Manchester City",
+      "awayTeam": "Brighton & Hove Albion",
+      "date": "2025-03-15",
+      "time": "18:00",
+      "insight": "Manchester City to Win & Over 2.5 Goals",
+      "odds": "6.00",
+      "confidence": "75%",
+      "analysis": "Manchester City's attacking prowess at home is likely to overpower Brighton, leading to a high-scoring match.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 4,
+      "homeTeam": "Southampton FC",
+      "awayTeam": "Wolverhampton Wanderers",
+      "date": "2025-03-15",
+      "time": "18:00",
+      "insight": "Wolverhampton to Win & Both Teams to Score",
+      "odds": "4.00",
+      "confidence": "65%",
+      "analysis": "Wolverhampton's recent away form indicates they might edge out a win against Southampton, but both teams are likely to score.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
     }
-  },
-  {
-    "id": 2,
-    "homeTeam": "Rangers",
-    "awayTeam": "Fenerbahce",
-    "date": "2025-03-14",
-    "time": "20:00",
-    "insight": "Rangers to Win & Both Teams to Score",
-    "odds": "2.10",
-    "confidence": "85%",
-    "analysis": "Holding a two-goal advantage, Rangers are poised to progress, but Fenerbahce's attacking threat means both teams are likely to find the net.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
-  },
-  {
-    "id": 3,
-    "homeTeam": "Dunfermline Athletic",
-    "awayTeam": "Raith Rovers",
-    "date": "2025-03-14",
-    "time": "19:45",
-    "insight": "Dunfermline to Win",
-    "odds": "2.00",
-    "confidence": "80%",
-    "analysis": "Following their recent 3-1 victory over Raith Rovers on February 1, Dunfermline Athletic is expected to continue their strong performance in this derby match.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://www.1xbet.com"
-    }
-  }
 ]
