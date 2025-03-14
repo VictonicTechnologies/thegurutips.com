@@ -1,31 +1,31 @@
 [
   {
-    "title": "Free Odds",
+    "title": "Free Football Predictions",
     "price": "Free",
     "period": "Forever",
-    "description": "Access daily football odds data-driven prediction and insights with a strong track record. Updated every day!",
+    "description": "Get daily football predictions with basic match insights and statistical breakdowns. Updated every day!",
     "features": [
       "2-5 predictions per day",
-      "Basic statistical breakdown",
-      "High-accuracy event analysis",
-      "Historical performance trends"
+      "Basic match analysis",
+      "General performance trends",
+      "Limited historical insights"
     ],
     "icon": "Trophy",
     "id": "free-analysis",
     "color": "bg-emerald-500",
-    "buttonText": "View Free Odds"
+    "buttonText": "View Free Predictions"
   },
   {
-    "title": "Pro Odds",
+    "title": "Pro Football Odds",
     "price": "Ksh 100",
     "period": "per day",
-    "description": "Unlock 130+ odds daily, featuring expert analysis and data-backed performance trends.",
+    "description": "Access 30+ accurate football odds daily, backed by expert analysis and verified match trends.",
     "features": [
-      "30+ odds",
-      "Advanced match evaluations",
-      "Consistent performance trends",
+      "30+ football odds daily",
+      "Advanced match analysis",
+      "Consistent win trends",
       "Verified historical data",
-      "High-accuracy event analysis"
+      "High-accuracy insights"
     ],
     "icon": "Star",
     "id": "basic-predictions",
@@ -33,25 +33,42 @@
     "buttonText": "Get Pro Odds"
   },
   {
-    "title": "Elite Odds",
+    "title": "Sportpesa Jackpot Predictions",
+    "price": "Ksh 100",
+    "period": "per day",
+    "description": "Get expertly analyzed jackpot predictions with verified performance trends to maximize accuracy.",
+    "features": [
+      "Expert jackpot analysis",
+      "High-accuracy match insights",
+      "Advanced statistical breakdown",
+      "Verified past performance",
+      "Strategic match selection"
+    ],
+    "icon": "Jackpot",
+    "id": "jackpot-predictions",
+    "color": "bg-blue-500",
+    "buttonText": "Get Jackpot Predictions"
+  },
+  {
+    "title": "Elite Football Predictions",
     "price": "Ksh 250",
     "period": "per day",
-    "description": "Unlock 60+ odds daily. Gain exclusive expert-driven odds, in-depth data analysis, and premium football ppredictions.",
+    "description": "Unlock 60+ exclusive predictions with premium match insights, deep statistical analysis, and expert recommendations.",
     "features": [
-      "60+ Odds",
-      "Deep statistical analysis",
+      "60+ premium predictions daily",
+      "In-depth match analysis",
       "Guaranteed high-accuracy insights",
-      "Verified outcome patterns",
-      "Exclusive historical data access"
+      "Exclusive historical data",
+      "Verified outcome patterns"
     ],
     "icon": "Crown",
     "id": "premium-predictions",
     "color": "bg-purple-500",
-    "buttonText": "Get Elite Odds"
+    "buttonText": "Get Elite Predictions"
   },
   {
-    "title": "Our History",
-    "description": "Explore our past analytical reports with verified data and historical insights.",
+    "title": "Football Predictions History",
+    "description": "Access past match predictions, verified results, and historical accuracy insights.",
     "icon": "History",
     "id": "results",
     "color": "bg-gray-500",
