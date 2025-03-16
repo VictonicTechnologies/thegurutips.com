@@ -1,242 +1,275 @@
-[ 
- {
-      "id": 1,
-      "homeTeam": "Arsenal",
-      "awayTeam": "Chelsea",
-      "date": "2025-03-16",
-      "time": "13:30",
-      "insight": "Both Teams to Score & Over 2.5 Goals",
-      "odds": "2.10",
-      "confidence": "65%",
-      "analysis": "Both teams have potent attacks and have been involved in high-scoring games recently.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
+
+[
+  {
+    "id": 1,
+    "homeTeam": "Arsenal",
+    "awayTeam": "Chelsea",
+    "date": "2025-03-17",
+    "time": "20:00",
+    "insight": "Arsenal to Win & Over 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "75%",
+    "analysis": "Arsenal's strong home form and attacking prowess suggest a high-scoring victory against Chelsea.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
   },
   {
-      "id": 2,
-      "homeTeam": "Fulham",
-      "awayTeam": "Tottenham Hotspur",
-      "date": "2025-03-16",
-      "time": "13:30",
-      "insight": "Tottenham to Win & Under 3.5 Goals",
-      "odds": "2.50",
-      "confidence": "60%",
-      "analysis": "Tottenham's solid defense might limit Fulham's chances, leading to a low-scoring win.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
+    "id": 2,
+    "homeTeam": "Celtic",
+    "awayTeam": "Rangers",
+    "date": "2025-03-17",
+    "time": "19:45",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "1.95",
+    "confidence": "70%",
+    "analysis": "The Old Firm derby is expected to be a thrilling encounter with goals from both sides.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
   },
   {
-      "id": 3,
-      "homeTeam": "Leicester City",
-      "awayTeam": "Manchester United",
-      "date": "2025-03-16",
-      "time": "19:00",
-      "insight": "Manchester United to Win & Both Teams to Score",
-      "odds": "3.00",
-      "confidence": "55%",
-      "analysis": "Manchester United's attacking prowess could outshine Leicester, though both teams are likely to score.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
+    "id": 3,
+    "homeTeam": "FC Voluntari",
+    "awayTeam": "Universitatea Craiova",
+    "date": "2025-03-17",
+    "time": "18:00",
+    "insight": "Universitatea Craiova to Win & Under 3.5 Goals",
+    "odds": "2.50",
+    "confidence": "65%",
+    "analysis": "Universitatea Craiova's solid defense is likely to secure them a narrow victory in a low-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
   },
   {
-      "id": 4,
-      "homeTeam": "Liverpool",
-      "awayTeam": "Newcastle United",
-      "date": "2025-03-16",
-      "time": "16:30",
-      "insight": "Liverpool to Win & Over 2.5 Goals",
-      "odds": "2.20",
-      "confidence": "70%",
-      "analysis": "Liverpool's strong home form suggests a high-scoring victory.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
+    "id": 4,
+    "homeTeam": "Manchester United",
+    "awayTeam": "Liverpool",
+    "date": "2025-03-17",
+    "time": "21:00",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "1.85",
+    "confidence": "78%",
+    "analysis": "Both teams possess strong attacking units, making a high-scoring affair likely.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
   },
   {
-      "id": 5,
-      "homeTeam": "Sevilla",
-      "awayTeam": "Athletic Club",
-      "date": "2025-03-16",
-      "time": "16:15",
-      "insight": "Draw & Under 2.5 Goals",
-      "odds": "3.40",
-      "confidence": "60%",
-      "analysis": "Both teams have strong defenses, indicating a likely low-scoring draw.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
+    "id": 5,
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Atletico Madrid",
+    "date": "2025-03-17",
+    "time": "20:30",
+    "insight": "Real Madrid to Win & Under 3.5 Goals",
+    "odds": "2.20",
+    "confidence": "72%",
+    "analysis": "Real Madrid's home advantage and solid defense suggest a controlled, low-scoring victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
   },
   {
-        "id": 6,
-        "homeTeam": "Atletico Madrid",
-        "awayTeam": "FC Barcelona",
-        "date": "2025-03-16",
-        "time": "16:00",
-        "insight": "Both Teams to Score & Over 2.5 Goals",
-        "odds": "1.95",
-        "confidence": "70%",
-        "analysis": "Both teams have strong attacking records, suggesting a high-scoring encounter.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
+    "id": 6,
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "Borussia Dortmund",
+    "date": "2025-03-17",
+    "time": "19:30",
+    "insight": "Bayern Munich to Win & Both Teams to Score",
+    "odds": "2.00",
+    "confidence": "75%",
+    "analysis": "Bayern's attacking strength at home gives them the edge, though Dortmund's offense is likely to score.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
   },
   {
-        "id": 7,
-        "homeTeam": "Paris Saint-Germain",
-        "awayTeam": "Marseille",
-        "date": "2025-03-16",
-        "time": "19:45",
-        "insight": "PSG to Win & Over 2.5 Goals",
-        "odds": "2.10",
-        "confidence": "75%",
-        "analysis": "PSG's dominant home form and attacking prowess make them favorites in a potentially high-scoring match.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
+    "id": 7,
+    "homeTeam": "Paris Saint-Germain",
+    "awayTeam": "Olympique Lyonnais",
+    "date": "2025-03-17",
+    "time": "21:45",
+    "insight": "PSG to Win & Over 2.5 Goals",
+    "odds": "1.90",
+    "confidence": "80%",
+    "analysis": "PSG's dominant form and attacking depth suggest a high-scoring victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
   },
-      {
-        "id": 8,
-        "homeTeam": "Atalanta",
-        "awayTeam": "Inter Milan",
-        "date": "2025-03-16",
-        "time": "17:00",
-        "insight": "Inter Milan to Win & Both Teams to Score",
-        "odds": "2.75",
-        "confidence": "65%",
-        "analysis": "Inter's strong away performance combined with Atalanta's scoring ability suggests this outcome.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-      },
-      {
-        "id": 9,
-        "homeTeam": "Villarreal",
-        "awayTeam": "Real Madrid",
-        "date": "2025-03-16",
-        "time": "16:00",
-        "insight": "Real Madrid to Win & Over 2.5 Goals",
-        "odds": "2.30",
-        "confidence": "68%",
-        "analysis": "Real Madrid's attacking strength and Villarreal's defensive vulnerabilities point towards a high-scoring win for the visitors.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-      },
-      {
-        "id": 10,
-        "homeTeam": "Lyon",
-        "awayTeam": "Le Havre",
-        "date": "2025-03-16",
-        "time": "14:00",
-        "insight": "Lyon to Win & Under 3.5 Goals",
-        "odds": "2.00",
-        "confidence": "72%",
-        "analysis": "Lyon's solid defense suggests a controlled, low-scoring victory.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-      },
-      {
-        "id": 11,
-        "homeTeam": "Sheffield Wednesday",
-        "awayTeam": "Sheffield United",
-        "date": "2025-03-16",
-        "time": "12:30",
-        "insight": "Both Teams to Score",
-        "odds": "1.80",
-        "confidence": "65%",
-        "analysis": "Local derbies are often intense, with both teams likely to find the net.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-      },
-      {
-        "id": 12,
-        "homeTeam": "Bochum",
-        "awayTeam": "Eintracht Frankfurt",
-        "date": "2025-03-16",
-        "time": "14:30",
-        "insight": "Eintracht Frankfurt to Win",
-        "odds": "2.00",
-        "confidence": "70%",
-        "analysis": "Eintracht Frankfurt's superior form suggests they are likely to secure an away victory.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-      },
-      {
-        "id": 13,
-        "homeTeam": "Atletico Madrid",
-        "awayTeam": "FC Barcelona",
-        "date": "2025-03-16",
-        "time": "16:00",
-        "insight": "Both Teams to Score & Over 2.5 Goals",
-        "odds": "2.10",
-        "confidence": "68%",
-        "analysis": "Both teams possess strong attacking capabilities, indicating a high-scoring match.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-      },
-      {
-        "id": 14,
-        "homeTeam": "Lyon",
-        "awayTeam": "Le Havre",
-        "date": "2025-03-16",
-        "time": "14:00",
-        "insight": "Lyon to Win & Over 2.5 Goals",
-        "odds": "1.90",
-        "confidence": "75%",
-        "analysis": "Lyon's strong home record and attacking prowess suggest a convincing win.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-      },
-      {
-        "id": 15,
-        "homeTeam": "Atalanta",
-        "awayTeam": "Inter Milan",
-        "date": "2025-03-16",
-        "time": "17:00",
-        "insight": "Inter Milan to Win & Both Teams to Score",
-        "odds": "2.50",
-        "confidence": "65%",
-        "analysis": "Inter's consistent performance and Atalanta's attacking style point towards a competitive match with goals from both sides.",
-        "bookmaker": {
-            "name": "1xBet",
-            "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-            "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-          }
-     }
+  {
+    "id": 8,
+    "homeTeam": "Juventus",
+    "awayTeam": "Inter Milan",
+    "date": "2025-03-17",
+    "time": "20:45",
+    "insight": "Under 2.5 Goals",
+    "odds": "1.95",
+    "confidence": "68%",
+    "analysis": "Both teams' strong defenses suggest a tight, low-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 9,
+    "homeTeam": "Ajax",
+    "awayTeam": "PSV Eindhoven",
+    "date": "2025-03-17",
+    "time": "19:00",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "1.80",
+    "confidence": "74%",
+    "analysis": "Both Dutch giants have potent offenses, indicating a high-scoring encounter.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 10,
+    "homeTeam": "Porto",
+    "awayTeam": "Benfica",
+    "date": "2025-03-17",
+    "time": "22:00",
+    "insight": "Porto to Win & Under 3.5 Goals",
+    "odds": "2.30",
+    "confidence": "70%",
+    "analysis": "Porto's home advantage and defensive solidity point towards a narrow victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 11,
+    "homeTeam": "Pumas UNAM",
+    "awayTeam": "Monterrey",
+    "date": "2025-03-17",
+    "time": "20:00",
+    "insight": "Monterrey to Win & Over 2.5 Goals",
+    "odds": "2.40",
+    "confidence": "70%",
+    "analysis": "Monterrey's strong attacking form suggests a high-scoring victory against Pumas UNAM.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 12,
+    "homeTeam": "Pachuca",
+    "awayTeam": "Tijuana",
+    "date": "2025-03-17",
+    "time": "22:00",
+    "insight": "Pachuca to Win & Both Teams to Score",
+    "odds": "2.10",
+    "confidence": "68%",
+    "analysis": "Pachuca's home advantage and offensive strength make them favorites, though Tijuana is likely to find the net.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 13,
+    "homeTeam": "Castellon",
+    "awayTeam": "Deportivo La Coruña",
+    "date": "2025-03-17",
+    "time": "19:00",
+    "insight": "Under 2.5 Goals",
+    "odds": "1.85",
+    "confidence": "72%",
+    "analysis": "Both teams' defensive approaches suggest a low-scoring encounter.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 14,
+    "homeTeam": "Novi Pazar",
+    "awayTeam": "Zeleznicar Pancevo",
+    "date": "2025-03-17",
+    "time": "18:00",
+    "insight": "Both Teams to Score",
+    "odds": "1.90",
+    "confidence": "65%",
+    "analysis": "Both sides have shown vulnerabilities in defense, making goals at both ends likely.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 15,
+    "homeTeam": "Zambia",
+    "awayTeam": "Eritrea",
+    "date": "2025-03-17",
+    "time": "15:00",
+    "insight": "Zambia to Win & Over 2.5 Goals",
+    "odds": "2.00",
+    "confidence": "75%",
+    "analysis": "Zambia's superior squad and attacking capabilities suggest a comfortable victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 16,
+    "homeTeam": "Tanzania",
+    "awayTeam": "Congo",
+    "date": "2025-03-17",
+    "time": "17:00",
+    "insight": "Under 2.5 Goals",
+    "odds": "1.80",
+    "confidence": "70%",
+    "analysis": "Both teams' recent matches have been low-scoring, indicating a likely defensive battle.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 17,
+    "homeTeam": "Hapoel Rishon LeZion",
+    "awayTeam": "Hapoel Nof HaGalil",
+    "date": "2025-03-17",
+    "time": "17:00",
+    "insight": "Hapoel Rishon LeZion to Win & Under 3.5 Goals",
+    "odds": "2.20",
+    "confidence": "68%",
+    "analysis": "Playing at home, Hapoel Rishon LeZion is expected to secure a narrow victory in a low-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  }
 ]
