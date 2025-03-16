@@ -1,4 +1,20 @@
 [
+     {
+    "id": 24,
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Osasuna",
+    "date": "2025-03-17",
+    "time": "20:00",
+    "insight": "2-0",
+    "odds": "1.80",
+    "confidence": "80%",
+    "analysis": "Real Sociedad's solid defense is expected to keep a clean sheet against Osasuna.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
    {
     "id": 26,
     "homeTeam": "Valencia",
@@ -9,22 +25,6 @@
     "odds": "1.70",
     "confidence": "85%",
     "analysis": "Barcelona's superior form and attacking strength make them favorites against Valencia.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-    }
-  },
-   {
-    "id": 24,
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Osasuna",
-    "date": "2025-03-17",
-    "time": "20:00",
-    "insight": "2-0",
-    "odds": "1.80",
-    "confidence": "80%",
-    "analysis": "Real Sociedad's solid defense is expected to keep a clean sheet against Osasuna.",
     "bookmaker": {
       "name": "1xBet",
       "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
