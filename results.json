@@ -1,4 +1,171 @@
 [
+    {
+      "date": "March 15, 2025",
+      "matches": [
+        {
+          "id": 1,
+          "homeTeam": "Manchester City",
+          "awayTeam": "Brighton & Hove Albion",
+          "insight": "Over 3.5 Goals",
+          "result": "success",
+          "score": "2-2",
+          "analysis": "In a thrilling encounter, Manchester City and Brighton & Hove Albion played out a 2-2 draw, with both teams showcasing attacking prowess."
+        },
+        {
+          "id": 2,
+          "homeTeam": "Southampton FC",
+          "awayTeam": "Wolverhampton Wanderers",
+          "insight": "Wolverhampton Wanderers to Win & Over 2.5 Goals",
+          "result": "success",
+          "score": "1-2",
+          "analysis": "Wolverhampton Wanderers secured a 2-1 victory over Southampton FC, demonstrating their resilience on the road."
+        },
+        {
+          "id": 3,
+          "homeTeam": "AFC Bournemouth",
+          "awayTeam": "Brentford FC",
+          "insight": "Brentford FC to Win & Over 2.5 Goals",
+          "result": "success",
+          "score": "1-2",
+          "analysis": "Brentford FC continued their impressive form with a 2-1 away win against AFC Bournemouth."
+        },
+        {
+          "id": 4,
+          "homeTeam": "Everton FC",
+          "awayTeam": "West Ham United",
+          "insight": "Both Teams to Score & Over 2.5 Goals",
+          "result": "success",
+          "score": "2-1",
+          "analysis": "Everton FC and West Ham United delivered an entertaining match, with both teams finding the net and the game ending 2-1."
+        },
+        {
+          "id": 5,
+          "homeTeam": "Ipswich Town",
+          "awayTeam": "Nottingham Forest",
+          "insight": "Nottingham Forest to Win & Over 2.5 Goals",
+          "result": "success",
+          "score": "2-4",
+          "analysis": "Nottingham Forest displayed attacking dominance with a 4-2 victory over Ipswich Town."
+        },
+        {
+            "id": 6,
+            "homeTeam": "RB Leipzig",
+            "awayTeam": "Borussia Dortmund",
+            "insight": "RB Leipzig to Win & Under 3.5 Goals",
+            "result": "success",
+            "score": "2-0",
+            "analysis": "RB Leipzig secured a 2-0 victory over Borussia Dortmund, ending their four-match winless streak. Goals from Xavi Simons and Lois Openda ensured the win, moving Leipzig up to fifth place in the standings."
+          },
+          {
+            "id": 7,
+            "homeTeam": "Bayern Munich",
+            "awayTeam": "Union Berlin",
+            "insight": "Both Teams to Score & Under 3.5 Goals",
+            "result": "success",
+            "score": "1-1",
+            "analysis": "Despite dominating possession, Bayern Munich were held to a 1-1 draw by Union Berlin. Leroy Sané scored for Bayern, but a late equalizer from Union Berlin ensured the points were shared."
+          },
+          {
+            "id": 8,
+            "homeTeam": "Gallen",
+            "awayTeam": "Lausanne-Sport",
+            "insight": "Gallen to Win & Over 2.5 Goals",
+            "result": "success",
+            "score": "3-1",
+            "analysis": "Gallen secured a convincing 3-1 victory over Lausanne-Sport, dominating possession and creating numerous scoring opportunities."
+          },
+          {
+            "id": 9,
+            "homeTeam": "Zürich",
+            "awayTeam": "Luzern",
+            "insight": "Zürich to Win & Under 3.5 Goals",
+            "result": "success",
+            "score": "2-0",
+            "analysis": "Zürich displayed solid defensive performance, earning a 2-0 win against Luzern and maintaining a clean sheet."
+          },
+          {
+            "id": 10,
+            "homeTeam": "Bala Town",
+            "awayTeam": "Haverfordwest County",
+            "insight": "Bala Town to Win & Over 2.5 Goals",
+            "result": "success",
+            "score": "3-0",
+            "analysis": "Bala Town dominated the match, achieving a 3-0 victory over Haverfordwest County with a strong offensive display."
+          },
+          {
+            "id": 11,
+            "homeTeam": "Canvey Island",
+            "awayTeam": "Lewes",
+            "insight": "Lewes to Win & Over 2.5 Goals",
+            "result": "success",
+            "score": "1-3",
+            "analysis": "Lewes showcased their attacking prowess with a 3-1 away win against Canvey Island, controlling the game's tempo."
+          },
+          {
+            "id": 12,
+            "homeTeam": "Carshalton Athletic",
+            "awayTeam": "Cray Wanderers",
+            "insight": "Carshalton Athletic to Win & Under 3.5 Goals",
+            "result": "success",
+            "score": "1-0",
+            "analysis": "In a tightly contested match, Carshalton Athletic edged out a 1-0 victory over Cray Wanderers, relying on strong defense."
+          },
+          {
+            "id": 13,
+            "homeTeam": "AC Milan",
+            "awayTeam": "Como",
+            "insight": "AC Milan to Win & Over 2.5 Goals",
+            "result": "success",
+            "score": "2-1",
+            "analysis": "AC Milan came from behind to secure a 2-1 victory over Como. Goals from Christian Pulisic and Tijjani Reijnders in the second half overturned the early deficit. Como's Dele Alli was sent off shortly after coming on as a substitute."
+          },
+          {
+            "id": 14,
+            "homeTeam": "Bowers & Pitsea",
+            "awayTeam": "Horsham",
+            "insight": "Horsham to Win & Over 2.5 Goals",
+            "result": "success",
+            "score": "1-3",
+            "analysis": "Horsham delivered a strong performance, securing a 3-1 away victory over Bowers & Pitsea. Their attacking strategy paid off, leading to a comfortable win."
+          },
+          {
+            "id": 15,
+            "homeTeam": "Chatham Town",
+            "awayTeam": "Bognor Regis Town",
+            "insight": "Chatham Town to Win & Under 3.5 Goals",
+            "result": "success",
+            "score": "2-0",
+            "analysis": "Chatham Town showcased solid defense, achieving a 2-0 win against Bognor Regis Town. Their disciplined approach limited the visitors' scoring opportunities."
+          },
+          {
+            "id": 16,
+            "homeTeam": "Chichester City",
+            "awayTeam": "Potters Bar Town",
+            "insight": "Both Teams to Score & Over 2.5 Goals",
+            "result": "success",
+            "score": "2-2",
+            "analysis": "In an evenly matched contest, Chichester City and Potters Bar Town played to a 2-2 draw, with both sides displaying offensive prowess."
+          },
+          {
+            "id": 17,
+            "homeTeam": "Cray Valley Paper Mills",
+            "awayTeam": "Dover Athletic",
+            "insight": "Dover Athletic to Win & Over 2.5 Goals",
+            "result": "success",
+            "score": "1-3",
+            "analysis": "Dover Athletic's attacking dominance was evident in their 3-1 victory over Cray Valley Paper Mills, controlling the game's tempo throughout."
+          },
+          {
+            "id": 18,
+            "homeTeam": "Dartford",
+            "awayTeam": "Hastings United",
+            "insight": "Dartford to Win & Under 3.5 Goals",
+            "result": "success",
+            "score": "2-0",
+            "analysis": "Dartford maintained defensive solidity, securing a 2-0 win against Hastings United and keeping a clean sheet."
+          }
+      ]
+    },
 {
 "date": "March 14, 2025",
 "matches":[ 
