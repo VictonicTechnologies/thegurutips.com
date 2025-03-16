@@ -1,66 +1,66 @@
 [
  {
-      "id": 1,
-      "homeTeam": "Arsenal",
-      "awayTeam": "Chelsea",
-      "date": "2025-03-16",
-      "time": "13:30",
-      "insight": "Both Teams to Score & Over 2.5 Goals",
-      "odds": "2.10",
-      "confidence": "65%",
-      "analysis": "Both teams have potent attacks and have been involved in high-scoring games recently.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 2,
-      "homeTeam": "Fulham",
-      "awayTeam": "Tottenham Hotspur",
-      "date": "2025-03-16",
-      "time": "13:30",
-      "insight": "Tottenham to Win & Under 3.5 Goals",
-      "odds": "2.50",
-      "confidence": "60%",
-      "analysis": "Tottenham's solid defense might limit Fulham's chances, leading to a low-scoring win.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 3,
-      "homeTeam": "Leicester City",
-      "awayTeam": "Manchester United",
-      "date": "2025-03-16",
-      "time": "19:00",
-      "insight": "Manchester United to Win & Both Teams to Score",
-      "odds": "3.00",
-      "confidence": "55%",
-      "analysis": "Manchester United's attacking prowess could outshine Leicester, though both teams are likely to score.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 4,
-      "homeTeam": "Liverpool",
-      "awayTeam": "Newcastle United",
-      "date": "2025-03-16",
-      "time": "16:30",
-      "insight": "Liverpool to Win & Over 2.5 Goals",
-      "odds": "2.20",
-      "confidence": "70%",
-      "analysis": "Liverpool's strong home form suggests a high-scoring victory.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
+    "id": 1,
+    "homeTeam": "Everton",
+    "awayTeam": "West Ham United",
+    "date": "2025-03-17",
+    "time": "17:00",
+    "insight": "1-1",
+    "odds": "3.50",
+    "confidence": "65%",
+    "analysis": "Both teams have struggled to find consistent form, making a draw a likely outcome.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
     }
+  },
+  {
+    "id": 2,
+    "homeTeam": "Angers",
+    "awayTeam": "Monaco",
+    "date": "2025-03-17",
+    "time": "15:00",
+    "insight": "0-2",
+    "odds": "2.00",
+    "confidence": "70%",
+    "analysis": "Monaco's strong away record suggests they will secure a win against Angers.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 3,
+    "homeTeam": "Empoli",
+    "awayTeam": "AS Roma",
+    "date": "2025-03-17",
+    "time": "18:00",
+    "insight": "0-2",
+    "odds": "1.80",
+    "confidence": "75%",
+    "analysis": "AS Roma's recent form indicates a likely victory over Empoli.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 4,
+    "homeTeam": "Juventus",
+    "awayTeam": "Atalanta",
+    "date": "2025-03-17",
+    "time": "20:45",
+    "insight": "1-0",
+    "odds": "2.10",
+    "confidence": "68%",
+    "analysis": "Juventus's solid defense may secure them a narrow win against Atalanta.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  }
 ]
