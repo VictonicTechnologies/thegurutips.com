@@ -1,50 +1,66 @@
 [
-  {
-    "id": 1,
-    "homeTeam": "Arsenal",
-    "awayTeam": "Chelsea",
-    "date": "2025-03-17",
-    "time": "20:00",
-    "insight": "Arsenal to Win & Over 2.5 Goals",
-    "odds": "2.10",
-    "confidence": "75%",
-    "analysis": "Arsenal's strong home form and attacking prowess suggest a high-scoring victory against Chelsea.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+     {
+      "id": 1,
+      "homeTeam": "Rotherham",
+      "awayTeam": "Wycombe",
+      "date": "2025-03-18",
+      "time": "19:45",
+      "insight": "Rotherham to Win",
+      "odds": "2.50",
+      "confidence": "65%",
+      "analysis": "Rotherham's strong home performances position them favorably against Wycombe.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 2,
+      "homeTeam": "Gateshead",
+      "awayTeam": "Braintree",
+      "date": "2025-03-18",
+      "time": "19:45",
+      "insight": "Both Teams to Score",
+      "odds": "1.80",
+      "confidence": "60%",
+      "analysis": "Both teams have shown attacking intent, suggesting a game with goals at both ends.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 3,
+      "homeTeam": "Altrincham",
+      "awayTeam": "Wealdstone",
+      "date": "2025-03-18",
+      "time": "19:45",
+      "insight": "Altrincham to Win",
+      "odds": "2.20",
+      "confidence": "55%",
+      "analysis": "Altrincham's recent form gives them the edge in this matchup against Wealdstone.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 4,
+      "homeTeam": "Fylde",
+      "awayTeam": "Sutton United",
+      "date": "2025-03-18",
+      "time": "19:45",
+      "insight": "Fylde to Win",
+      "odds": "2.00",
+      "confidence": "70%",
+      "analysis": "Fylde's solid home record suggests a likely victory against Sutton United.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
     }
-  },
-  {
-    "id": 2,
-    "homeTeam": "Celtic",
-    "awayTeam": "Rangers",
-    "date": "2025-03-17",
-    "time": "19:45",
-    "insight": "Both Teams to Score & Over 2.5 Goals",
-    "odds": "1.95",
-    "confidence": "70%",
-    "analysis": "The Old Firm derby is expected to be a thrilling encounter with goals from both sides.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-    }
-  },
-  {
-    "id": 3,
-    "homeTeam": "FC Voluntari",
-    "awayTeam": "Universitatea Craiova",
-    "date": "2025-03-17",
-    "time": "18:00",
-    "insight": "Universitatea Craiova to Win & Under 3.5 Goals",
-    "odds": "2.50",
-    "confidence": "65%",
-    "analysis": "Universitatea Craiova's solid defense is likely to secure them a narrow victory in a low-scoring match.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-    }
-  }
 ]
