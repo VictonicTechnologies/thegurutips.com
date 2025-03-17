@@ -1,5 +1,235 @@
 [
     {
+    "date": "March 16, 2025",
+    "matches": [
+      {
+        "id": 1,
+        "homeTeam": "Arsenal FC",
+        "awayTeam": "Chelsea FC",
+        "insight": "Arsenal to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Arsenal secured a narrow 1-0 victory over Chelsea. Mikel Merino's headed flick from a set-piece in the first half proved decisive. Despite Chelsea's improved performance in the second half, they struggled to create clear-cut chances, highlighting the impact of missing key forward Cole Palmer. Arsenal's defensive organization limited Chelsea's opportunities, ensuring a clean sheet and a vital win."
+      },
+      {
+        "id": 2,
+        "homeTeam": "Fulham FC",
+        "awayTeam": "Tottenham Hotspur",
+        "insight": "Fulham FC to win ",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Fulham achieved a 2-0 victory over Tottenham Hotspur."
+      },
+      {
+        "id": 3,
+        "homeTeam": "Leicester City",
+        "awayTeam": "Manchester United",
+        "insight": "Manchester United to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "0-3",
+        "analysis": "Manchester United ended their goal drought with a commanding 3-0 win over Leicester City. Rasmus Hojlund broke his scoring drought with a goal, followed by Alejandro Garnacho's strike in the 67th minute. Bruno Fernandes sealed the victory with a goal in the 90th minute. Leicester's struggles continued, extending their home goal drought to seven games and edging them closer to relegation."
+      },
+      {
+        "id": 4,
+        "homeTeam": "Celtic FC",
+        "awayTeam": "Rangers FC",
+        "insight": "Both Teams to Score & Over 2.5 Goals",
+        "result": "success",
+        "score": "2-3",
+        "analysis": "In a thrilling Scottish Premiership match, Rangers triumphed over Celtic with a 3-2 victory at Celtic Park. Despite Celtic dominating possession and having more shots, Rangers' clinical finishing made the difference. Nicolas Raskin gave Rangers an early lead with a header from a corner, and Abdallah Sima doubled the lead with a brilliant run and finish. Celtic sparked a comeback with Daizen Maeda's header and Reo Hatate's composed strike, leveling the score at 2-2. However, substitute Hamza Igamane scored an 88th-minute winner for Rangers, silencing the home crowd and securing the victory despite a late flurry of Celtic attacks."
+      },
+      {
+        "id": 5,
+        "homeTeam": "Bayern Munich",
+        "awayTeam": "Union Berlin",
+        "insight": "draw & Both Teams to Score",
+        "result": "success",
+        "score": "1-1",
+        "analysis": "Bayern Munich drew 1-1 with Union Berlin. Key moments include Leroy Sané's goal in the 75th minute and Jonas Urbig's error leading to Union's equalizer by Benedict Hollerbach. Despite strong control."
+      },
+      {
+        "id": 5,
+        "homeTeam": "Coventry City",
+        "awayTeam": "Sunderland AFC",
+        "insight": "Coventry City to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-0",
+        "analysis": "Coventry City secured a dominant 3-0 victory over Sunderland AFC, with Haji Wright delivering an outstanding performance by scoring a hat trick. Wright's clinical finishing and Coventry's solid defense were key factors in this comprehensive win."
+      },
+      {
+        "id": 6,
+        "homeTeam": "AC Milan",
+        "awayTeam": "Como 1907",
+        "insight": "AC Milan to Win & Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "AC Milan emerged victorious with a 2-1 win over Como 1907. Christian Pulisic played a pivotal role, scoring one goal and creating two chances, showcasing his influence in AC Milan's attacking play."
+      },
+      {
+        "id": 7,
+        "homeTeam": "Charlotte FC",
+        "awayTeam": "FC Cincinnati",
+        "insight": "Charlotte FC to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Charlotte FC secured a 2-0 victory over FC Cincinnati. Patrick Agyemang contributed significantly by scoring a goal, and the team's defensive solidity ensured a clean sheet."
+      },
+      {
+        "id": 8,
+        "homeTeam": "Colorado Rapids",
+        "awayTeam": "San Jose Earthquakes",
+        "insight": "Both Teams to Score & Over 2.5 Goals",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Colorado Rapids edged out San Jose Earthquakes with a 2-1 win. Goalkeeper Zack Steffen was instrumental, making numerous saves to preserve the lead and secure the victory for his team."
+      },    {
+        "id": 9,
+        "homeTeam": "Puszcza Niepołomice",
+        "awayTeam": "Piast Gliwice",
+        "insight": "Piast Gliwice to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "0-1",
+        "analysis": "Piast Gliwice secured a narrow 1-0 victory over Puszcza Niepołomice. The match was tightly contested, with Piast Gliwice's defense holding firm to maintain a clean sheet."
+      },
+      {
+        "id": 10,
+        "homeTeam": "Zagłębie Lubin",
+        "awayTeam": "Korona Kielce",
+        "insight": "Both Teams to Score & Over 2.5 Goals",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Zagłębie Lubin emerged victorious with a 2-1 win over Korona Kielce. Both teams displayed attacking intent, resulting in a match with multiple goals."
+      },
+      {
+        "id": 11,
+        "homeTeam": "Raków Częstochowa",
+        "awayTeam": "Legia Warsaw",
+        "insight": "Raków Częstochowa to Win & Both Teams to Score",
+        "result": "success",
+        "score": "3-2",
+        "analysis": "In a thrilling encounter, Raków Częstochowa defeated Legia Warsaw 3-2. Both teams showcased their offensive capabilities, but Raków Częstochowa managed to edge out the victory."
+      },
+      {
+        "id": 12,
+        "homeTeam": "Grasshoppers",
+        "awayTeam": "Sion",
+        "insight": "Grasshoppers to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-1",
+        "analysis": "Grasshoppers secured a convincing 3-1 victory over Sion. The home team dominated the match, displaying superior attacking prowess."
+      },
+      {
+        "id": 13,
+        "homeTeam": "Basel",
+        "awayTeam": "Young Boys",
+        "insight": "Young Boys to Win & Both Teams to Score",
+        "result": "success",
+        "score": "1-2",
+        "analysis": "Young Boys triumphed over Basel with a 2-1 victory. Both teams found the back of the net, but Young Boys proved to be the stronger side."
+      },
+      {
+        "id": 14,
+        "homeTeam": "Lugano",
+        "awayTeam": "Winterthur",
+        "insight": "Lugano to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Lugano edged out a 1-0 win against Winterthur. The match was a defensive battle, with Lugano managing to secure the solitary goal."
+      },
+      {
+        "id": 15,
+        "homeTeam": "Liverpool FC",
+        "awayTeam": "Newcastle United",
+        "insight": "Newcastle United to Win & Both Teams to Score",
+        "result": "success",
+        "score": "1-2",
+        "analysis": "In the Carabao Cup Final at Wembley, Newcastle United secured a 2-1 victory over Liverpool FC. Dan Burn's header just before halftime and Alexander Isak's goal in the 53rd minute gave Newcastle a strong lead. Despite a late goal from Federico Chiesa for Liverpool, Newcastle's resilient performance ensured they lifted the trophy, marking the end of a prolonged trophy drought."
+      },
+      {
+        "id": 16,
+        "homeTeam": "Sheffield Wednesday",
+        "awayTeam": "Sheffield United",
+        "insight": "Sheffield United to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "1-3",
+        "analysis": "In the Championship, Sheffield United emerged victorious in the Sheffield derby with a 3-1 win over Sheffield Wednesday. The match was intense, with both sides showing attacking intent, but Sheffield United's clinical finishing made the difference."
+      },
+      {
+        "id": 17,
+        "homeTeam": "Atalanta",
+        "awayTeam": "Inter Milan",
+        "insight": "Inter Milan to Win & Both Teams to Score",
+        "result": "success",
+        "score": "1-2",
+        "analysis": "In Serie A action, Inter Milan secured a 2-1 away victory against Atalanta. Both teams displayed attacking prowess, but Inter's experience and tactical discipline ensured they took all three points."
+      },
+      {
+        "id": 18,
+        "homeTeam": "Venezia",
+        "awayTeam": "SSC Napoli",
+        "insight": "SSC Napoli to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "0-3",
+        "analysis": "SSC Napoli continued their impressive form with a commanding 3-0 victory over Venezia. Napoli's attacking trio was in fine form, and their defense remained solid throughout the match."
+      },
+      {
+        "id": 19,
+        "homeTeam": "Genoa",
+        "awayTeam": "Lecce",
+        "insight": "Genoa to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Genoa edged out a narrow 1-0 victory against Lecce. The match was a tight affair, with both defenses performing well, but Genoa managed to find the decisive goal."
+      },
+      {
+        "id": 20,
+        "homeTeam": "Fiorentina",
+        "awayTeam": "Juventus",
+        "insight": "Juventus to Win & Both Teams to Score",
+        "result": "success",
+        "score": "1-2",
+        "analysis": "Juventus secured a 2-1 away win over Fiorentina. The match was competitive, with both teams creating chances, but Juventus's quality in the final third proved decisive."
+      },
+      {
+        "id": 21,
+        "homeTeam": "Bologna",
+        "awayTeam": "Lazio",
+        "insight": "Lazio to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "1-3",
+        "analysis": "Lazio continued their pursuit of a top-four finish with a 3-1 victory over Bologna. Lazio's attacking play was incisive, and they controlled the tempo of the match."
+      },
+      {
+        "id": 22,
+        "homeTeam": "Monza",
+        "awayTeam": "Parma Calcio 1913",
+        "insight": "Monza to Win & Under 2.5 Goals",
+        "result": "success",
+        "score": "1-0",
+        "analysis": "Monza secured a 1-0 victory over Parma Calcio 1913. The match was closely contested, but Monza's defense held firm, and they capitalized on a set-piece to score the only goal."
+      },
+      {
+        "id": 23,
+        "homeTeam": "Udinese",
+        "awayTeam": "Verona",
+        "insight": "Udinese to Win & Both Teams to Score",
+        "result": "success",
+        "score": "2-1",
+        "analysis": "Udinese claimed a 2-1 victory against Verona. Both teams were committed to attacking football, but Udinese's home advantage and clinical finishing secured the win."
+      },
+      {
+        "id": 24,
+        "homeTeam": "Torino",
+        "awayTeam": "Empoli",
+        "insight": "Torino to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "3-0",
+        "analysis": "Torino delivered a dominant performance with a 3-0 win over Empoli. They controlled possession and created numerous chances, reflecting their superiority throughout the match."
+      }
+    ]
+  },
+  
+    {
       "date": "March 15, 2025",
       "matches": [
         {
