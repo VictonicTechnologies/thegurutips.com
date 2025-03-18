@@ -1,5 +1,210 @@
 [
     {
+  "date": "March 17, 2025",
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "Tanzania",
+      "awayTeam": "Congo",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "0-0",
+      "analysis": "Tanzania and Congo played out a goalless draw in their CAF World Cup Qualifier match, with both teams unable to capitalize on scoring opportunities.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-17"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Finland U17 Women",
+      "awayTeam": "England U17 Women",
+      "insight": "England U17 Women to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "0-3",
+      "analysis": "England's U17 Women's team displayed a dominant performance, defeating Finland 3-0 in the UEFA Women's U17 EURO second qualifying round.",
+      "source": "https://www.englandfootball.com/articles/2025/Mar/06/england-national-football-squads-march-international-window-fixtures-information-20250603"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Brentford",
+      "insight": "Brentford to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-2",
+      "analysis": "Brentford secured a 2-1 victory over Bournemouth, complicating Bournemouth's aspirations for European competition.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Southampton",
+      "awayTeam": "Wolverhampton Wanderers",
+      "insight": "Southampton to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Jørgen Strand Larsen's return to form helped Southampton secure a 2-1 win over Wolves, boosting their league position.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 5,
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Arda Kardzhali",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-1",
+      "analysis": "Levski Sofia's title hopes dimmed after a 1-1 draw with Arda Kardzhali, who remain hopeful for Championship group qualification.",
+      "source": "https://www.thescottishsun.co.uk/sport/14502652/petko-ganchev-minutes-silence-alive-bulgaria/"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Nottingham Forest",
+      "awayTeam": "Ipswich Town",
+      "insight": "Nottingham Forest to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Nottingham Forest capitalized on Ipswich Town's lack of cohesion, securing a 3-1 victory and impacting Ipswich's survival hopes.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 7,
+      "homeTeam": "Fulham",
+      "awayTeam": "Tottenham Hotspur",
+      "insight": "Fulham to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Fulham's Willian delivered a standout performance, leading his team to a 2-0 victory over Tottenham Hotspur.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 8,
+      "homeTeam": "Manchester City",
+      "awayTeam": "Brighton & Hove Albion",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "Despite Omar Marmoush's impressive performance, Manchester City were held to a 2-2 draw by Brighton, highlighting defensive vulnerabilities.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Everton",
+      "awayTeam": "West Ham United",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-1",
+      "analysis": "Everton's ongoing struggle to balance attack and defense resulted in a 1-1 draw with West Ham United.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 10,
+      "homeTeam": "Union Berlin",
+      "awayTeam": "Bayern Munich",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-1",
+      "analysis": "Union Berlin held Bayern Munich to a 1-1 draw, narrowing Bayern's Bundesliga lead to six points.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/17/24387610/the-daily-bpw-show-march-17th-2025-bayern-munich-thomas-muller-vincent-kompany-hansi-flick-dortmund"
+    },
+    {
+      "id": 11,
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Borussia Dortmund",
+      "insight": "RB Leipzig to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "RB Leipzig's 2-1 victory over Borussia Dortmund impacted Dortmund's position in the title race.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/17/24387610/the-daily-bpw-show-march-17th-2025-bayern-munich-thomas-muller-vincent-kompany-hansi-flick-dortmund"
+    },
+    {
+      "id": 12,
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "VfL Bochum",
+      "insight": "Eintracht Frankfurt to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Eintracht Frankfurt secured a convincing 3-0 victory over VfL Bochum.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/17/24387610/the-daily-bpw-show-march-17th-2025-bayern-munich-thomas-muller-vincent-kompany-hansi-flick-dortmund"
+    },
+    {
+      "id": 13,
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "VfB Stuttgart",
+      "insight": "Bayer Leverkusen to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-3",
+      "analysis": "In a thrilling encounter, Bayer Leverkusen edged out VfB Stuttgart with a 4-3 victory.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/17/24387610/the-daily-bpw-show-march-17th-2025-bayern-munich-thomas-muller-vincent-kompany-hansi-flick-dortmund"
+    },
+    {
+      "id": 14,
+      "homeTeam": "Arsenal",
+      "awayTeam": "Chelsea",
+      "insight": "Arsenal to Win & Under 2.5",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Arsenal secured a narrow 1-0 victory over Chelsea, capitalizing on a goalkeeping error by Robert Sánchez, which raised concerns about his reliability.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 15,
+      "homeTeam": "Leicester City",
+      "awayTeam": "Manchester United",
+      "insight": "Manchester United to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "0-3",
+      "analysis": "Manchester United delivered a dominant performance against Leicester City, with Rasmus Højlund and Alejandro Garnacho ending their goal droughts in a 3-0 victory.",
+      "source": "https://www.theguardian.com/football/2025/mar/17/premier-league-talking-points-from-the-weekend-action"
+    },
+    {
+      "id": 18,
+      "homeTeam": "Trinidad and Tobago",
+      "awayTeam": "Cuba",
+      "insight": "Trinidad and Tobago to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Trinidad and Tobago showcased their attacking strength with a convincing 3-0 victory over Cuba in the CONCACAF Gold Cup Qualification.",
+      "source": "https://insights.betfred.com/football/fixtures/17-03-2025/"
+    },
+    {
+      "id": 19,
+      "homeTeam": "Guatemala",
+      "awayTeam": "Guyana",
+      "insight": "Guatemala to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-1",
+      "analysis": "Guatemala dominated their match against Guyana, securing a 4-1 win and demonstrating their offensive capabilities.",
+      "source": "https://insights.betfred.com/football/fixtures/17-03-2025/"
+    },
+    {
+      "id": 20,
+      "homeTeam": "Honduras",
+      "awayTeam": "Bermuda",
+      "insight": "Honduras to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Honduras emerged victorious with a 3-1 win over Bermuda, effectively controlling the match and advancing in the CONCACAF Gold Cup Qualification.",
+      "source": "https://insights.betfred.com/football/fixtures/17-03-2025/"
+    },
+    {
+      "id": 21,
+      "homeTeam": "Jamaica",
+      "awayTeam": "Saint Vincent and The Grenadines",
+      "insight": "Jamaica to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "5-0",
+      "analysis": "Jamaica delivered a dominant performance, defeating Saint Vincent and The Grenadines 5-0 in their CONCACAF Gold Cup Qualification match.",
+      "source": "https://insights.betfred.com/football/fixtures/17-03-2025/"
+    },
+    {
+      "id": 22,
+      "homeTeam": "Costa Rica",
+      "awayTeam": "Belize",
+      "insight": "Costa Rica to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-0",
+      "analysis": "Costa Rica showcased their superiority with a comprehensive 4-0 victory over Belize, advancing confidently in the CONCACAF Gold Cup Qualification.",
+      "source": "https://insights.betfred.com/football/fixtures/17-03-2025/"
+    } 
+  ]
+},
+    {
     "date": "March 16, 2025",
     "matches": [
       {
