@@ -1,66 +1,53 @@
 [
    {
-    "id": 1,
-    "homeTeam": "Manchester City",
-    "awayTeam": "Chelsea",
-    "date": "2025-03-19",
-    "time": "20:00",
-    "insight": "Manchester City to Win & Over 2.5 Goals",
-    "odds": "2.10",
-    "confidence": "65%",
-    "analysis": "City's strong home record suggests a high-scoring victory against Chelsea.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      "id": 1,
+      "homeTeam": "Denmark",
+      "awayTeam": "Portugal",
+      "date": "2025-03-20",
+      "time": "20:45",
+      "competition": "UEFA Nations League Quarter-final",
+      "insight": "Denmark to Win & Over 2.5 Goals",
+      "odds": "2.50",
+      "confidence": "55%",
+      "analysis": "Denmark's strong home form and attacking play suggest a high-scoring victory.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 2,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Spain",
+      "date": "2025-03-20",
+      "time": "20:45",
+      "competition": "UEFA Nations League Quarter-final",
+      "insight": "Draw & Over 2.5 Goals",
+      "odds": "3.20",
+      "confidence": "50%",
+      "analysis": "Both teams have attacking strengths, making a draw with goals likely.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
+    },
+    {
+      "id": 3,
+      "homeTeam": "Croatia",
+      "awayTeam": "France",
+      "date": "2025-03-20",
+      "time": "20:45",
+      "competition": "UEFA Nations League Quarter-final",
+      "insight": "Both Teams to Score",
+      "odds": "1.80",
+      "confidence": "60%",
+      "analysis": "Both teams have potent attacks, suggesting goals at both ends.",
+      "bookmaker": {
+        "name": "1xBet",
+        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+      }
     }
-  },
-  {
-    "id": 2,
-    "homeTeam": "Wolfsburg",
-    "awayTeam": "Barcelona",
-    "date": "2025-03-19",
-    "time": "18:45",
-    "insight": "Draw & Over 2.5 Goals",
-    "odds": "3.20",
-    "confidence": "50%",
-    "analysis": "Both teams have had mixed performances, making a draw with goals a plausible outcome.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-    }
-  },
-  {
-    "id": 3,
-    "homeTeam": "Blackburn Rovers",
-    "awayTeam": "Cardiff City",
-    "date": "2025-03-19",
-    "time": "20:00",
-    "insight": "Both Teams to Score",
-    "odds": "1.80",
-    "confidence": "60%",
-    "analysis": "Both teams have shown attacking intent, suggesting a game with goals at both ends.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-    }
-  },
-  {
-    "id": 4,
-    "homeTeam": "RB Leipzig",
-    "awayTeam": "Arsenal",
-    "date": "2025-03-19",
-    "time": "22:00",
-    "insight": "Leipzig to Win & Under 2.5 Goals",
-    "odds": "2.50",
-    "confidence": "55%",
-    "analysis": "Leipzig's defense will be key, making a low-scoring win the most likely result against Arsenal.",
-    "bookmaker": {
-      "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-    }
-  }
 ]
