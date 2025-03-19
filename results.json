@@ -1,5 +1,220 @@
 [
     {
+  "date": "March 18, 2025",
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "Real Madrid Femenino",
+      "awayTeam": "Arsenal Women",
+      "insight": "Real Madrid Femenino to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Real Madrid Femenino secured a 2-0 victory over Arsenal Women in the first leg of their Women's Champions League quarter-final. Goals from Linda Caicedo and Athenea del Castillo, coupled with a resilient defense, gave Madrid a significant advantage heading into the second leg.",
+      "source": "https://www.theguardian.com/football/2025/mar/18/womens-champion-league-quarter-final-real-madrid-arsenal-match-report"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Bayern Munich Ladies",
+      "awayTeam": "Lyon Féminines",
+      "insight": "Lyon Féminines to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Lyon Féminines demonstrated their dominance with a 2-0 away win against Bayern Munich Ladies in their Women's Champions League quarter-final match. Goals from Lindsey Heaps and Melchie Dumornay put Lyon in a strong position for the return leg.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/18/24388402/bayern-munich-vs-lyon-lineups-live-stream-how-to-watch-uwcl-champions-league-updates-highlights"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Rotherham United",
+      "awayTeam": "Wycombe Wanderers",
+      "insight": "Wycombe Wanderers to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-3",
+      "analysis": "In an exciting League One match, Wycombe Wanderers edged out Rotherham United with a 3-2 victory, showcasing their attacking prowess.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-18"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Altrincham",
+      "awayTeam": "Wealdstone",
+      "insight": "Wealdstone to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "0-1",
+      "analysis": "Wealdstone secured a narrow 1-0 victory over Altrincham in the National League, demonstrating a solid defensive performance.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-18"
+    },
+    {
+      "id": 5,
+      "homeTeam": "AFC Fylde",
+      "awayTeam": "Sutton United",
+      "insight": "Sutton United to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-2",
+      "analysis": "Sutton United came from behind to defeat AFC Fylde 2-1 in an engaging National League encounter.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-18"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Alfreton Town",
+      "awayTeam": "Darlington",
+      "insight": "Alfreton Town to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Alfreton Town secured a narrow 1-0 victory over Darlington in the National League North, demonstrating a solid defensive performance.",
+      "source": "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+    },
+    {
+      "id": 7,
+      "homeTeam": "St Albans City",
+      "awayTeam": "Hampton & Richmond",
+      "insight": "St Albans City to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "St Albans City showcased their attacking prowess with a 3-1 victory over Hampton & Richmond in the National League South.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-18"
+    },
+    {
+      "id": 8,
+      "homeTeam": "Welling United",
+      "awayTeam": "Hemel Hempstead Town",
+      "insight": "Hemel Hempstead Town to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-2",
+      "analysis": "Hemel Hempstead Town pulled off an upset with a 2-1 away win against Welling United in the National League South.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-18"
+    },
+    {
+      "id": 9,
+      "homeTeam": "South Shields",
+      "awayTeam": "Oxford City",
+      "insight": "South Shields to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-0",
+      "analysis": "South Shields dominated Oxford City with a 4-0 victory in the National League North, displaying exceptional offensive strength.",
+      "source": "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+    },
+    {
+      "id": 10,
+      "homeTeam": "Spennymoor Town",
+      "awayTeam": "Needham Market",
+      "insight": "Spennymoor Town to Win & Under 2.5 Goals",
+      "result": "failure",
+      "score": "2-2",
+      "analysis": "Spennymoor Town and Needham Market played out a 2-2 draw in the National League North, with both teams sharing the spoils.",
+      "source": "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+    },
+    {
+      "id": 11,
+      "homeTeam": "São Raimundo",
+      "awayTeam": "Amazonas",
+      "insight": "Amazonas to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-3",
+      "analysis": "Amazonas displayed a strong offensive performance, securing a 3-1 victory over São Raimundo in the Amazonense league.",
+      "source": "https://onefootball.com/en/matches"
+    },
+    {
+      "id": 12,
+      "homeTeam": "Parintins",
+      "awayTeam": "Sete",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "Parintins and Sete played out a 2-2 draw in the Amazonense league, with both teams sharing the points.",
+      "source": "https://onefootball.com/en/matches"
+    },
+    {
+      "id": 13,
+      "homeTeam": "Princesa",
+      "awayTeam": "Manaus",
+      "insight": "Manaus to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-4",
+      "analysis": "Manaus dominated the match against Princesa, achieving a convincing 4-1 victory in the Amazonense league.",
+      "source": "https://onefootball.com/en/matches"
+    },
+    {
+      "id": 14,
+      "homeTeam": "Manauara",
+      "awayTeam": "Nacional AM",
+      "insight": "Nacional AM to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-2",
+      "analysis": "In a thrilling encounter, Manauara edged out Nacional AM with a 3-2 win in the Amazonense league.",
+      "source": "https://onefootball.com/en/matches"
+    },
+    {
+      "id": 15,
+      "homeTeam": "Rochdale",
+      "awayTeam": "Boston United",
+      "insight": "Rochdale to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Rochdale secured a convincing 3-1 victory over Boston United in the National League, showcasing their offensive strength.",
+      "source": "https://fbref.com/en/matches/2025-03-18"
+    },
+    {
+      "id": 16,
+      "homeTeam": "Gateshead",
+      "awayTeam": "Braintree Town",
+      "insight": "Braintree Town to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-2",
+      "analysis": "Braintree Town pulled off an upset with a 2-1 away win against Gateshead in the National League.",
+      "source": "https://fbref.com/en/matches/2025-03-18"
+    },
+    {
+      "id": 17,
+      "homeTeam": "FC Halifax Town",
+      "awayTeam": "Dagenham & Redbridge",
+      "insight": "FC Halifax Town to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "FC Halifax Town secured a narrow 1-0 victory over Dagenham & Redbridge in the National League, demonstrating solid defensive performance.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-18"
+    },
+    {
+      "id": 18,
+      "homeTeam": "Maidenhead United",
+      "awayTeam": "Aldershot Town",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-1",
+      "analysis": "Maidenhead United and Aldershot Town played out a 1-1 draw in the National League, with both teams sharing the points.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-18"
+    },
+    {
+      "id": 19,
+      "homeTeam": "Curzon Ashton",
+      "awayTeam": "Radcliffe",
+      "insight": "Curzon Ashton to Win & Under 2.5 Goals",
+      "result": "failure",
+      "score": "2-1",
+      "analysis": "Curzon Ashton edged out Radcliffe with a 2-1 victory in the National League North, showcasing their resilience.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-18"
+    },
+    {
+      "id": 20,
+      "homeTeam": "Kidderminster Harriers",
+      "awayTeam": "Scunthorpe United",
+      "insight": "Kidderminster Harriers to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Kidderminster Harriers dominated Scunthorpe United with a 3-0 victory in the National League North, displaying offensive prowess.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-18"
+    },
+    {
+      "id": 21,
+      "homeTeam": "Dover Athletic",
+      "awayTeam": "Chatham Town",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "Dover Athletic and Chatham Town played out a 2-2 draw in the Isthmian League Premier Division, sharing the spoils.",
+      "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-18"
+    }
+  ]
+},
+    {
   "date": "March 17, 2025",
   "matches": [
     {
