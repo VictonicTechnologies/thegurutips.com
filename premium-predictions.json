@@ -1,378 +1,359 @@
 [
-    {
-      "id": 1,
-      "homeTeam": "Denmark",
-      "awayTeam": "Portugal",
-      "date": "2025-03-20",
-      "time": "20:45",
-      "competition": "UEFA Nations League Quarter-final",
-      "insight": "Denmark to Win & Over 2.5 Goals",
-      "odds": "2.50",
-      "confidence": "55%",
-      "analysis": "Denmark's strong home form and attacking play suggest a high-scoring victory.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 2,
-      "homeTeam": "Netherlands",
-      "awayTeam": "Spain",
-      "date": "2025-03-20",
-      "time": "20:45",
-      "competition": "UEFA Nations League Quarter-final",
-      "insight": "Draw & Over 2.5 Goals",
-      "odds": "3.20",
-      "confidence": "50%",
-      "analysis": "Both teams have attacking strengths, making a draw with goals likely.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 3,
-      "homeTeam": "Croatia",
-      "awayTeam": "France",
-      "date": "2025-03-20",
-      "time": "20:45",
-      "competition": "UEFA Nations League Quarter-final",
-      "insight": "Both Teams to Score",
-      "odds": "1.80",
-      "confidence": "60%",
-      "analysis": "Both teams have potent attacks, suggesting goals at both ends.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 4,
-      "homeTeam": "Italy",
-      "awayTeam": "Germany",
-      "date": "2025-03-20",
-      "time": "20:45",
-      "competition": "UEFA Nations League Quarter-final",
-      "insight": "Germany to Win & Under 2.5 Goals",
-      "odds": "2.80",
-      "confidence": "55%",
-      "analysis": "Germany's solid defense.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-        "id": 5,
-        "homeTeam": "Armenia",
-        "awayTeam": "Georgia",
-        "date": "2025-03-20",
-        "time": "17:00",
-        "competition": "UEFA Nations League",
-        "insight": "Armenia to Win & Over 2.5 Goals",
-        "odds": "3.70",
-        "confidence": "50%",
-        "analysis": "Armenia's attacking play suggests a high-scoring victory against Georgia.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 6,
-        "homeTeam": "Turkey",
-        "awayTeam": "Hungary",
-        "date": "2025-03-20",
-        "time": "17:00",
-        "competition": "UEFA Nations League",
-        "insight": "Turkey to Win & Under 2.5 Goals",
-        "odds": "1.78",
-        "confidence": "55%",
-        "analysis": "Turkey's solid defense and home advantage suggest a low-scoring win.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 7,
-        "homeTeam": "Austria",
-        "awayTeam": "Serbia",
-        "date": "2025-03-20",
-        "time": "19:45",
-        "competition": "UEFA Nations League",
-        "insight": "Draw & Over 2.5 Goals",
-        "odds": "3.50",
-        "confidence": "50%",
-        "analysis": "Both teams have attacking strengths, making a draw with goals likely.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 8,
-        "homeTeam": "Bulgaria",
-        "awayTeam": "Ireland",
-        "date": "2025-03-20",
-        "time": "19:45",
-        "competition": "UEFA Nations League",
-        "insight": "Bulgaria to Win & Under 2.5 Goals",
-        "odds": "3.35",
-        "confidence": "55%",
-        "analysis": "Bulgaria's strong home form suggests a low-scoring victory.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 9,
-        "homeTeam": "Greece",
-        "awayTeam": "Scotland",
-        "date": "2025-03-20",
-        "time": "19:45",
-        "competition": "UEFA Nations League",
-        "insight": "Greece to Win & Over 2.5 Goals",
-        "odds": "2.00",
-        "confidence": "60%",
-        "analysis": "Greece's attacking play suggests a high-scoring victory against Scotland.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 10,
-        "homeTeam": "Kosovo",
-        "awayTeam": "Iceland",
-        "date": "2025-03-20",
-        "time": "19:45",
-        "competition": "UEFA Nations League",
-        "insight": "Both Teams to Score",
-        "odds": "2.12",
-        "confidence": "55%",
-        "analysis": "Both teams have shown attacking intent, suggesting goals at both ends.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 11,
-        "homeTeam": "Slovakia",
-        "awayTeam": "Slovenia",
-        "date": "2025-03-20",
-        "time": "19:45",
-        "competition": "UEFA Nations League",
-        "insight": "Slovakia to Win & Under 2.5 Goals",
-        "odds": "2.16",
-        "confidence": "50%",
-        "analysis": "Slovakia's solid defense suggests a low-scoring victory.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      }, 
-      {
-        "id": 12,
-        "homeTeam": "Ukraine",
-        "awayTeam": "Belgium",
-        "date": "2025-03-20",
-        "time": "19:45",
-        "competition": "UEFA Nations League Quarter-final",
-        "insight": "Both Teams to Score",
-        "odds": "1.90",
-        "confidence": "60%",
-        "analysis": "Both teams have potent attacks, suggesting goals at both ends.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 13,
-        "homeTeam": "Paraguay",
-        "awayTeam": "Chile",
-        "date": "2025-03-20",
-        "time": "23:00",
-        "competition": "CONMEBOL World Cup Qualifier",
-        "insight": "Paraguay to Win & Under 2.5 Goals",
-        "odds": "2.10",
-        "confidence": "55%",
-        "analysis": "Paraguay's home advantage and solid defense suggest a low-scoring win.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 14,
-        "homeTeam": "Australia",
-        "awayTeam": "Indonesia",
-        "date": "2025-03-20",
-        "time": "09:10",
-        "competition": "AFC World Cup Qualifier",
-        "insight": "Australia to Win & Over 2.5 Goals",
-        "odds": "1.50",
-        "confidence": "60%",
-        "analysis": "Australia's strong squad and attacking play suggest a high-scoring victory.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 15,
-        "homeTeam": "Japan",
-        "awayTeam": "Bahrain",
-        "date": "2025-03-20",
-        "time": "10:35",
-        "competition": "AFC World Cup Qualifier",
-        "insight": "Japan to Win & Under 2.5 Goals",
-        "odds": "1.30",
-        "confidence": "55%",
-        "analysis": "Japan's dominant home form and solid defense suggest a low-scoring win.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-    },
-    {
-        "id": 16,
-        "homeTeam": "Mozambique",
-        "awayTeam": "Uganda",
-        "date": "2025-03-20",
-        "time": "15:00",
-        "competition": "FIFA World Cup Qualifier",
-        "insight": "Mozambique to Win & Under 2.5 Goals",
-        "odds": "2.50",
-        "confidence": "55%",
-        "analysis": "Mozambique's strong home form and Uganda's struggles suggest a low-scoring win.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 17,
-        "homeTeam": "Cape Verde",
-        "awayTeam": "Mauritius",
-        "date": "2025-03-20",
-        "time": "17:00",
-        "competition": "FIFA World Cup Qualifier",
-        "insight": "Cape Verde to Win & Over 2.5 Goals",
-        "odds": "1.90",
-        "confidence": "60%",
-        "analysis": "Cape Verde's home advantage and attacking play suggest a high-scoring win.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 18,
-        "homeTeam": "Sierra Leone",
-        "awayTeam": "Guinea-Bissau",
-        "date": "2025-03-20",
-        "time": "19:00",
-        "competition": "FIFA World Cup Qualifier",
-        "insight": "Draw & Under 2.5 Goals",
-        "odds": "3.30",
-        "confidence": "50%",
-        "analysis": "A tight match with both teams likely to struggle to score, making a draw possible.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 19,
-        "homeTeam": "Libya",
-        "awayTeam": "Angola",
-        "date": "2025-03-20",
-        "time": "20:00",
-        "competition": "FIFA World Cup Qualifier",
-        "insight": "Libya to Win & Over 2.5 Goals",
-        "odds": "2.80",
-        "confidence": "55%",
-        "analysis": "Libya's strong home form and Angola's defensive frailty suggest a high-scoring win for Libya.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 20,
-        "homeTeam": "Morocco U20",
-        "awayTeam": "Ghana U20",
-        "date": "2025-03-20",
-        "time": "20:30",
-        "competition": "AFCON U20 Preparation Match",
-        "insight": "Morocco U20 to Win & Under 2.5 Goals",
-        "odds": "2.10",
-        "confidence": "60%",
-        "analysis": "Morocco's young squad has shown promise, likely to secure a low-scoring victory.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 21,
-        "homeTeam": "Gambia",
-        "awayTeam": "Kenya",
-        "date": "2025-03-20",
-        "time": "16:00",
-        "competition": "FIFA World Cup Qualifier",
-        "insight": "Gambia to Win & Over 2.5 Goals",
-        "odds": "2.20",
-        "confidence": "60%",
-        "analysis": "Gambia's strong attacking play suggests a high-scoring victory over Kenya.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      },
-      {
-        "id": 22,
-        "homeTeam": "Zimbabwe",
-        "awayTeam": "Benin",
-        "date": "2025-03-20",
-        "time": "18:00",
-        "competition": "FIFA World Cup Qualifier",
-        "insight": "Zimbabwe to Win & Under 2.5 Goals",
-        "odds": "2.50",
-        "confidence": "55%",
-        "analysis": "Zimbabwe's home advantage and solid defense suggest a low-scoring win.",
-        "bookmaker": {
-          "name": "1xBet",
-          "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-          "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-        }
-      }
-
-  ]
-  
+  {
+    "id": 1,
+    "homeTeam": "England",
+    "awayTeam": "Albania",
+    "date": "2025-03-21",
+    "time": "19:45 GMT",
+    "competition": "FIFA 2026 World Cup Qualifier",
+    "insight": "England to Win & Over 2.5 Goals",
+    "odds": "1.50",
+    "confidence": "70%",
+    "analysis": "England's strong squad and home advantage make them favorites.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 2,
+    "homeTeam": "Brazil",
+    "awayTeam": "Colombia",
+    "date": "2025-03-21",
+    "time": "21:45 BRT",
+    "competition": "CONMEBOL World Cup Qualifier",
+    "insight": "Both Teams to Score",
+    "odds": "1.80",
+    "confidence": "65%",
+    "analysis": "Both teams have potent attacks and a history of high-scoring matches.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 3,
+    "homeTeam": "Ethiopia",
+    "awayTeam": "Egypt",
+    "date": "2025-03-21",
+    "time": "22:00 EAT",
+    "competition": "CAF World Cup Qualifier",
+    "insight": "Egypt to Win & Under 2.5 Goals",
+    "odds": "2.00",
+    "confidence": "60%",
+    "analysis": "Egypt's solid defense should keep the scoreline low.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 4,
+    "homeTeam": "Poland",
+    "awayTeam": "Lithuania",
+    "date": "2025-03-21",
+    "time": "20:45 CET",
+    "competition": "FIFA 2026 World Cup Qualifier",
+    "insight": "Poland to Win & Over 2.5 Goals",
+    "odds": "1.75",
+    "confidence": "65%",
+    "analysis": "Poland's superior squad quality gives them an edge.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 5,
+    "homeTeam": "Paraguay",
+    "awayTeam": "Chile",
+    "date": "2025-03-21",
+    "time": "00:00",
+    "competition": "CONMEBOL World Cup Qualifier",
+    "insight": "Draw & Under 2.5 Goals",
+    "odds": "3.10",
+    "confidence": "55%",
+    "analysis": "Both teams have solid defenses, making a low-scoring draw likely.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 6,
+    "homeTeam": "Peru",
+    "awayTeam": "Bolivia",
+    "date": "2025-03-21",
+    "time": "02:30",
+    "competition": "CONMEBOL World Cup Qualifier",
+    "insight": "Peru to Win & Over 2.5 Goals",
+    "odds": "1.90",
+    "confidence": "65%",
+    "analysis": "Peru's attacking strength at home should lead to a high-scoring victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 7,
+    "homeTeam": "Ecuador",
+    "awayTeam": "Venezuela",
+    "date": "2025-03-21",
+    "time": "22:00",
+    "competition": "CONMEBOL World Cup Qualifier",
+    "insight": "Ecuador to Win & Under 2.5 Goals",
+    "odds": "2.20",
+    "confidence": "60%",
+    "analysis": "Ecuador's strong defense suggests a low-scoring win.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 8,
+    "homeTeam": "Uruguay",
+    "awayTeam": "Argentina",
+    "date": "2025-03-21",
+    "time": "23:30",
+    "competition": "CONMEBOL World Cup Qualifier",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "1.95",
+    "confidence": "70%",
+    "analysis": "Both teams possess strong attacks, indicating a high-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 9,
+    "homeTeam": "Cyprus",
+    "awayTeam": "San Marino",
+    "date": "2025-03-21",
+    "time": "17:00",
+    "competition": "UEFA World Cup Qualifier",
+    "insight": "Cyprus to Win & Over 3.5 Goals",
+    "odds": "1.70",
+    "confidence": "75%",
+    "analysis": "Cyprus's superior quality should result in a high-scoring win.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 10,
+    "homeTeam": "Andorra",
+    "awayTeam": "Latvia",
+    "date": "2025-03-21",
+    "time": "20:45",
+    "competition": "UEFA World Cup Qualifier",
+    "insight": "Latvia to Win & Under 2.5 Goals",
+    "odds": "2.50",
+    "confidence": "60%",
+    "analysis": "Latvia's organized defense should secure a narrow victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 11,
+    "homeTeam": "England",
+    "awayTeam": "Albania",
+    "date": "2025-03-21",
+    "time": "19:45",
+    "competition": "FIFA 2026 World Cup Qualifier",
+    "insight": "England to Win & Over 2.5 Goals",
+    "odds": "1.50",
+    "confidence": "80%",
+    "analysis": "England's strong home record and attacking prowess suggest a high-scoring victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 12,
+    "homeTeam": "Malta",
+    "awayTeam": "Finland",
+    "date": "2025-03-21",
+    "time": "20:45",
+    "competition": "UEFA World Cup Qualifier",
+    "insight": "Finland to Win & Under 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "65%",
+    "analysis": "Finland's disciplined defense should secure a low-scoring win.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 13,
+    "homeTeam": "Romania",
+    "awayTeam": "Bosnia and Herzegovina",
+    "date": "2025-03-21",
+    "time": "20:45",
+    "competition": "UEFA World Cup Qualifier",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "2.00",
+    "confidence": "70%",
+    "analysis": "Both teams have strong offensive records, indicating a high-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 14,
+    "homeTeam": "Ghana",
+    "awayTeam": "Chad",
+    "date": "2025-03-21",
+    "time": "20:00 GMT",
+    "competition": "CAF World Cup Qualifier",
+    "insight": "Ghana to Win & Over 2.5 Goals",
+    "odds": "1.60",
+    "confidence": "68%",
+    "analysis": "Ghana's attacking prowess should secure a convincing win.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 15,
+    "homeTeam": "Burundi",
+    "awayTeam": "Côte d'Ivoire",
+    "date": "2025-03-21",
+    "time": "20:00 CAT",
+    "competition": "CAF World Cup Qualifier",
+    "insight": "Côte d'Ivoire to Win & Under 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "60%",
+    "analysis": "Côte d'Ivoire's defensive structure makes them favorites for a low-scoring win.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 16,
+    "homeTeam": "Djurgårdens IF",
+    "awayTeam": "KuPS",
+    "date": "2025-03-21",
+    "time": "08:00",
+    "competition": "Club Friendly",
+    "insight": "Djurgårdens IF to Win & Over 2.5 Goals",
+    "odds": "1.85",
+    "confidence": "70%",
+    "analysis": "Djurgårdens IF's strong home performance suggests a high-scoring victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://example.com/1xbet-logo.svg",
+      "link": "https://example.com/1xbet"
+    }
+  },
+  {
+    "id": 17,
+    "homeTeam": "Kalmar FF",
+    "awayTeam": "Halmstads BK",
+    "date": "2025-03-21",
+    "time": "10:00",
+    "competition": "Club Friendly",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "2.00",
+    "confidence": "65%",
+    "analysis": "Both teams have potent offenses, indicating a high-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://example.com/1xbet-logo.svg",
+      "link": "https://example.com/1xbet"
+    }
+  },
+  {
+    "id": 18,
+    "homeTeam": "Stjørdals-Blink",
+    "awayTeam": "Orkla",
+    "date": "2025-03-21",
+    "time": "12:00",
+    "competition": "Club Friendly",
+    "insight": "Stjørdals-Blink to Win & Over 2.5 Goals",
+    "odds": "1.90",
+    "confidence": "70%",
+    "analysis": "Stjørdals-Blink's superior form suggests a high-scoring victory.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://example.com/1xbet-logo.svg",
+      "link": "https://example.com/1xbet"
+    }
+  },
+  {
+    "id": 19,
+    "homeTeam": "Iwata",
+    "awayTeam": "Maruyasu Okazaki",
+    "date": "2025-03-21",
+    "time": "14:00",
+    "competition": "Club Friendly",
+    "insight": "Iwata to Win & Under 2.5 Goals",
+    "odds": "2.10",
+    "confidence": "65%",
+    "analysis": "Iwata's strong defense may lead to a low-scoring win.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://example.com/1xbet-logo.svg",
+      "link": "https://example.com/1xbet"
+    }
+  },
+  {
+    "id": 20,
+    "homeTeam": "Oddevold",
+    "awayTeam": "Qviding",
+    "date": "2025-03-21",
+    "time": "16:00",
+    "competition": "Club Friendly",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "odds": "1.95",
+    "confidence": "68%",
+    "analysis": "Both teams' attacking styles suggest a high-scoring match.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://example.com/1xbet-logo.svg",
+      "link": "https://example.com/1xbet"
+    }
+  },
+  {
+    "id": 21,
+    "homeTeam": "Västerås SK",
+    "awayTeam": "Brage",
+    "date": "2025-03-21",
+    "time": "18:00",
+    "competition": "Club Friendly",
+    "insight": "Draw & Under 2.5 Goals",
+    "odds": "3.00",
+    "confidence": "60%",
+    "analysis": "Both teams' defensive records point towards a low-scoring draw.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://example.com/1xbet-logo.svg",
+      "link": "https://example.com/1xbet"
+    }
+  }
+]
