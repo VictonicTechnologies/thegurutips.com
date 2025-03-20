@@ -1,53 +1,53 @@
 [
    {
-      "id": 1,
-      "homeTeam": "Denmark",
-      "awayTeam": "Portugal",
-      "date": "2025-03-20",
-      "time": "20:45",
-      "competition": "UEFA Nations League Quarter-final",
-      "insight": "Denmark to Win & Over 2.5 Goals",
-      "odds": "2.50",
-      "confidence": "55%",
-      "analysis": "Denmark's strong home form and attacking play suggest a high-scoring victory.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 2,
-      "homeTeam": "Netherlands",
-      "awayTeam": "Spain",
-      "date": "2025-03-20",
-      "time": "20:45",
-      "competition": "UEFA Nations League Quarter-final",
-      "insight": "Draw & Over 2.5 Goals",
-      "odds": "3.20",
-      "confidence": "50%",
-      "analysis": "Both teams have attacking strengths, making a draw with goals likely.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
-    },
-    {
-      "id": 3,
-      "homeTeam": "Croatia",
-      "awayTeam": "France",
-      "date": "2025-03-20",
-      "time": "20:45",
-      "competition": "UEFA Nations League Quarter-final",
-      "insight": "Both Teams to Score",
-      "odds": "1.80",
-      "confidence": "60%",
-      "analysis": "Both teams have potent attacks, suggesting goals at both ends.",
-      "bookmaker": {
-        "name": "1xBet",
-        "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
-        "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
-      }
+    "id": 1,
+    "homeTeam": "England",
+    "awayTeam": "Albania",
+    "date": "2025-03-21",
+    "time": "19:45 GMT",
+    "competition": "FIFA 2026 World Cup Qualifier",
+    "insight": "England to Win & Over 2.5 Goals",
+    "odds": "1.50",
+    "confidence": "70%",
+    "analysis": "England's strong squad and home advantage make them favorites.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
     }
+  },
+  {
+    "id": 2,
+    "homeTeam": "Brazil",
+    "awayTeam": "Colombia",
+    "date": "2025-03-21",
+    "time": "21:45 BRT",
+    "competition": "CONMEBOL World Cup Qualifier",
+    "insight": "Both Teams to Score",
+    "odds": "1.80",
+    "confidence": "65%",
+    "analysis": "Both teams have potent attacks and a history of high-scoring matches.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  },
+  {
+    "id": 3,
+    "homeTeam": "Ethiopia",
+    "awayTeam": "Egypt",
+    "date": "2025-03-21",
+    "time": "22:00 EAT",
+    "competition": "CAF World Cup Qualifier",
+    "insight": "Egypt to Win & Under 2.5 Goals",
+    "odds": "2.00",
+    "confidence": "60%",
+    "analysis": "Egypt's solid defense should keep the scoreline low.",
+    "bookmaker": {
+      "name": "1xBet",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
+    }
+  }
 ]
