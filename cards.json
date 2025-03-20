@@ -19,9 +19,9 @@
     "title": "Pro Football Odds",
     "price": "Ksh 100",
     "period": "per day",
-    "description": "Access 30+ accurate football odds daily, backed by expert analysis and verified match trends.",
+    "description": "Access 10+ accurate football odds daily, backed by expert analysis and verified match trends.",
     "features": [
-      "30+ football odds daily",
+      "10+ football odds daily",
       "Advanced match analysis",
       "Consistent win trends",
       "Verified historical data",
@@ -34,7 +34,7 @@
   },
   {
     "title": "Sportpesa Jackpot Predictions",
-    "price": "Ksh 200",
+    "price": "Ksh 150",
     "period": "per day",
     "description": "Get expertly analyzed jackpot predictions with verified performance trends to maximize accuracy.",
     "features": [
@@ -68,11 +68,11 @@
 },
   {
     "title": "Elite Football Predictions",
-    "price": "Ksh 250",
+    "price": "Ksh 200",
     "period": "per day",
-    "description": "Unlock 60+ exclusive predictions with premium match insights, deep statistical analysis, and expert recommendations.",
+    "description": "Unlock 20+ exclusive predictions with premium match insights, deep statistical analysis, and expert recommendations.",
     "features": [
-      "60+ premium predictions daily",
+      "20+ premium predictions daily",
       "In-depth match analysis",
       "Guaranteed high-accuracy insights",
       "Exclusive historical data",
