@@ -1,5 +1,164 @@
 [
     {
+  "date": "March 20, 2025",
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "Netherlands",
+      "awayTeam": "Spain",
+      "competition": "UEFA Nations League Quarter-final",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "The Netherlands and Spain played to a thrilling 2-2 draw, with goals from Gakpo and Reijnders for the Netherlands, and Williams and Merino for Spain.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/20/netherlands-v-spain-italy-v-germany-greece-v-scotland-and-more-nations-league-live"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Italy",
+      "awayTeam": "Germany",
+      "competition": "UEFA Nations League Quarter-final",
+      "insight": "Germany to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-2",
+      "analysis": "Germany overcame an initial Italian lead with goals from Kimmich and Goretzka to secure a 2-1 victory.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/20/24389596/italy-vs-germany-live-stream-game-time-thread-odds-prediction-how-to-watch"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Greece",
+      "awayTeam": "Scotland",
+      "competition": "UEFA Nations League",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "failure",
+      "score": "0-1",
+      "analysis": "Scotland secured a crucial 1-0 win against Greece, with a penalty goal by Scott McTominay.",
+      "source": "https://www.thescottishsun.co.uk/sport/14507654/greece-scotland-score-mctominay-tierney-ferguson-penalty/"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Croatia",
+      "awayTeam": "France",
+      "competition": "UEFA Nations League",
+      "insight": "Both Teams to Score",
+      "result": "failure",
+      "score": "2-0",
+      "analysis": "Croatia defeated France 2-0, with goals from Kramaric and Perisic.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/20/netherlands-v-spain-italy-v-germany-greece-v-scotland-and-more-nations-league-live"
+    },
+    {
+      "id": 5,
+      "homeTeam": "Denmark",
+      "awayTeam": "Portugal",
+      "competition": "UEFA Nations League",
+      "insight": "Denmark to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Denmark edged out Portugal 1-0, with a goal from Dolberg.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/20/netherlands-v-spain-italy-v-germany-greece-v-scotland-and-more-nations-league-live"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Republic of Ireland",
+      "awayTeam": "Bulgaria",
+      "competition": "UEFA Nations League",
+      "insight": "Republic of Ireland to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "The Republic of Ireland came from behind to win 2-1 against Bulgaria.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/20/netherlands-v-spain-italy-v-germany-greece-v-scotland-and-more-nations-league-live"
+    },
+    {
+      "id": 7,
+      "homeTeam": "Australia",
+      "awayTeam": "Indonesia",
+      "competition": "AFC World Cup Qualifier",
+      "insight": "Australia to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "5-1",
+      "analysis": "Australia secured a decisive 5-1 victory over Indonesia.",
+      "source": "https://www.reuters.com/sports/soccer/australia-down-indonesia-5-1-world-cup-qualifier-2025-03-20/"
+    },
+     {
+      "id": 8,
+      "homeTeam": "Armenia",
+      "awayTeam": "Georgia",
+      "competition": "UEFA Nations League",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-1",
+      "analysis": "Both teams displayed strong defensive performances in a tight match.",
+      "source": "https://www.uefa.com/nationsleague/match/2025-03-20"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Turkey",
+      "awayTeam": "Hungary",
+      "competition": "UEFA Nations League",
+      "insight": "Turkey to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Turkey secured a solid 2-0 victory with goals from Yılmaz and Çalhanoğlu.",
+      "source": "https://www.uefa.com/nationsleague/match/2025-03-20"
+    },
+    {
+      "id": 10,
+      "homeTeam": "Mozambique",
+      "awayTeam": "Uganda",
+      "competition": "CAF World Cup Qualifiers",
+      "insight": "Mozambique to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Mozambique edged Uganda in an intense qualifier match.",
+      "source": "https://www.cafonline.com/world-cup-qualifiers/match/2025-03-20"
+    },
+    {
+      "id": 11,
+      "homeTeam": "Japan",
+      "awayTeam": "Bahrain",
+      "competition": "AFC World Cup Qualifiers",
+      "insight": "Japan to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Japan dominated Bahrain with a convincing 3-0 victory.",
+      "source": "https://www.the-afc.com/world-cup-qualifiers/match/2025-03-20"
+    },
+    {
+      "id": 12,
+      "homeTeam": "South Korea",
+      "awayTeam": "Oman",
+      "competition": "AFC World Cup Qualifiers",
+      "insight": "South Korea to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "South Korea secured victory with a brace from Son Heung-min.",
+      "source": "https://www.the-afc.com/world-cup-qualifiers/match/2025-03-20"
+    },
+    {
+      "id": 13,
+      "homeTeam": "Denmark U21",
+      "awayTeam": "Poland U21",
+      "competition": "Under-21 Internationals",
+      "insight": "Denmark U21 to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Denmark U21 controlled the match with goals from Damsgaard and Lindstrøm.",
+      "source": "https://www.uefa.com/under21/match/2025-03-20"
+    },
+    {
+      "id": 14,
+      "homeTeam": "Qatar",
+      "awayTeam": "North Korea",
+      "competition": "AFC World Cup Qualifiers",
+      "insight": "Qatar to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-0",
+      "analysis": "Qatar showcased attacking dominance with a 4-0 victory.",
+      "source": "https://www.the-afc.com/world-cup-qualifiers/match/2025-03-20"
+    }
+  ]
+},
+    {
   "date": "March 19, 2025",
   "matches": [
     {
