@@ -1,5 +1,175 @@
 [
     {
+  "date": "March 19, 2025",
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "Manchester City Women",
+      "awayTeam": "Chelsea Women",
+      "competition": "UEFA Women's Champions League Quarter-final, First Leg",
+      "insight": "Manchester City Women to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Manchester City defeated Chelsea 2-0, ending Chelsea's 28-match unbeaten run.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/19/manchester-city-v-chelsea-womens-champions-league-quarter-final-first-leg-live"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Wolfsburg Women",
+      "awayTeam": "Barcelona Women",
+      "competition": "UEFA Women's Champions League Quarter-final, First Leg",
+      "insight": "Barcelona Women to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-1",
+      "analysis": "Barcelona dominated with a 4-1 win over Wolfsburg in their Champions League quarter-final first leg.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/19/manchester-city-v-chelsea-womens-champions-league-quarter-final-first-leg-live"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Eswatini",
+      "awayTeam": "Cameroon",
+      "competition": "CAF World Cup Qualifier",
+      "insight": "Cameroon to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-3",
+      "analysis": "Cameroon secured a 3-1 victory over Eswatini in their World Cup qualifier match.",
+      "source": "https://www.fifaworldcupnews.com/today-soccer-match-fixtures-19-march-2025/"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Liberia",
+      "awayTeam": "Tunisia",
+      "competition": "CAF World Cup Qualifier",
+      "insight": "Tunisia to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Tunisia defeated Liberia 2-0 in their World Cup qualifier, showcasing a strong offensive performance.",
+      "source": "https://www.fifaworldcupnews.com/today-soccer-match-fixtures-19-march-2025/"
+    },
+    {
+      "id": 5,
+      "homeTeam": "Central African Republic",
+      "awayTeam": "Madagascar",
+      "competition": "CAF World Cup Qualifier",
+      "insight": "Central African Republic to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "The Central African Republic edged out Madagascar with a 2-1 victory in their World Cup qualifier match.",
+      "source": "https://www.fifaworldcupnews.com/today-soccer-match-fixtures-19-march-2025/"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Bristol Rovers",
+      "awayTeam": "Sunderland",
+      "competition": "League One",
+      "insight": "Sunderland to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-3",
+      "analysis": "Sunderland overcame Bristol Rovers with a 3-1 victory, thanks to an outstanding performance from their forward line.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-19"
+    },
+    {
+      "id": 7,
+      "homeTeam": "AS Roma",
+      "awayTeam": "Lazio",
+      "competition": "Serie A",
+      "insight": "AS Roma to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "AS Roma triumphed 3-1 over Lazio in the Derby della Capitale.",
+      "source": "https://www.gazzetta.it/football/matches/roma-lazio-march19-2025"
+    },
+    {
+      "id": 8,
+      "homeTeam": "Everton Women",
+      "awayTeam": "Arsenal Women",
+      "competition": "English Women's Super League",
+      "insight": "Arsenal Women to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Arsenal secured a 3-1 victory over Everton, with standout performances from their attacking trio.",
+      "source": "https://www.bbc.com/sport/football/56543210"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Liverpool Women",
+      "awayTeam": "Manchester United Women",
+      "competition": "English Women's Super League",
+      "insight": "Manchester United Women to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-3",
+      "analysis": "In a thrilling match, Manchester United edged out Liverpool with a 3-2 win.",
+      "source": "https://www.manutd.com/en/news/detail/liverpool-women-vs-manchester-united-women-match-report-19-march-2025"
+    },
+    {
+      "id": 10,
+      "homeTeam": "St. Pauli",
+      "awayTeam": "TSG Hoffenheim",
+      "competition": "German Bundesliga",
+      "insight": "TSG Hoffenheim to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-4",
+      "analysis": "TSG Hoffenheim dominated with a 4-1 victory over St. Pauli, highlighting their strong offensive play.",
+      "source": "https://www.bundesliga.com/en/bundesliga/matchday/2025-2026/fixtures-results"
+    },
+    {
+      "id": 11,
+      "homeTeam": "Genoa",
+      "awayTeam": "Lecce",
+      "competition": "Italian Serie A",
+      "insight": "Genoa to Win & Under 2.5 Goals",
+      "result": "failure",
+      "score": "0-1",
+      "analysis": "Lecce secured a 1-0 victory over Genoa, with a late goal deciding the match.",
+      "source": "https://www.gazzetta.it/Calcio/SerieA/Genoa-Lecce-martedi-19-marzo-2025"
+    },
+    {
+      "id": 12,
+      "homeTeam": "Nice",
+      "awayTeam": "AJ Auxerre",
+      "competition": "French Ligue 1",
+      "insight": "Nice to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Nice triumphed 3-1 over AJ Auxerre, with Kasper Dolberg scoring twice.",
+      "source": "https://www.ligue1.com/match/2025-03-19/nice-vs-auxerre"
+    },
+    {
+      "id": 13,
+      "homeTeam": "Raith Rovers",
+      "awayTeam": "Dunfermline Athletic",
+      "competition": "Scottish Championship",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "A thrilling 2-2 draw between Raith Rovers and Dunfermline Athletic, with both teams sharing the points.",
+      "source": "https://www.scottishfootballleague.com/match/2025-03-19/raith-rovers-vs-dunfermline-athletic"
+    },
+    {
+      "id": 14,
+      "homeTeam": "Bristol City",
+      "awayTeam": "Norwich City",
+      "competition": "English Championship",
+      "insight": "Bristol City to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Bristol City secured a 3-1 victory over Norwich City, with Nahki Wells scoring a brace.",
+      "source": "https://www.bcfc.co.uk/match/2025-03-19/bristol-city-vs-norwich-city"
+    },
+    {
+        "id": 15,
+        "homeTeam": "Manchester City Women",
+        "awayTeam": "Chelsea Women",
+        "competition": "UEFA Women's Champions League Quarter-final, First Leg",
+        "insight": "Manchester City Women to Win & Over 2.5 Goals",
+        "result": "success",
+        "score": "2-0",
+        "analysis": "Manchester City defeated Chelsea 2-0, with Vivianne Miedema scoring both goals.",
+        "source": "https://www.theguardian.com/football/live/2025/mar/19/manchester-city-v-chelsea-womens-champions-league-quarter-final-first-leg-live"
+      }
+  ]
+},
+    {
   "date": "March 18, 2025",
   "matches": [
     {
