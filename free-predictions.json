@@ -1,52 +1,52 @@
 [
-   {
+  {
     "id": 1,
-    "homeTeam": "England",
-    "awayTeam": "Albania",
-    "date": "2025-03-21",
-    "time": "19:45 GMT",
-    "competition": "FIFA 2026 World Cup Qualifier",
-    "insight": "England to Win & Over 2.5 Goals",
-    "odds": "1.50",
-    "confidence": "70%",
-    "analysis": "England's strong squad and home advantage make them favorites.",
+    "homeTeam": "Luxembourg",
+    "awayTeam": "Sweden",
+    "date": "2025-03-22",
+    "time": "18:00 CET",
+    "competition": "International Friendly",
+    "insight": "Sweden to Win & Over 2.5 Goals",
+    "odds": "1.60",
+    "confidence": "75%",
+    "analysis": "Sweden's superior squad depth and recent form make them strong favorites against Luxembourg.",
     "bookmaker": {
       "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
       "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
     }
   },
   {
     "id": 2,
-    "homeTeam": "Brazil",
-    "awayTeam": "Colombia",
-    "date": "2025-03-21",
-    "time": "21:45 BRT",
-    "competition": "CONMEBOL World Cup Qualifier",
+    "homeTeam": "Azerbaijan",
+    "awayTeam": "Haiti",
+    "date": "2025-03-22",
+    "time": "21:45 AZT",
+    "competition": "International Friendly",
     "insight": "Both Teams to Score",
-    "odds": "1.80",
+    "odds": "1.85",
     "confidence": "65%",
-    "analysis": "Both teams have potent attacks and a history of high-scoring matches.",
+    "analysis": "Both teams have shown attacking prowess in recent fixtures, suggesting a high likelihood of goals from both sides.",
     "bookmaker": {
       "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
       "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
     }
   },
   {
     "id": 3,
-    "homeTeam": "Ethiopia",
-    "awayTeam": "Egypt",
-    "date": "2025-03-21",
-    "time": "22:00 EAT",
-    "competition": "CAF World Cup Qualifier",
-    "insight": "Egypt to Win & Under 2.5 Goals",
-    "odds": "2.00",
-    "confidence": "60%",
-    "analysis": "Egypt's solid defense should keep the scoreline low.",
+    "homeTeam": "Liechtenstein",
+    "awayTeam": "North Macedonia",
+    "date": "2025-03-22",
+    "time": "20:00 CET",
+    "competition": "FIFA 2026 World Cup Qualifier",
+    "insight": "North Macedonia to Win & Under 3.5 Goals",
+    "odds": "1.70",
+    "confidence": "70%",
+    "analysis": "North Macedonia's disciplined defense is expected to secure a win in a low-scoring match.",
     "bookmaker": {
       "name": "1xBet",
-      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/refs/heads/main/1xbet-logo.svg",
+      "logo": "https://raw.githubusercontent.com/derekkipkemoi/SmartScoreAnalysis.com/main/1xbet-logo.svg",
       "link": "https://refpa3740576.top/L?tag=d_4194864m_1599c_&site=4194864&ad=1599"
     }
   }
