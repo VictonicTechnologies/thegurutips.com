@@ -1,5 +1,197 @@
 [
     {
+  "date": "March 21, 2025",
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "Malta",
+      "awayTeam": "Finland",
+      "competition": "UEFA World Cup Qualifiers Group G",
+      "insight": "Finland to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Finland secured a 2-0 victory over Malta in their UEFA World Cup Qualifiers Group G match.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/europe/wc-qualifying-europe/malta/finland/4010395/"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Poland",
+      "awayTeam": "Lithuania",
+      "competition": "UEFA World Cup Qualifiers Group G",
+      "insight": "Poland to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Poland demonstrated their attacking prowess with a 3-1 win over Lithuania.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/europe/wc-qualifying-europe/poland/lithuania/4010396/"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Cyprus",
+      "awayTeam": "San Marino",
+      "competition": "UEFA World Cup Qualifiers Group H",
+      "insight": "Cyprus to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-0",
+      "analysis": "Cyprus dominated the match against San Marino, securing a convincing 4-0 victory.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/europe/wc-qualifying-europe/cyprus/san-marino/4010400/"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Romania",
+      "awayTeam": "Bosnia",
+      "competition": "UEFA World Cup Qualifiers Group H",
+      "insight": "Both Teams to Score",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Romania edged out Bosnia with a 2-1 victory in a closely contested match. Both teams displayed attacking intent, resulting in goals for each side.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/europe/wc-qualifying-europe/romania/bosnia-herzegovina/4010401/"
+    },
+    {
+      "id": 5,
+      "homeTeam": "Andorra",
+      "awayTeam": "Latvia",
+      "competition": "UEFA World Cup Qualifiers Group K",
+      "insight": "Latvia to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "0-1",
+      "analysis": "Latvia managed a narrow 1-0 victory over Andorra. ",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/europe/wc-qualifying-europe/andorra/latvia/4010405/"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Burkina Faso",
+      "awayTeam": "Djibouti",
+      "competition": "CAF World Cup Qualifiers Group A",
+      "insight": "Burkina Faso to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Burkina Faso showcased their dominance with a 3-0 win over Djibouti. ",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/burkina-faso/djibouti/4010410/"
+    },
+    {
+      "id": 7,
+      "homeTeam": "Ethiopia",
+      "awayTeam": "Egypt",
+      "competition": "CAF World Cup Qualifiers Group A",
+      "insight": "Egypt to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Egypt secured a 2-0 victory over Ethiopia.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/ethiopia/egypt/4010411/"
+    },
+    {
+      "id": 8,
+      "homeTeam": "England",
+      "awayTeam": "Albania",
+      "competition": "FIFA World Cup Qualifier",
+      "insight": "England to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "England secured a 2-0 victory over Albania in their World Cup 2026 qualifier.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/21/england-v-albania-world-cup-2026-qualifier-live"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Germany",
+      "awayTeam": "Italy",
+      "competition": "International Friendly",
+      "insight": "Germany to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Germany secured a 2-1 victory over Italy despite a slow start and some struggles with lineup selections.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/21/24386200/germany-italy-bayern-munich-tottenham-hotspur-atletico-madrid-liverpool-van-dijk-mls-kimmich-sane"
+    },
+    {
+      "id": 10,
+      "homeTeam": "England U21",
+      "awayTeam": "France U21",
+      "competition": "International Friendly",
+      "insight": "Both Teams to Score & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-5",
+      "analysis": "England U21 faced France in an action-packed.",
+      "source": "https://www.thetimes.co.uk/article/lee-carsley-england-u21-return-eight-goal-thriller-g7kltg6s9"
+    },
+    {
+      "id": 11,
+      "homeTeam": "Congo DR",
+      "awayTeam": "South Sudan",
+      "competition": "CAF World Cup Qualifiers Group B",
+      "insight": "Congo DR to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Congo DR showcased their dominance with a 3-0 victory over South Sudan. ",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/congo-dr/south-sudan/4010412/"
+    },
+    {
+      "id": 12,
+      "homeTeam": "South Africa",
+      "awayTeam": "Lesotho",
+      "competition": "CAF World Cup Qualifiers Group C",
+      "insight": "South Africa to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "South Africa secured a 2-0 win over Lesotho, demonstrating solid defensive play and effective attacking strategies.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/south-africa/lesotho/4010413/"
+    },
+    {
+      "id": 13,
+      "homeTeam": "Rwanda",
+      "awayTeam": "Nigeria",
+      "competition": "CAF World Cup Qualifiers Group C",
+      "insight": "Nigeria to Win & Under 2,5 Goals",
+      "result": "success",
+      "score": "0-1",
+      "analysis": "Nigeria managed a narrow 1-0 victory over Rwanda.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/rwanda/nigeria/4010414/"
+    },
+    {
+      "id": 14,
+      "homeTeam": "Niger",
+      "awayTeam": "Morocco",
+      "competition": "CAF World Cup Qualifiers Group E",
+      "insight": "Morocco to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-3",
+      "analysis": "Morocco displayed their attacking prowess with a 3-1 win over Niger.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/niger/morocco/4010415/"
+    },
+    {
+      "id": 15,
+      "homeTeam": "Burundi",
+      "awayTeam": "Côte d'Ivoire",
+      "competition": "CAF World Cup Qualifiers Group F",
+      "insight": "Côte d'Ivoire to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Côte d'Ivoire secured a 2-0 victory over Burundi.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/burundi/cote-divoire/4010416/"
+    },
+    {
+      "id": 16,
+      "homeTeam": "Botswana",
+      "awayTeam": "Algeria",
+      "competition": "CAF World Cup Qualifiers Group G",
+      "insight": "Algeria to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "0-3",
+      "analysis": "Algeria dominated the match against Botswana, securing a convincing 3-0 victory with a strong offensive display.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/botswana/algeria/4010417/"
+    },
+    {
+      "id": 17,
+      "homeTeam": "Guinea",
+      "awayTeam": "Somalia",
+      "competition": "CAF World Cup Qualifiers Group G",
+      "insight": "Guinea to Win & Under 3.5 goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Guinea secured a 2-0 win over Somalia.",
+      "source": "https://uk.soccerway.com/matches/2025/03/21/africa/wc-qualifying-africa/guinea/somalia/4010418/"
+    }
+  ]
+},
+    {
   "date": "March 20, 2025",
   "matches": [
     {
