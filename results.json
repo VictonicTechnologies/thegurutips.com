@@ -1,6 +1,221 @@
 [
     {
   "date": "March 21, 2025",
+  "matches":[
+    {
+      "id": 1,
+      "homeTeam": "Wales",
+      "awayTeam": "Kazakhstan",
+      "competition": "UEFA World Cup Qualifiers",
+      "insight": "Wales to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Wales secured a 3-1 victory over Kazakhstan in their World Cup qualifier.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/22/wales-v-kazakhstan-world-cup-qualifier-live"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "North Macedonia",
+      "competition": "UEFA World Cup Qualifiers",
+      "insight": "North Macedonia to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "North Macedonia achieved a 2-0 victory over Liechtenstein.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-22"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Montenegro",
+      "awayTeam": "Gibraltar",
+      "competition": "UEFA World Cup Qualifiers",
+      "insight": "Montenegro to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-0",
+      "analysis": "Montenegro dominated the match against Gibraltar, securing a convincing 4-0 victory.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-22"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Moldova",
+      "awayTeam": "Norway",
+      "competition": "UEFA World Cup Qualifiers",
+      "insight": "Norway to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Norway secured a 2-0 victory over Moldova, showcasing a strong defensive performance.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-22"
+    },
+    {
+      "id": 5,
+      "homeTeam": "Czech Republic",
+      "awayTeam": "Faroe Islands",
+      "competition": "UEFA World Cup Qualifiers",
+      "insight": "Czech Republic to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "The Czech Republic dominated the match, achieving a 3-0 victory over the Faroe Islands.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-22"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Israel",
+      "awayTeam": "Estonia",
+      "competition": "UEFA World Cup Qualifiers",
+      "insight": "Israel to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Israel demonstrated their attacking prowess with a 3-1 win over Estonia.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-22"
+    },
+    {
+      "id": 7,
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Sweden",
+      "competition": "International Friendly",
+      "insight": "Sweden to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "0-2",
+      "analysis": "Sweden secured a 2-0 victory over Luxembourg in their international friendly match.",
+      "source": "https://fbref.com/en/matches/2025-03-22"
+    },
+    {
+      "id": 8,
+      "homeTeam": "Togo",
+      "awayTeam": "Mauritania",
+      "competition": "CAF World Cup Qualifiers",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "Togo and Mauritania played to a 2-2 draw in their World Cup qualifier.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-22"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Sudan",
+      "awayTeam": "Senegal",
+      "competition": "CAF World Cup Qualifiers",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "0-0",
+      "analysis": "Sudan and Senegal played to a goalless draw, with both teams unable to break the deadlock.",
+      "source": "https://www.soccerbase.com/matches/results.sd?date=2025-03-22"
+    },
+    {
+      "id": 10,
+      "homeTeam": "Birmingham City",
+      "awayTeam": "Shrewsbury Town",
+      "competition": "EFL League One",
+      "insight": "Birmingham City to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Birmingham City secured a 2-0 victory over Shrewsbury Town.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 11,
+      "homeTeam": "Blackpool",
+      "awayTeam": "Bolton Wanderers",
+      "competition": "EFL League One",
+      "insight": "Blackpool to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Blackpool showcased their offensive strength with a 3-1 win over Bolton Wanderers.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+   
+    {
+      "id": 12,
+      "homeTeam": "Cambridge United",
+      "awayTeam": "Northampton Town",
+      "competition": "EFL League One",
+      "insight": "Cambridge United to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Cambridge United secured a 2-0 win over Northampton Town.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 13,
+      "homeTeam": "Charlton Athletic",
+      "awayTeam": "Huddersfield Town",
+      "competition": "EFL League One",
+      "insight": "Charlton Athletic to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Charlton Athletic managed a 2-1 victory against Huddersfield Town.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 14,
+      "homeTeam": "Exeter City",
+      "awayTeam": "Wrexham",
+      "competition": "EFL League One",
+      "insight": "Exeter City to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Exeter City clinched a 1-0 win over Wrexham.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 15,
+      "homeTeam": "Reading",
+      "awayTeam": "Peterborough United",
+      "competition": "EFL League One",
+      "insight": "Reading to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Reading dominated the match with a 3-0 victory over Peterborough United.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 16,
+      "homeTeam": "Rotherham United",
+      "awayTeam": "Crawley Town",
+      "competition": "EFL League One",
+      "insight": "Rotherham United to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Rotherham United secured a comfortable 2-0 win against Crawley Town.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 17,
+      "homeTeam": "Stockport County",
+      "awayTeam": "Burton Albion",
+      "competition": "EFL League One",
+      "insight": "Draw & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-1",
+      "analysis": "Stockport County and Burton Albion played to a 1-1 draw.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 18,
+      "homeTeam": "Wigan Athletic",
+      "awayTeam": "Barnsley",
+      "competition": "EFL League One",
+      "insight": "Barnsley to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "1-3",
+      "analysis": "Barnsley showcased their attacking prowess with a 3-1 victory over Wigan Athletic.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    },
+    {
+      "id": 19,
+      "homeTeam": "Wycombe Wanderers",
+      "awayTeam": "Lincoln City",
+      "competition": "EFL League One",
+      "insight": "Wycombe Wanderers to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Wycombe Wanderers managed a 2-1 win over Lincoln City in a tightly contested match.",
+      "source": "https://www.efl.com/match-hub/2025-03-22/"
+    }
+  ]
+},
+    {
+  "date": "March 21, 2025",
   "matches": [
     {
       "id": 1,
