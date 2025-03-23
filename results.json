@@ -4,6 +4,209 @@
   "matches":[
     {
       "id": 1,
+      "homeTeam": "Belgium",
+      "awayTeam": "Ukraine",
+      "competition": "UEFA Nations League",
+      "insight": "Belgium to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-0",
+      "analysis": "Belgium secured a 3-0 victory over Ukraine, retaining their spot in League A.",
+      "source": "https://www.reuters.com/sports/soccer/lukakus-late-double-leads-belgium-3-0-win-over-ukraine-retain-league-spot-2025-03-23/"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Scotland",
+      "awayTeam": "Greece",
+      "competition": "UEFA Nations League",
+      "insight": "Greece to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "0-3",
+      "analysis": "Greece secured a convincing 3-0 victory over Scotland, leading to Scotland's relegation from League A.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/23/scotland-v-greece-spain-v-netherlands-germany-v-italy-and-more-nations-league-football-live"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Germany",
+      "awayTeam": "Italy",
+      "competition": "UEFA Nations League",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-3",
+      "analysis": "In a thrilling match, Germany and Italy drew 3-3, with Germany advancing on aggregate.",
+      "source": "https://www.bavarianfootballworks.com/2025/3/23/24390841/germany-vs-italy-live-stream-game-time-thread-how-to-watch-uefa-nations-league"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Spain",
+      "awayTeam": "Netherlands",
+      "competition": "UEFA Nations League",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-3",
+      "analysis": "Spain and the Netherlands played to a 3-3 draw, with the match proceeding to penalties.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/23/scotland-v-greece-spain-v-netherlands-germany-v-italy-and-more-nations-league-football-live"
+    },
+    {
+      "id": 5,
+      "homeTeam": "France",
+      "awayTeam": "Croatia",
+      "competition": "UEFA Nations League",
+      "insight": "France to Win & Under 3.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "France defeated Croatia 2-0 in extra time, pushing the match to penalties.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/23/scotland-v-greece-spain-v-netherlands-germany-v-italy-and-more-nations-league-football-live"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Portugal",
+      "awayTeam": "Denmark",
+      "competition": "UEFA Nations League",
+      "insight": "Portugal to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "5-2",
+      "analysis": "Portugal secured a semi-final spot with a 5-2 extra-time victory over Denmark.",
+      "source": "https://www.theguardian.com/football/live/2025/mar/23/scotland-v-greece-spain-v-netherlands-germany-v-italy-and-more-nations-league-football-live"
+    },
+    {
+      "id": 7,
+      "homeTeam": "Republic of Ireland",
+      "awayTeam": "Bulgaria",
+      "competition": "UEFA Nations League",
+      "insight": "Republic of Ireland to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "The Republic of Ireland came from behind to beat Bulgaria 2-1, securing their spot in League B with a 4-2 aggregate win.",
+      "source": "https://www.reuters.com/sports/soccer/lukakus-late-double-leads-belgium-3-0-win-over-ukraine-retain-league-spot-2025-03-23/"
+    },
+    {
+      "id": 8,
+      "homeTeam": "Austin FC",
+      "awayTeam": "San Diego FC",
+      "competition": "MLS Regular Season",
+      "insight": "Austin FC to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-1",
+      "analysis": "Austin FC ended San Diego FC's unbeaten streak with a 2-1 victory at Q2 Stadium.",
+      "source": "https://as.com/us/futbol/austin-fc-acaba-con-el-invicto-de-san-diego-fc-en-mls-n/"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Philadelphia Union",
+      "awayTeam": "St. Louis City SC",
+      "competition": "MLS Regular Season",
+      "insight": "Philadelphia Union to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Philadelphia Union handed St. Louis City SC their first loss of the season with a 1-0 win. ",
+      "source": "https://www.thetelegraph.com/sports/article/stl-city-first-loss-philadelphia-union-20235884.php"
+    },
+    {
+      "id": 10,
+      "homeTeam": "Orlando City SC",
+      "awayTeam": "D.C. United",
+      "competition": "MLS Regular Season",
+      "insight": "Orlando City SC to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "4-1",
+      "analysis": "Orlando City SC secured a dominant 4-1 victory over D.C. United.",
+      "source": "https://www.starsandstripesfc.com/usmnt-news/2025/3/23/24391121/usa-usmnt-weekend-roundup-alex-freeman-big-night"
+    },
+    {
+      "id": 11,
+      "homeTeam": "Minnesota United FC",
+      "awayTeam": "LA Galaxy",
+      "competition": "MLS Regular Season",
+      "insight": "Minnesota United FC to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Minnesota United FC secured a narrow 1-0 victory over LA Galaxy, with the lone goal scored in the first half.",
+      "source": "https://www.espn.com/soccer/scoreboard/_/league/usa.1"
+    },
+    {
+      "id": 12,
+      "homeTeam": "Charlotte FC",
+      "awayTeam": "San Jose Earthquakes",
+      "competition": "MLS Regular Season",
+      "insight": "Charlotte FC to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "Charlotte FC dominated the match against San Jose Earthquakes, securing a 2-0 victory with goals in both halves.",
+      "source": "https://www.espn.com/soccer/scoreboard/_/league/usa.1"
+    },
+    {
+      "id": 13,
+      "homeTeam": "Columbus Crew",
+      "awayTeam": "New York City FC",
+      "competition": "MLS Regular Season",
+      "insight": "Columbus Crew to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-1",
+      "analysis": "Columbus Crew showcased a strong offensive performance, defeating New York City FC 3-1.",
+      "source": "https://www.espn.com/soccer/scoreboard/_/league/usa.1"
+    },
+    {
+      "id": 14,
+      "homeTeam": "New York Red Bulls",
+      "awayTeam": "Toronto FC",
+      "competition": "MLS Regular Season",
+      "insight": "New York Red Bulls to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "2-0",
+      "analysis": "New York Red Bulls secured a 2-0 victory over Toronto FC, with both goals scored in the second half.",
+      "source": "https://www.espn.com/soccer/scoreboard/_/league/usa.1"
+    },
+    {
+      "id": 15,
+      "homeTeam": "FC Cincinnati",
+      "awayTeam": "Atlanta United FC",
+      "competition": "MLS Regular Season",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "FC Cincinnati and Atlanta United FC played to an exciting 2-2 draw.",
+      "source": "https://www.espn.com/soccer/scoreboard/_/league/usa.1"
+    },
+    {
+      "id": 16,
+      "homeTeam": "Levante UD",
+      "awayTeam": "CD Castellón",
+      "competition": "LaLiga 2",
+      "insight": "Levante UD to Win & Over 2.5 Goals",
+      "result": "success",
+      "score": "3-2",
+      "analysis": "In a thrilling derby, Levante UD secured a 3-2 victory over CD Castellón.",
+      "source": "https://as.com/futbol/segunda/levante-castellon-en-directo-laliga-hypermotion-hoy-en-vivo-n/"
+    },
+    {
+      "id": 17,
+      "homeTeam": "RC Deportivo de La Coruña",
+      "awayTeam": "FC Cartagena",
+      "competition": "LaLiga 2",
+      "insight": "Draw & Over 2.5 Goals",
+      "result": "success",
+      "score": "2-2",
+      "analysis": "Deportivo managed to secure a 2-2 draw against FC Cartagena.",
+      "source": "https://cadenaser.com/galicia/2025/03/23/deportivo-cartagena-resultado-en-directo-del-partido-de-segunda-division-radio-coruna/"
+    },
+    {
+      "id": 18,
+      "homeTeam": "Burgos CF",
+      "awayTeam": "UD Almería",
+      "competition": "LaLiga 2",
+      "insight": "Burgos CF to Win & Under 2.5 Goals",
+      "result": "success",
+      "score": "1-0",
+      "analysis": "Burgos CF handed UD Almería a 1-0 defeat, adding to Almería's struggles in their pursuit of promotion. ",
+      "source": "https://cadenaser.com/andalucia/2025/03/23/rubi-sorprende-con-el-peor-almeria-ser-almeria/"
+    }
+  ]
+} ,
+    {
+  "date": "March 21, 2025",
+  "matches":[
+    {
+      "id": 1,
       "homeTeam": "Wales",
       "awayTeam": "Kazakhstan",
       "competition": "UEFA World Cup Qualifiers",
