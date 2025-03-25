@@ -1,5 +1,187 @@
 [
     {
+  "date": "March 24, 2025",
+  "matches":
+[
+  {
+    "id": 1,
+    "homeTeam": "England",
+    "awayTeam": "Latvia",
+    "competition": "UEFA World Cup Qualifiers",
+    "insight": "England to Win & Over 2.5 Goals",
+    "result": "success",
+    "score": "3-0",
+    "analysis": "England secured a 3-0 victory over Latvia in their World Cup 2026 qualifier.",
+    "source": "https://www.theguardian.com/football/live/2025/mar/24/england-v-latvia-world-cup-2026-qualifier-live"
+  },
+  {
+    "id": 2,
+    "homeTeam": "Germany",
+    "awayTeam": "Italy",
+    "competition": "UEFA Nations League",
+    "insight": "Both Teams to Score & Over 2.5 Goals",
+    "result": "success",
+    "score": "3-3",
+    "analysis": "Germany and Italy played to a thrilling 3-3 draw, with Germany advancing to the UEFA Nations League semifinals.",
+    "source": "https://www.bavarianfootballworks.com/2025/3/24/24389683/germany-italy-schick-bayer-leverkusen-rummenigge-kompany-real-madrid-kimmich-inter-ac-milan-juventus"
+  },
+  {
+    "id": 3,
+    "homeTeam": "Seattle Reign",
+    "awayTeam": "North Carolina Courage",
+    "competition": "NWSL",
+    "insight": "Seattle Reign to Win",
+    "result": "success",
+    "score": "2-1",
+    "analysis": "Despite missing key players, Seattle Reign secured a surprising 2-1 victory over North Carolina Courage.",
+    "source": "https://www.allforxi.com/2025/3/24/24392050/the-upset-of-the-week-how-the-seattle-reign-took-down-nc-courage-nwsl-national-womens-soccer-league"
+  },
+  {
+    "id": 4,
+    "homeTeam": "Lithuania",
+    "awayTeam": "Finland",
+    "competition": "UEFA World Cup Qualifiers",
+    "insight": "Finland to Win & Under 2.5 Goals",
+    "result": "success",
+    "score": "0-2",
+    "analysis": "Finland secured a 2-0 victory over Lithuania in their UEFA World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 6,
+    "homeTeam": "Namibia",
+    "awayTeam": "Equatorial Guinea",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Draw & Under 2.5 Goals",
+    "result": "success",
+    "score": "1-1",
+    "analysis": "Namibia and Equatorial Guinea played to a 1-1 draw in their CAF World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 7,
+    "homeTeam": "New Caledonia",
+    "awayTeam": "New Zealand",
+    "competition": "OFC World Cup Qualifiers",
+    "insight": "New Zealand to Win & Over 2.5 Goals",
+    "result": "success",
+    "score": "0-3",
+    "analysis": "New Zealand secured a 3-0 victory over New Caledonia in their OFC World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 8,
+    "homeTeam": "Central African Republic",
+    "awayTeam": "Mali",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Draw & Under 2.5 Goals",
+    "result": "success",
+    "score": "0-0",
+    "analysis": "The Central African Republic and Mali played to a goalless draw in their CAF World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 9,
+    "homeTeam": "Guinea-Bissau",
+    "awayTeam": "Burkina Faso",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Draw & Both Teams to Score",
+    "result": "success",
+    "score": "1-1",
+    "analysis": "Guinea-Bissau and Burkina Faso ended their CAF World Cup Qualifiers match in a 1-1 draw.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 10,
+    "homeTeam": "Liberia",
+    "awayTeam": "São Tomé e Príncipe",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Liberia to Win & Over 2.5 Goals",
+    "result": "success",
+    "score": "2-1",
+    "analysis": "Liberia secured a 2-1 victory over São Tomé e Príncipe in their CAF World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 11,
+    "homeTeam": "Côte d'Ivoire",
+    "awayTeam": "Gambia",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Côte d'Ivoire to Win & Over 2.5 Goals",
+    "result": "success",
+    "score": "3-0",
+    "analysis": "Côte d'Ivoire dominated Gambia with a 3-0 victory in their CAF World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 12,
+    "homeTeam": "Madagascar",
+    "awayTeam": "Ghana",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Ghana to Win & Under 3.5 Goals",
+    "result": "success",
+    "score": "0-2",
+    "analysis": "Ghana secured a 2-0 away victory over Madagascar in their CAF World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 13,
+    "homeTeam": "Ethiopia",
+    "awayTeam": "Djibouti",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Ethiopia to Win & Over 2.5 Goals",
+    "result": "success",
+    "score": "3-1",
+    "analysis": "Ethiopia emerged victorious with a 3-1 win over Djibouti in their CAF World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 14,
+    "homeTeam": "Tunisia",
+    "awayTeam": "Malawi",
+    "competition": "CAF World Cup Qualifiers",
+    "insight": "Tunisia to Win & Under 3.5 Goals",
+    "result": "success",
+    "score": "2-0",
+    "analysis": "Tunisia secured a 2-0 victory over Malawi in their CAF World Cup Qualifiers match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 15,
+    "homeTeam": "Italy U21",
+    "awayTeam": "Denmark U21",
+    "competition": "Under 21 Internationals",
+    "insight": "Draw & Under 2.5 Goals",
+    "result": "success",
+    "score": "0-0",
+    "analysis": "Italy U21 and Denmark U21 played to a goalless draw in their Under 21 International match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 16,
+    "homeTeam": "Hungary U21",
+    "awayTeam": "Republic of Ireland U21",
+    "competition": "Under 21 Internationals",
+    "insight": "Republic of Ireland U21 to Win & Over 2.5 Goals",
+    "result": "success",
+    "score": "1-2",
+    "analysis": "Republic of Ireland U21 secured a 2-1 away victory over Hungary U21 in their Under 21 International match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  },
+  {
+    "id": 17,
+    "homeTeam": "England U21",
+    "awayTeam": "Portugal U21",
+    "competition": "Under 21 Internationals",
+    "insight": "England U21 to Win & Over 2.5 Goals",
+    "result": "success",
+    "score": "3-1",
+    "analysis": "England U21 achieved a 3-1 victory over Portugal U21 in their Under 21 International match.",
+    "source": "https://www.sportinglife.com/football/fixtures-results/2025-03-24"
+  }
+]
+},
+    {
   "date": "March 23, 2025",
   "matches":[
     {
